@@ -36,8 +36,8 @@
   "homeVodName": "/@title",
   "homeVodId": "/@href",
   "homeVodIdR": "/(\\w+).htm",
-  "homeVodImg": "/img/@data-src",
-  "homeVodImgR": "\\S+(http\\S+)",
+  "homeVodImg": "/img/@src",
+  "homeVodImgR": "\\S+(https\\S+)",
   "homeVodMark": "/span[contains(@class,'ep')]/text()",
 
   "cateUrl": "https://www.btbdys.com/s/{cateId}/?tepy/{catePg}.htm",
@@ -46,7 +46,7 @@
   "cateVodId": "/@href",
   "cateVodIdR": "/(\\w+).htm",
   "cateVodImg": "/img/@src",
-  "cateVodImgR": "\\S+(http\\S+)",
+  "cateVodImgR": "\\S+(https\\S+)",
   "cateVodMark": "/span[contains(@class,'ep')]/text()",
 
   "dtUrl": "https://www.btbdys.com/{vid}.htm",
