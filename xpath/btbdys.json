@@ -4,7 +4,7 @@
  "cateManual": {
     "动作": "dongzuo",
     "爱情": "aiqing",
-    "喜剧": "xiju"
+    "喜剧": "/s/xiju"
   },
   "homeVodNode": "//div[contains(@class, 'pusher ui body')]//div[contains(@class,'ui seven')]/div[position() < 6]",
   "homeVodName": "/div[@class='content']/span/text()",
