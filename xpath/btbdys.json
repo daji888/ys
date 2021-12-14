@@ -2,9 +2,9 @@
   "ua":"",
   "homeUrl": "https://www.btbdys.com",
   "cateManual": {
-  "动作":"dongzuo",
-  "爱情":"aiqing",
-  "喜剧":"xiju",
+  "动作":"/s/dongzuo",
+  "爱情":"/s/aiqing",
+  "喜剧":"/s/xiju",
   "科幻":"kehuan",
   "恐怖":"kongbu",
   "战争":"zhanzheng",
