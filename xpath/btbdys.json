@@ -37,7 +37,7 @@
     "历史": "lishi",
     "运动": "yundong"
   },
-  "homeVodNode": "//div[contains(@class, 'pusher ui body')]//div[contains(@class,'ui seven')]/div[position() < 6]",
+  "homeVodNode": "//div[contains(@class, 'col-auto ms-auto d-print-none')]//div[contains(@class,'btn-list')]",
   "homeVodName": "/div[@class='content']/span/text()",
   "homeVodId": "/a[@class='image']/@href",
   "homeVodIdR": "/(\\S+).htm",
