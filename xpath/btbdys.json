@@ -43,7 +43,7 @@
   "homeVodIdR": "/(\\S+).htm",
   "homeVodImg": "@data-original",
   "homeVodImgR": "",
-  "homeVodMark": "concat(//span[@class='ep'],//span[@class='rate'])",
+  "homeVodMark": "",
   "cateUrl": "https://www.btbdys.com/s/{cateId}/{catePg}",
   "cateVodNode": "//div[contains(@class,'ui container')]/div[contains(@class,'ui eight doubling')]/div",
   "cateVodName": "/text()",
