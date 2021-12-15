@@ -37,7 +37,7 @@
     "历史": "lishi",
     "运动": "yundong"
   },
-  "homeVodNode": "//div[contains(@class, 'col-lg-12')]//div[contains(@class,'col-4 rows-md-7')]",
+  "homeVodNode": "//div[contains(@class, 'col-4 rows-md-7')]//div[contains(@class,'card card-sm card-link')]",
   "homeVodName": "/div[@class='content']/span/text()",
   "homeVodId": "/a[@class='image']/@href",
   "homeVodIdR": "/(\\S+).htm",
