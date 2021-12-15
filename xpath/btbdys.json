@@ -1,6 +1,11 @@
 {
   "ua": "",
   "homeUrl": "https://www.btbdys.com",
+   "dcVipFlag": "true",
+    "pCfgJs": "https://www.btbdys.com/static/js/playerconfig.js",
+    "pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
+    "dcShow2Vip": {},
+    "dcPlayUrl": "true",
  "cateManual": {
     "动作": "dongzuo",
     "爱情": "aiqing",
