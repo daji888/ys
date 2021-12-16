@@ -33,7 +33,7 @@
     "运动": "yundong"
   },
   "homeVodNode": "//div[contains(@class,'col-4 rows-md-7')]//div[contains(@class,'card card-sm card-link')]",
-  "homeVodName": "/h3[@class='card-title mb-0 text-truncate']/text()",
+  "homeVodName": "/h3[@class='text-muted']/text()",
   "homeVodId": "/@href",
   "homeVodIdR": "/(\\S+).htm",
   "homeVodImg": "@data-original",
@@ -41,7 +41,7 @@
   "homeVodMark": "",
   "cateUrl": "https://www.btbdys.com/s/{cateId}/{catePg}",
   "cateVodNode": "//div[contains(@class,'col-4 rows-md-7')]//div[contains(@class,'card card-sm card-link')]",
-  "cateVodName": "/h3[@class='card-title mb-0 text-truncate']/text()",
+  "cateVodName": "/h3[@class='text-muted']/text()",
   "cateVodId": "/@href",
   "cateVodIdR": "/(\\S+).htm",
   "cateVodImg": "@data-original",
