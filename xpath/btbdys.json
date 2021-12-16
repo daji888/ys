@@ -32,7 +32,7 @@
     "历史": "lishi",
     "运动": "yundong"
   },
-  "homeVodNode": "//div[contains(@class,'col-auto ms-auto d-print-none')]//div[contains(@class,'btn-list')]",
+  "homeVodNode": "//div[contains(@class,'d-sm-inline')]//div[contains(@class,'text-muted text-decoration-none')]",
   "homeVodName": "/text()",
   "homeVodId": "/@href",
   "homeVodIdR": "/(\\S+).htm",
@@ -40,7 +40,7 @@
   "homeVodImgR": "",
   "homeVodMark": "",
   "cateUrl": "https://www.btbdys.com/s/{cateId}/{catePg}",
-  "cateVodNode": "//div[contains(@class,'col-auto ms-auto d-print-none')]//div[contains(@class,'btn-list')]",
+  "cateVodNode": "//div[contains(@class,'d-sm-inline')]//div[contains(@class,'text-muted text-decoration-none')]",
   "cateVodName": "/text()",
   "cateVodId": "/@href",
   "cateVodIdR": "/(\\S+).htm",
