@@ -1,7 +1,7 @@
 {
   "ua": "",
   "homeUrl": "https://www.btbdys.com",
-  "cateNode": "//a[contains(@href,'/')]",
+  "cateNode": "//a[contains(@href,'/s/(\\w+)')]",
   "cateName": "/text()",
   "cateId": "/@href",
   "cateIdR": "/s/(\\w+)",
