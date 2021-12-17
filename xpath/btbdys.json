@@ -1,6 +1,10 @@
 {
   "ua": "",
   "homeUrl": "https://www.btbdys.com",
+  "cateNode": "//a/li[contains(@class,'nav-item')]/a[contains(@href, '/s')]",
+  "cateName": "/text()",
+  "cateId": "/@href",
+  "cateIdR": "/s/(\\w+)",
   "cateManual": {
     "动作": "dongzuo",
     "爱情": "aiqing",
