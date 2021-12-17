@@ -32,7 +32,7 @@
     "历史": "lishi",
     "运动": "yundong"
   },
-  "homeVodNode": "//div[contains(@class,'col-lg-12')]//div[contains(@class,'row row-cards')]//div[contains(@class,'col-4 rows-md-7')]//div[contains(@class,'card card-sm card-link')]",
+  "homeVodNode": "//div[contains(@class,'col-lg-12')]//div[contains(@class,'row row-cards')]//div[contains(@class,'col-4 rows-md-7')]//div[contains(@class,'card card-sm card-link')]/a",
   "homeVodName": "/text()",
   "homeVodId": "/@href",
   "homeVodIdR": "",
@@ -40,7 +40,7 @@
   "homeVodImgR": "",
   "homeVodMark": "",
   "cateUrl": "https://www.btbdys.com/s/{cateId}/{catePg}",
-  "cateVodNode": "//div[contains(@class,'col-lg-12')]//div[contains(@class,'row row-cards')]//div[contains(@class,'col-4 rows-md-7')]//div[contains(@class,'card card-sm card-link')]",
+  "cateVodNode": "//div[contains(@class,'col-lg-12')]//div[contains(@class,'row row-cards')]//div[contains(@class,'col-4 rows-md-7')]//div[contains(@class,'card card-sm card-link')]/a",
   "cateVodName": "/text()",
   "cateVodId": "/@href",
   "cateVodIdR": "",
