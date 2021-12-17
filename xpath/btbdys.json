@@ -1,7 +1,7 @@
 {
   "ua": "",
   "homeUrl": "https://www.btbdys.com",
-  "cateNode": "//li/a/span[contains(@class,'nav-link-title')]//a[contains(@class,'dropdown-item')]",
+  "cateNode": "//a/li/span[contains(@class,'nav-link-title')]//a[contains(@class,'dropdown-item')]",
   "cateName": "/text()",
   "cateId": "/@href",
   "cateIdR": "/s/(\\w+)",
