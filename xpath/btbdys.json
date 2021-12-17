@@ -4,7 +4,7 @@
   "cateNode": "//a/li[contains(@class,'nav-item')]/a[contains(@href,'/s')]",
   "cateName": "/text()",
   "cateId": "/@href",
-  "cateIdR": "/s/(\\w+)",
+  "cateIdR": "/s/(\\S+)",
   "cateManual": {},
   "homeVodNode": "//div[contains(@class,'col-4 rows-md-7')]//div[contains(@class,'card card-sm card-link')]",
   "homeVodName": "/text()",
