@@ -9,7 +9,7 @@
   "homeVodNode": "//div[contains(@class,'col-4 rows-md-7')]//div[contains(@class,'card card-sm card-link')]",
   "homeVodName": "/text()",
   "homeVodId": "/@href",
-  "homeVodIdR": "",
+  "homeVodIdR": "/(\\w+)/(\\d+).htm;jsessionid=El4hRC5rEBBhjH5PZurNhZkbafJetN4SuXzyQTOy",
   "homeVodImg": "/@data-original",
   "homeVodImgR": "",
   "homeVodMark": "",
