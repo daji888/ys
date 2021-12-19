@@ -33,7 +33,7 @@
   "dtDirector": "//div[@class='info0']/ul/li/a[contains(@href,'director')]/text()",
   "dtDesc": "substring-after(//div[@class='info0']//div[@class='summary']/html(), 'br>')",
   "dtFromNode": "//div[@class='card-header py-2']",
-  "dtFromName": "//h3/text()",
+  "dtFromName": "/h3/text()",
   "dtUrlNode": "//div[@class='d-flex']",
   "dtUrlSubNode": "/a",
   "dtUrlId": "@href",
