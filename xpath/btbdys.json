@@ -18,7 +18,7 @@
   "cateVodName": "//h3/text()",
   "cateVodId": "/@href",
   "cateVodIdR": "",
-  "cateVodImg": "/@data-original",
+  "cateVodImg": "//img/@data-original",
   "cateVodImgR": "\\S+(http\\S+)",
   "cateVodMark": "",
   "dtUrl": "https://www.btbdys.com/{vid}.htm",
