@@ -25,7 +25,7 @@
   "dtNode": "//div[contains(@class,'container-xl clear-padding-sm my-3 py-1')]",
   "dtName": "//h2/text()",
   "dtNameR": "",
-  "dtImg": "//div[@class='col-md-auto col-5 cover-lg-max-25']/img/@src",
+  "dtImg": "//img/@src",
   "dtImgR": "\\S+(http\\S+)",
   "dtCate": "//div[@class='info0']/ul/li/a[contains(@target,'new')]/text()",
   "dtArea": "//div[@class='info0']/ul/li/strong[contains(text(),'地区')]/parent::text()",
