@@ -22,7 +22,7 @@
   "cateVodImgR": "\\S+(http\\S+)",
   "cateVodMark": "",
   "dtUrl": "https://www.btbdys.com/{vid}.htm",
-  "dtNode": "//div[contains(@class,'ui container movie-info')]",
+  "dtNode": "//div[contains(@class,'col-md-auto col-5 cover-lg-max-25')]",
   "dtName": "/h2/text()",
   "dtNameR": ".+《(\\S+)》.+",
   "dtImg": "//div[@class='info0']/img/@src",
