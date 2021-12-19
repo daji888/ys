@@ -23,7 +23,7 @@
   "cateVodMark": "",
   "dtUrl": "https://www.btbdys.com/{vid}.htm",
   "dtNode": "//div[contains(@class,'col')]",
-  "dtName": "/h2/text()",
+  "dtName": "//div[@class='card']//div[@class='row align-items-center']//h2/text()",
   "dtNameR": "",
   "dtImg": "//div[@class='row mt-3']/div[@class='col-md-auto col-5 cover-lg-max-25']/img/@src",
   "dtImgR": "\\S+(http\\S+)",
