@@ -1,7 +1,6 @@
 {
   "ua": "",
   "homeUrl": "https://www.mp4er.cc",
-  "decodeTk": "填上猫大解密接口的口令，注意保密",
   "cateManual": {
    "动作":"dongzuo",
   "爱情":"aiqing",
@@ -67,5 +66,13 @@
   "dtUrlId": "@href",
   "dtUrlIdR": "/play/(\\S+).htm",
   "dtUrlName": "/text()",
-  "playUrl": "https://www.mp4er.cc/play/{playUrl}.htm"
+  "playUrl": "https://www.mp4er.cc/play/{playUrl}.htm",
+  "playUa": "",
+  "searchUrl": "https://www.mp4er.cc/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
+  "scVodNode": "json:list",
+  "scVodName": "name",
+  "scVodId": "id",
+  "scVodIdR": "",
+  "scVodImg": "pic",
+  "scVodMark": ""
 }
