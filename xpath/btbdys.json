@@ -20,7 +20,7 @@
   "cateVodIdR": "",
   "cateVodImg": "//img/@src",
   "cateVodImgR": "\\S+(http\\S+)",
-  "cateVodMark": "",
+  "cateVodMark": "//div[contains(@class,'ribbon ribbon-bookmark ribbon-top bg-azure p-0')]/text()",
   "dtUrl": "https://www.btbdys.com/{vid}.htm",
   "dtNode": "//div[contains(@class,'container-xl clear-padding-sm my-3 py-1')]",
   "dtName": "//div[contains(@class,'card-body')]//div[contains(@class,'row align-items-center')]//h2/text()",
