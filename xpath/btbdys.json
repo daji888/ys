@@ -23,7 +23,7 @@
   "cateVodMark": "//div[contains(@class,'ribbon ribbon-bookmark ribbon-top bg-azure p-0')]/text()",
   "dtUrl": "https://www.btbdys.com/{vid}.htm",
   "dtNode": "//div[contains(@class,'container-xl clear-padding-sm my-3 py-1')]",
-  "dtName": "//div[contains(@class,'card-body')]//div[contains(@class,'row align-items-center')]//h2/text()",
+  "dtName": "//h2[contains(@class,'d-sm-block d-md-none')]/text()",
   "dtNameR": "",
   "dtImg": "//div[contains(@class,'row mt-3')]/div[contains(@class,'col-md-auto col-5 cover-lg-max-25')]/img/@src",
   "dtImgR": "\\S+(http\\S+)",
