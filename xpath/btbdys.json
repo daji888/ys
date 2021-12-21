@@ -12,7 +12,7 @@
   "homeVodIdR": "/(\\S+).htm;jsessionid=(\\S+)",
   "homeVodImg": "//img/@data-src",
   "homeVodImgR": "\\S+(http\\S+)",
-  "homeVodMark": "concat(//div[contains(@class,'ribbon ribbon-bookmark ribbon-top bg-azure p-0')]/text(),//span[contains(@class,'badge bg-pink position-absolute top-0 start-0')]/text())",
+  "homeVodMark": "concat(//div[contains(@class,'ribbon ribbon-bookmark ribbon-top bg-azure p-0')]/text();,//span[contains(@class,'badge bg-pink position-absolute top-0 start-0')]/text())",
   "cateUrl": "https://www.btbdys.com/s/{cateId}/{catePg}",
   "cateVodNode": "//div[contains(@class,'col-lg-8 col-4')]//div[contains(@class,'card card-sm card-link')]",
   "cateVodName": "//h3/text()",
