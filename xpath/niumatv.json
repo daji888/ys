@@ -26,7 +26,7 @@
  "cateVodId": "/@href",
  "cateVodIdR": "/vod/(\\w+).html",
  "cateVodImg": "/@data-original",
- "cateVodMark":  "[contains(@class,'pic-text text-right')]/span/text()",
+ "cateVodMark":  "//span[contains(@class,'pic-text text-right')]/text()",
  "dtUrl": "http://www.niumatv.com/vod/{vid}.html",
   "dtNode": "//body",
   "dtName": "//header[@class='product-header']/img/@alt",
