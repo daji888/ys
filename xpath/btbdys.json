@@ -10,7 +10,7 @@
   "homeVodName": "//h3/text()",
   "homeVodId": "/@href",
   "homeVodIdR": "/(\\S+).htm;jsessionid=(\\S+)",
-  "homeVodImg": "//img/@data-original",
+  "homeVodImg": "//img/@data-src",
   "homeVodImgR": "\\S+(http\\S+)",
   "homeVodMark": "",
   "cateUrl": "https://www.btbdys.com/s/{cateId}/{catePg}",
