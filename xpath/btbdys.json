@@ -22,7 +22,7 @@
   "cateVodImgR": "\\S+(http\\S+)",
   "cateVodMark": "//div[contains(@class,'ribbon ribbon-bookmark ribbon-top bg-azure p-0')]/text()",
   "dtUrl": "https://www.btbdys.com/{vid}.htm",
-  "dtNode": "//div[contains(@class,'card')]//div[(@class='col')]",
+  "dtNode": "//div[contains(@class,'card')]//div[(contains@class,'col')]",
   "dtName": "//h1/text()",
   "dtNameR": ".+《(\\S+)》.+",
   "dtImg": "//div[contains(@class,'col-md-auto col-5 cover-lg-max-25')]/img/@src",
