@@ -20,7 +20,7 @@
   "cateVodIdR": "",
   "cateVodImg": "//img/@src",
   "cateVodImgR": "\\S+(http\\S+)",
-  "cateVodMark": "//div[contains(@class,'ribbon ribbon-bookmark ribbon-top bg-azure p-0')]/text()",
+  "cateVodMark": "concat(//div[contains(@class,'ribbon ribbon-bookmark ribbon-top bg-azure p-0')]/text(),//span[contains(@class,'badge bg-pink position-absolute top-0 start-0')]/text())",
   "dtUrl": "https://www.btbdys.com/{vid}.htm",
   "dtNode": "//div[contains(@class,'container-xl clear-padding-sm my-3 py-1')]//div[contains(@class,'page-header page-header-border mt-0')]",
   "dtName": "//h1/text()",
