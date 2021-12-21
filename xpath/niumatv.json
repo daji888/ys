@@ -51,7 +51,7 @@
   "dtFromName": "/text()",
  "dtUrlNode": "//div[contains(@class, 'tab-pane fade in  clearfix')]/ul",
  "dtUrlSubNode": "/li/a",
- "dtUrlId": "/@href",
+ "dtUrlId": "@href",
  "dtUrlIdR": "/play/(\\S+).html",
  "dtUrlName": "/text()",
  "playUrl": "http://www.niumatv.com/play/{playUrl}.html",
