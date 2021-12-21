@@ -19,7 +19,7 @@
  "homeVodId": "/@href",
  "homeVodIdR": "/vod/(\\w+).html",
  "homeVodImg": "/@data-original",
- "homeVodMark":  "//span/text()",
+ "homeVodMark":  "//span[contains(@class,'pic-text text-right')]/text()",
  "cateUrl": "http://www.niumatv.com/type/{cateId}-{catePg}.html",
  "cateVodNode": "//ul[contains(@class, 'stui-vodlist clearfix')]/li/div[contains(@class, 'stui-vodlist__box')]/a",
  "cateVodName": "/@title",
