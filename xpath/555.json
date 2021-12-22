@@ -23,7 +23,7 @@
 	"homeVodIdR": "/voddetail/(\\S+).html",
 	"homeVodImg": "/a/@data-original",
 	"homeVodImgR": "\\S+(http\\S+)",
-	"homeVodMark": "/a/span[contains(@class,'pic-text')]/text()",
+	"homeVodMark": "concat(/a/span[contains(@class,'pic-text')]/text(),/a/span[@class='tag']/text())",
 	"cateUrl": "https://www.o8tv.com/vodshow/{cateId}--------{catePg}---2021.html",
 	"cateVodNode": "//div[contains(@class, 'myui-vodlist__box')]",
 	"cateVodName": "/a/@title",
