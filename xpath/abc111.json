@@ -37,7 +37,7 @@
   "homeVodName": "//span[contains(@class,'header')]/text()",
   "homeVodId": "/@href",
   "homeVodIdR": "/(\\S+).htm",
-  "homeVodImg": "//img/@data-src",
+  "homeVodImg": "/img/@data-src",
   "homeVodImgR": "\\S+(http\\S+)",
   "homeVodMark": "concat(//span[@class='ep'],//span[@class='rate'])",
   "cateUrl": "https://www.mp4er.cc/s/{cateId}/{catePg}",
