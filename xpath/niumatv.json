@@ -47,7 +47,7 @@
   "dtDirectorR": "",
   "dtDesc": "//div[contains(@class, 'product-excerpt') and contains(text(), '简介')]/span/text()",
   "dtDescR": "",
-  "dtFromNode": "//div[contains(@class, 'stui-pannel__head bottom-line active dpplay clearfix')]/h3",
+  "dtFromNode": "//div[contains(@class, 'stui-pannel__head bottom-line active dpplay clearfix')]/h3/a/ul/li/a",
   "dtFromName": "/text()",
  "dtUrlNode": "//div[contains(@class, 'tab-content stui-pannel_bd col-pd maxheight clearfix')]//ul[contains(@class, 'stui-content__playlist clearfix sort-list')]",
  "dtUrlSubNode": "/li/a",
