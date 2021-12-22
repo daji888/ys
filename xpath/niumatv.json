@@ -50,7 +50,7 @@
   "dtFromNode": "//a[@data-toggle='tab' and contains(@href, 'playlist')]",
   "dtFromName": "/text()",
  "dtUrlNode": "//div[contains(@class,'tab-content')]/div[contains(@id, 'playlist')]",
- "dtUrlSubNode": "/li/a",
+ "dtUrlSubNode": "//li/a",
  "dtUrlId": "@href",
  "dtUrlIdR": "/play/(\\S+).html",
  "dtUrlName": "/text()",
