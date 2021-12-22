@@ -36,7 +36,7 @@
   "homeVodNode": "//div[contains(@class,'card')]/a",
   "homeVodName": "//span[contains(@class,'header')]/text()",
   "homeVodId": "/@href",
-  "homeVodIdR": "/(\\S+).htm",
+  "homeVodIdR": "/(\\S+).htm;jsessionid=(\\S+)",
   "homeVodImg": "/img/@data-src",
   "homeVodImgR": "\\S+(http\\S+)",
   "homeVodMark": "concat(//span[@class='ep'],//span[@class='rate'])",
