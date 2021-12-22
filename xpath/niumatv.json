@@ -28,7 +28,7 @@
  "cateVodImg": "/a/@data-original",
  "cateVodMark":  "concat(//span[contains(@class,'pic-text1 text-right')]/b/text(),//span[contains(@class,'pic-text text-right')]/b/text())",
  "dtUrl": "http://www.niumatv.com/vod/{vid}.html",
-  "dtNode": "//div[contains(@class,'stui-pannel clearfix')]",
+  "dtNode": "//div[contains(@class,'stui-pannel')]",
   "dtName": "//div[@class='stui-content__thumb']/a[contains(@class,'pic')]/@title",
   "dtNameR": "",
   "dtImg": "//div[@class='stui-content__thumb']/a[contains(@class,'pic')]/img/@data-original",
