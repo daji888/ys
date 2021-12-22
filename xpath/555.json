@@ -15,8 +15,7 @@
 		"电影": "1",
 		"连续剧": "2",
 		"综艺": "3",
-		"动漫": "4",
-		"电视直播": "http://live.555dy0.com/"
+		"动漫": "4"
 	},
 	"homeVodNode": "//ul[contains(@class, 'myui-vodlist')]/li/div[contains(@class, 'myui-vodlist__box')]",
 	"homeVodName": "/a/@title",
