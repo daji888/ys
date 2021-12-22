@@ -49,7 +49,7 @@
   "dtDescR": "",
   "dtFromNode": "//div[contains(@class, 'stui-pannel__head bottom-line active dpplay clearfix')]/h3/a/ul[contains(@class, 'nav nav-tabs  dpplay pull-right')]/li/a",
   "dtFromName": "/text()",
- "dtUrlNode": "//div[contains(@class, 'tab-pane fade in  clearfix')]/ul[contains(@class, 'stui-content__playlist clearfix sort-list')]",
+ "dtUrlNode": "//div[contains(@class, 'tab-content stui-pannel_bd col-pd maxheight clearfix')]/div[contains(@class, 'tab-pane fade in  clearfix')]/ul[contains(@class, 'stui-content__playlist clearfix sort-list')]",
  "dtUrlSubNode": "/li/a",
  "dtUrlId": "@href",
  "dtUrlIdR": "/play/(\\S+).html",
