@@ -31,7 +31,7 @@
 	"cateVodIdR": "/voddetail/(\\S+).html",
 	"cateVodImg": "/a/@data-original",
 	"cateVodImgR": "\\S+(http\\S+)",
-	"cateVodMark": "/a/span[contains(@class,'pic-text')]/text()",
+	"cateVodMark": "concat(//span[contains(@style,'background-color')]/text(),/a/span[@class='pic-text text-right']/text())",
 	"dtUrl": "https://www.o8tv.com/voddetail/{vid}.html",
 	"dtNode": "//body",
 	"dtName": "//div[@class='myui-content__thumb']/a[contains(@class,'myui-vodlist__thumb')]/@title",
