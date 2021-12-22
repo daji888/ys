@@ -51,7 +51,7 @@
   "dtFromName": "/text()",
   "dtFromNameR": "",
  "dtUrlNode": "//ul[contains(@class,'stui-content__playlist')]",
- "dtUrlSubNode": "//li/a",
+ "dtUrlSubNode": "/li/a",
  "dtUrlId": "@href",
  "dtUrlIdR": "/play/(\\S+).html",
  "dtUrlName": "/text()",
