@@ -50,7 +50,7 @@
 	"dtActorR": "",
 	"dtDirector": "//div[@class='myui-content__detail']//span[contains(@class,'text-muted') and contains(text(), '导演')]/following-sibling::*/text()",
 	"dtDirectorR": "",
-	"dtDesc": "//div[@class='col-pd text-collapse content']//span[contains(@class,'data')/p/text()",
+	"dtDesc": "//div[@class='col-pd text-collapse content']/span[contains(@class,'data')/p/text()",
 	"dtDescR": "",
 	"dtFromNode": "//a[@data-toggle='tab' and contains(@href, 'playlist')]",
 	"dtFromName": "/text()",
