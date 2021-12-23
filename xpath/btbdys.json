@@ -17,7 +17,7 @@
   "cateVodNode": "//div[contains(@class,'col-lg-8 col-4')]//div[contains(@class,'card card-sm card-link')]",
   "cateVodName": "//h3/text()",
   "cateVodId": "/a/@href",
-  "cateVodIdR": "",
+  "cateVodIdR": "/(\\S+).htm;jsessionid=(\\S+)",
   "cateVodImg": "/a/img/@src",
   "cateVodImgR": "\\S+(http\\S+)",
   "cateVodMark": "concat(//div[contains(@class,'ribbon ribbon-bookmark ribbon-top bg-azure p-0')]/text(),//span[contains(@class,'badge bg-pink position-absolute top-0 start-0')]/text())",
