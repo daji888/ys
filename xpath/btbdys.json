@@ -35,7 +35,7 @@
   "dtFromNode": "//div[@class='card-header py-2']",
   "dtFromName": "/h3/text()",
   "dtUrlNode": "//div[contains(@id,'play-list')]",
-  "dtUrlSubNode": "/a",
+  "dtUrlSubNode": "//a",
   "dtUrlId": "@href",
   "dtUrlIdR": "/play/(\\S+).htm",
   "dtUrlName": "/text()",
