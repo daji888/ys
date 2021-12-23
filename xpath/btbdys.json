@@ -6,7 +6,7 @@
   "cateId": "/@href",
   "cateIdR": "/s/(\\w+)",
   "cateManual": {},
-  "homeVodNode": "//div[contains(@class,'col-4 rows-md-7')]",
+  "homeVodNode": "//div[contains(@class,'col-4 rows-md-7')]//div[contains(@class,'card card-sm card-link')]",
   "homeVodName": "//h3/text()",
   "homeVodId": "/a/@href",
   "homeVodIdR": "/(\\S+).htm;jsessionid=(\\S+)",
