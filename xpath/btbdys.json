@@ -29,7 +29,7 @@
   "dtImgR": "\\S+(http\\S+)",
   "dtCate": "//div[@class='col mb-2']/p/a[contains(@target,'new')]/text()",
   "dtArea": "//div[@class='col mb-2']//strong[contains(text(),'地区')]/parent::text()",
-  "dtActor": "//div[@class='col mb-2']//a[contains(@class,'text-decoration-none text-reset me-2')]/following-sibling::*/text()",
+  "dtActor": "//div[@class='col mb-2']//strong/a[contains(@class,'text-decoration-none text-reset me-2')]/following-sibling::*/text()",
   "dtDirector": "//div[@class='col mb-2']//a[contains(@href,'director')]/text()",
   "dtDesc": "//div[@id='synopsis']/div[@class='card-header py-2']/h3[@class='card-title']/text()",
   "dtFromNode": "//div[@class='card mt-3']",
