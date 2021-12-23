@@ -32,7 +32,7 @@
   "dtActor": "//div[@class='col mb-2']/a[contains(@href,'performer')]/following-sibling::*/text()",
   "dtDirector": "//div[@class='col mb-2']/a[contains(@href,'director')]/text()",
   "dtDesc": "//div[@class='col mb-2']//h3[@class='card-title']/text())",
-  "dtFromNode": "//div[@class='card-header py-2']",
+  "dtFromNode": "//div[@class='card mt-3']/div[@class='card-header py-2']",
   "dtFromName": "/h3/text()",
   "dtUrlNode": "//div[contains(@class,'d-flex')]",
   "dtUrlSubNode": "/a",
