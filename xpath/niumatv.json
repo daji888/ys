@@ -45,7 +45,7 @@
   "dtActorR": "",
   "dtDirector": "//div[@class='stui-content__detail']//p[contains(@class,'data') and contains(text(), '导演')]/following-sibling::*/text()",
   "dtDirectorR": "",
-  "dtDesc": "//span[contains(@styles,'display')]/text()",
+  "dtDesc": "//div[@class='stui-content__detail']//span[contains(@styles,'display')]/text()",
   "dtDescR": "",
   "dtFromNode": "//ul[contains(@class,'nav-tabs')]/li/a",
   "dtFromName": "/text()",
