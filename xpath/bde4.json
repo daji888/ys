@@ -31,7 +31,7 @@
   "dtArea": "//div[@class='col mb-2']//strong[contains(text(),'地区')]/parent::text()",
   "dtActor": "//div[@class='col mb-2']//a[contains(@href,'performer')]/text()",
   "dtDirector": "//div[@class='col mb-2']//a[contains(@href,'director')]/text()",
-  "dtDesc": "//div[@class='card collapse']//div[@class='card-body']/text()'",
+  "dtDesc": "//div[@class='card collapse']//h3/div[@class='card-body']/text()'",
   "dtFromNode": "//div[@class='card mt-3']",
   "dtFromName": "//h3/text()",
   "dtUrlNode": "//div[contains(@id,'play-list')]",
