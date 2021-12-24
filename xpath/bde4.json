@@ -22,7 +22,7 @@
   "cateVodImgR": "\\S+(http\\S+)",
   "cateVodMark": "concat(//div[contains(@class,'ribbon ribbon-bookmark ribbon-top bg-azure p-0')]/text(),//span[contains(@class,'badge bg-pink position-absolute top-0 start-0')]/text())",
   "dtUrl": "https://www.btbdys.com/{vid}.htm",
-  "dtNode": "//div[contains(@class,'card')]",
+  "dtNode": "//body",
   "dtName": "//h2/text()",
   "dtNameR": "",
   "dtImg": "//div[contains(@class,'col-md-auto col-5 cover-lg-max-25')]/img/@src",
