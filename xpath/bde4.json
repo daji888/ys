@@ -31,7 +31,7 @@
   "dtArea": "//div[@class='col mb-2']//strong[contains(text(),'地区')]/parent::text()",
   "dtActor": "//div[@class='col mb-2']//a[contains(@href,'performer')]/text()",
   "dtDirector": "//div[@class='col mb-2']//a[contains(@href,'director')]/text()",
-  "dtDesc": "substring-after(//div[@class='col mb-2']//div[@class='card-body']/html(), 'br>')",
+  "dtDesc": "substring-after(//div[@class='col mb-2']//button[@class='btn btn-sm btn-danger position-absolute bottom-0 end-0']/html(), 'br>')",
   "dtFromNode": "//div[@class='card mt-3']",
   "dtFromName": "//h3/text()",
   "dtUrlNode": "//div[contains(@id,'play-list')]",
