@@ -24,7 +24,7 @@
   "cateVodImgR": "\\S+(http\\S+)",
   "cateVodMark": "/span[contains(@class,'pic-text')]/text()",
   "dtUrl": "https://www.1010dy.cc/detail/{vid}/",
-  "dtNode": "//div[contains(@class,'col-lg-wide-75')]",
+  "dtNode": "//body",
   "dtName": "//div[@class='stui-content__thumb']/a[contains(@class,'stui-vodlist__thumb')]/@title",
   "dtNameR": "",
   "dtImg": "//div[@class='stui-content__thumb']/a[contains(@class,'stui-vodlist__thumb')]/img/@data-original",
