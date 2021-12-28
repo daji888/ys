@@ -44,7 +44,7 @@
   "dtDesc": "//p[@class='col-pd']/text()",
   "dtDescR": "",
   "dtFromNode": "//div[contains(@class, 'stui-pannel__head bottom-line active clearfix')]",
-  "dtFromName": "//h3/img[@text()]",
+  "dtFromName": "//h3/following-sibling::*/text(),
   "dtFromNameR": "",
   "dtUrlNode": "//ul[contains(@class, 'stui-content__playlist clearfix')]",
   "dtUrlSubNode": "/li/a",
