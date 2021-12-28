@@ -23,7 +23,7 @@
   "cateVodImg": "/@data-original",
   "cateVodImgR": "\\S+(http\\S+)",
   "cateVodMark": "/span[contains(@class,'pic-text')]/text()",
-  "dtUrl": "https://www.1010dy.cc/type/{vid}/",
+  "dtUrl": "https://www.1010dy.cc/detail/{vid}/",
   "dtNode": "//body",
   "dtName": "//div[@class='stui-content__thumb']/a[contains(@class,'stui-vodlist__thumb')]/@title",
   "dtNameR": "",
