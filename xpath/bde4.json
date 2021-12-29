@@ -1,6 +1,8 @@
 {
   "ua": "",
   "homeUrl": "https://www.btbdys.com",
+  "dcVipFlag": "true",
+  "dcPlayUrl": "true",
   "cateNode": "//a[contains(@href,'/s')]",
   "cateName": "concat(//span[contains(@class,'nav-link-title')]/text(),//a[contains(@class,'dropdown-item')]/text())",
   "cateId": "/@href",
