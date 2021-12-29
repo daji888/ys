@@ -43,7 +43,7 @@
   "dtMarkR": "",
   "dtDesc": "//p[@class='col-pd']/text()",
   "dtDescR": "",
-  "dtFromNode": "//div[@class='stui-pannel-box b playlist mb']//h3",
+  "dtFromNode": "//div[@class='stui-pannel-box b playlist mb']//h3[@class='title']",
   "dtFromName": "/text()",
   "dtFromNameR": "",
   "dtUrlNode": "//ul[contains(@class, 'stui-content__playlist clearfix')]",
