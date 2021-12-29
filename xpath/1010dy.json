@@ -49,7 +49,7 @@
   "dtUrlNode": "//ul[contains(@class, 'stui-content__playlist clearfix')]",
   "dtUrlSubNode": "/li/a",
   "dtUrlId": "@href",
-  "dtUrlIdR": "/play/(\\S+)",
+  "dtUrlIdR": "/play/(\\S+)/",
   "dtUrlName": "/text()",
   "dtUrlNameR": "",
   "playUrl": "https://www.1010dy.cc/play/{playUrl}",
