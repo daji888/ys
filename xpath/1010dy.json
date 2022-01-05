@@ -18,7 +18,7 @@
   "homeVodImg": "/@data-original",
   "homeVodImgR": "\\S+(http\\S+)",
   "homeVodMark": "/span[contains(@class,'pic-text')]/text()",
-  "cateUrl": "https://www.1010dy.cc/show/{cateId}/area/{area}/class/{class}/lang/{lang}/year/{year}/by/{by}/page/{catePg}/", 
+  "cateUrl": "https://www.1010dy.cc/show/{cateId}/page/{catePg}/year/{year}/", 
   "cateVodNode": "//ul[contains(@class,'stui-vodlist')]//li//a[contains(@class,'stui-vodlist__thumb')]",
   "cateVodName": "/@title",
   "cateVodId": "/@href",
