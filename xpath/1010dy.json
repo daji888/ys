@@ -1,11 +1,8 @@
 {
   "ua": "",
   "homeUrl": "https://www.1010dy.cc",
- "dcVipFlag": "true",
- 	"pCfgJs": "https://www.1010dy.cc/static/js/playerconfig.js",
- 	"pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
- 	"dcShow2Vip": {},
- 	"dcPlayUrl": "true",
+  "dcVipFlag": "true",
+  "dcPlayUrl": "true",
   "cateNode": "//ul[contains(@class,'stui-header__menu type-slide')]/li/a[contains(@href, 'type') and not(contains(@href,'label'))]",
   "cateName": "/text()",
   "cateId": "/@href",
