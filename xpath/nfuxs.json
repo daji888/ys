@@ -19,7 +19,7 @@
     "cateVodId": "//div[@class='module-item-pic']/a/@href",
     "cateVodIdR": "/voddetail/(\\w+).html",
     "cateVodImg": "//div[@class='module-item-pic']/img/@data-src",
-    "cateVodImgR": "/upload/vod/(\\S+).jpg",
+    "cateVodImgR": "",
     "cateVodMark": "//div[@class='module-item-caption']/span[1]/text()",
     "dtUrl": "https://www.nfuxs.com/voddetail/{vid}.html",
     "dtNode": "//body",
