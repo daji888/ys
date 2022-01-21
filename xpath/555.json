@@ -9,7 +9,7 @@
 	"cateNode": "//ul[contains(@class, 'myui-header__menu')]/li/a[contains(@href, 'vodtype') or contains(@href, 'netflix')]",
 	"cateName": "/text()",
 	"cateId": "/@href",
-	"cateIdR": "/(\\S+).html",
+	"cateIdR": "/vodtype/(\\S+).html",
 	"cateManual": {},
 	"homeVodNode": "//ul[contains(@class, 'myui-vodlist')]/li/div[contains(@class, 'myui-vodlist__box')]",
 	"homeVodName": "/a/@title",
