@@ -6,7 +6,7 @@
   "pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
   "dcShow2Vip": {},
   "dcPlayUrl": "true",
- "cateNode": "//ul[contains(@class, 'stui-header__menu')]//li/a[not contains(@href='/')]",
+ "cateNode": "//ul[contains(@class, 'stui-header__menu')]//li/a[not(@href='/')]",
  "cateName": "/text()",
  "cateId": "/@href",
  "cateIdR": "/type/(\\S+).html",
