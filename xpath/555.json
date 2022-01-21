@@ -6,7 +6,7 @@
  	"pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
  	"dcShow2Vip": {},
  	"dcPlayUrl": "true",
-	"cateNode": "//ul[contains(@class, 'myui-header__menu')]/li/a[contains(@href, 'vodtype') and not contains(@href='/vodtype/124.html')]",
+	"cateNode": "//ul[contains(@class, 'myui-header__menu')]/li/a[contains(@href, 'vodtype') and not(@href='/vodtype/124.html')]",
 	"cateName": "/text()",
 	"cateId": "/@href",
 	"cateIdR": "/vodtype/(\\S+).html",
