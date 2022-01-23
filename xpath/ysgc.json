@@ -2,7 +2,7 @@
   "ua": "",
   "homeUrl": "https://www.ysgc.cc",
   "dcVipFlag": "true",
-  "pCfgJs": "https://www.555dy1.com/static/js/playerconfig.js",
+  "pCfgJs": "https://www.ysgc.cc/static/js/playerconfig.js",
   "pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
   "dcShow2Vip": {},
   "dcPlayUrl": "true",
