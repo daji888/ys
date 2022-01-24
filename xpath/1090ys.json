@@ -26,7 +26,7 @@
     "cateVodIdR": "/show/(\\w+).html",
     "cateVodImg": "/@data-original",
     "cateVodImgR": "",
-    "cateVodMark": "concat(/a/span[@class='pic-text text-right']/text(),//span[contains(@class,'pic-tag pic-tag-h')]/text())",
+    "cateVodMark": "concat(//span[@class='pic-text text-right']/text(),//span[contains(@class,'pic-tag pic-tag-h')]/text())",
     "dtUrl": "http://1090ys8.com/show/{vid}.html",
     "dtNode": "//body",
     "dtName": "//div[@class='stui-content__thumb']/a/@title",
