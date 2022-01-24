@@ -33,7 +33,7 @@
     "dtNameR": "",
     "dtImg": "//div[@class='stui-content__thumb']/a/img/@data-original",
     "dtImgR": "",
-    "dtCate": "//span[contains(text(), '类型')]/parent::text()[1]",
+    "dtCate": "//span[contains(text(), '类型')]/parent::text()[2]",
 	"dtCateR": "",
 	"dtYear": "//span[contains(text(), '最后更新')]/parent::text()",
 	"dtYearR": "",
