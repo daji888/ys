@@ -27,7 +27,7 @@
  "cateVodImgR": "\\S+(http\\S+)",
  "cateVodMark": "//div[contains(@class,'module-item-text')]/text()",
  "dtUrl": "https://www.6080x.cc/kan/{vid}.html",
- "dtNode": "//div[@class='box view-heading']",
+ "dtNode": "//body",
  "dtName": "//div[@class='video-info']/div[@class='video-info-header']/h1/text()",
  "dtNameR": "",
  "dtImg": "//div[@class='video-cover']//div[@class='module-item-pic']/img/@data-src",
