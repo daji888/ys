@@ -34,7 +34,7 @@
  "dtImgR": "\\S+(http\\S+)",
  "dtCate": "//div[@class='video-info']//div[@class='tag-link']/span/following-sibling::*/text()",
  "dtYear": "//div[@class='video-info']//span[contains(@class,'itemtitle') and contains(text(), '上映')]/following-sibling::div/text()",
- "dtArea": "//div[@class='video-info']//a[contains(@class,'tag-link') and contains(@href,'/show/')]/text()",
+ "dtArea": "//div[@class='video-info']//a[contains(@href,'/show/')]/text()",
  "dtAreaR": "/show/(\\d+)-%(\\S+)----------.html",
  "dtActor": "//div[@class='video-info']//span[contains(@class,'itemtitle') and contains(text(), '主演')]/following-sibling::div/a/text()",
  "dtDirector": "//div[@class='video-info']//span[contains(@class,'itemtitle') and contains(text(), '导演')]/following-sibling::div/a/text()",
