@@ -24,7 +24,7 @@
  "cateVodIdR": "/voddetail/(\\w+)/",
  "cateVodImg": "/img/@data-src",
  "cateVodImgR": "\\S+(http\\S+)",
- "cateVodMark": "//div[@class='module-item-titlebox']//div[contains(@class,'module-item-text')]/text()",
+ "cateVodMark": "//div[@class='module-item-titlebox']/div[contains(@class,'module-item-text')]/text()",
  "dtUrl": "https://www.miniku.cc/voddetail/{vid}/",
  "dtNode": "//div[@class='box view-heading']",
  "dtName": "//div[@class='video-info']/div[@class='video-info-header']/h1/text()",
