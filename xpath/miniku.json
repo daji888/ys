@@ -22,7 +22,7 @@
  "cateVodName": "//div[@class='module-item-pic']/a/@title",
  "cateVodId": "//div[@class='module-item-pic']/a/@href",
  "cateVodIdR": "/voddetail/(\\w+)/",
- "cateVodImg": "//div[@class='module-item-pic']/img/@data-src",
+ "cateVodImg": "//div[@class='module-item-pic']//img/@data-src",
  "cateVodImgR": "\\S+(http\\S+)",
  "cateVodMark": "//div[@class='module-item-titlebox']//div[@class='module-item-text']/text()",
  "dtUrl": "https://www.miniku.cc/voddetail/{vid}/",
