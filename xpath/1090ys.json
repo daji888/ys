@@ -6,12 +6,11 @@
     "pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
     "dcShow2Vip": {},
     "dcPlayUrl": "true",
-    "cateManual": {
-        "电影": "1",
-        "连续剧": "2",
-        "动漫": "26",
-        "综艺": "22"
-    },
+    "cateNode": "//ul[contains(@class,'type-slide clearfix')]/li/a[contains(@href, 'type') and not(contains(@href,'label'))]",
+    "cateName": "/text()",
+    "cateId": "/@href",
+    "cateIdR": "/whole/(\\d+).html",
+    "cateManual": {},
     "homeVodNode": "//li[@class='col-md-5 col-sm-4 col-xs-3 ']/div[@class='stui-vodlist__box']/a",
     "homeVodName": "/@title",
     "homeVodId": "/@href",
