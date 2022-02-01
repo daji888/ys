@@ -6,7 +6,7 @@
     "pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
     "dcShow2Vip": {},
     "dcPlayUrl": "true",
-    "cateNode": "//ul[contains(@class,'type-slide clearfix')]/li/a[contains(@href, 'type') and not(contains(@href,'label'))]",
+    "cateNode": "//ul[contains(@class,'type-slide clearfix')]/li/a[contains(@href, 'whole')]",
     "cateName": "/text()",
     "cateId": "/@href",
     "cateIdR": "/whole/(\\d+).html",
