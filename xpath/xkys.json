@@ -15,7 +15,7 @@
   "homeVodName": "/a/@title",
   "homeVodId": "/a/@href",
   "homeVodIdR": "/Moviedetail/(\\w+).html",
-  "homeVodImg": "/img/@data-original",
+  "homeVodImg": "//img/@data-original",
   "homeVodImgR": "\\S+(http\\S+)",
   "homeVodMark": "//span/text()",
   "cateUrl": "https://xkys.tv/vodshow/{cateId}--------{catePg}---.html",
