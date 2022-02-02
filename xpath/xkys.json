@@ -17,7 +17,7 @@
   "homeVodIdR": "/Moviedetail/(\\w+).html",
   "homeVodImg": "//div[@class='module-item-pic']/img/@data-src",
   "homeVodImgR": "\\S+(http\\S+)",
-  "homeVodMark": "//div[contains(@class,'module-item-caption')]/span[1+3]/text()",
+  "homeVodMark": "//div[contains(@class,'module-item-caption')]/span[0-3]/text()",
   "cateUrl": "https://xkys.tv/vodshow/{cateId}--------{catePg}---.html",
   "cateVodNode": "//div[@class='module-item']",
   "cateVodName": "//div[@class='module-item-pic']/a/@title",
