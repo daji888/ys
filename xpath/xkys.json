@@ -11,7 +11,7 @@
   "cateId": "/@href",
   "cateIdR": "/Movietype/(\\w+).html",
   "cateManual": {},
-  "homeVodNode": "//div[contains(@class,'module-items')]/div[contains(@class,'module-item')]",
+  "homeVodNode": "//div[contains(@class,'module-item-pic')]",
   "homeVodName": "/a/@title",
   "homeVodId": "/a/@href",
   "homeVodIdR": "/Moviedetail/(\\w+).html",
