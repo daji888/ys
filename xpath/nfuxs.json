@@ -18,7 +18,7 @@
     "homeVodImg": "//div[@class='module-item-pic']/img/@data-src",
     "homeVodImgR": "\\S+(http\\S+)",
     "homeVodMark": "//div[@class='module-item-caption']/span[1]/text()",
-    "cateUrl": "https://www.nfuxs.com/vodtype/{cateId}.html",
+    "cateUrl": "https://www.nfuxs.com/vodtype/{cateId}-page-{catePg}.html",
     "cateVodNode": "//div[@class='module-item']",
     "cateVodName": "//div[@class='module-item-pic']/a/@title",
     "cateVodId": "//div[@class='module-item-pic']/a/@href",
