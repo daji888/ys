@@ -28,7 +28,7 @@
   "cateVodMark": "//div[contains(@class,'module-item-caption')]/span/text()",
   "dtUrl": "https://xkys.tv/Moviedetail/{vid}.html",
   "dtNode": "//body",
-  "dtName": "/div[@class='video-info-header']/h1/text()",
+  "dtName": "//div[@class='video-info-header']/h1/text()",
   "dtNameR": "",
   "dtImg": "//div[@class='module-item-pic']/img/@data-src",
   "dtImgR": "\\S+(http\\S+)",
