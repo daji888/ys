@@ -14,7 +14,7 @@
   "homeVodNode": "//div[contains(@class,'module-item-cover')]",
   "homeVodName": "//a/@title",
   "homeVodId": "//a/@href",
-  "homeVodIdR": "//Moviedetail/(\\w+).html",
+  "homeVodIdR": "/Moviedetail/(\\w+).html",
   "homeVodImg": "//img/@data-original",
   "homeVodImgR": "\\S+(http\\S+)",
   "homeVodMark": "//span/text()",
