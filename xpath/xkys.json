@@ -23,7 +23,7 @@
   "cateVodName": "/@title",
   "cateVodId": "/@href",
   "cateVodIdR": "/Moviedetail/(\\w+).html",
-  "cateVodImg": "/div/@data-original",
+  "cateVodImg": "/img/@data-src",
   "cateVodImgR": "\\S+(http\\S+)",
   "cateVodMark": "//span[contains(@class,'pack-prb')]/text()",
   "dtUrl": "https://xkys.tv/Moviedetail/{vid}.html",
