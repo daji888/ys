@@ -39,7 +39,7 @@
   "dtUrlNode": "//div[contains(@class,'mi_paly_box')]//div[@class='paly_list_btn']",
   "dtUrlSubNode": "/a",
   "dtUrlId": "@href",
-  "dtUrlIdR": "/v_play/(\\S+).html",
+  "dtUrlIdR": "https://www.subaibai.com/v_play/(\\S+).html",
   "dtUrlName": "/text()",
   "playUrl": "https://www.subaibai.com/v_play/{playUrl}.html",
   "searchUrl": "https://www.subaibai.com/?s={wd}",
