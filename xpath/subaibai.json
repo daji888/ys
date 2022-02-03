@@ -33,7 +33,7 @@
   "dtArea": "//ul[@class='moviedteail_list']/li[contains(text(),'地区')]/a/text()",
   "dtActor": "//ul[@class='moviedteail_list']/li[contains(text(),'主演')]/a/text()",
   "dtDirector": "//ul[@class='moviedteail_list']/li[contains(text(),'导演')]/a/text()",
-  "dtDesc": "//div[@class='ypxingq_t']//p/text()",
+  "dtDesc": "//div[@class='ypxingq_t']/p/text()",
   "dtFromNode": "//div[contains(@class,'mi_paly_box')]//div[@class='ypxingq_t']",
   "dtFromName": "/text()",
   "dtUrlNode": "//div[contains(@class,'mi_paly_box')]//div[@class='paly_list_btn']",
