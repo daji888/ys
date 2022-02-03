@@ -17,7 +17,7 @@
   "homeVodIdR": "/movie/(\\w+).html",
   "homeVodImg": "/a/img/@data-original",
   "homeVodMark": "/a/div[@class='jidi']/span/text()",
-  "cateUrl": "https://www.subaibai.com/movie_bt_series/{cateId}/page/{catePg}",
+  "cateUrl": "https://www.subaibai.com/{cateId}/page/{catePg}",
   "cateVodNode": "//div[contains(@class,'mrb')]/ul/li",
   "cateVodName": "/h3[@class='dytit']/a/text()",
   "cateVodId": "/h3[@class='dytit']/a/@href",
