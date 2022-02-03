@@ -21,7 +21,7 @@
   "cateVodNode": "//div[contains(@class,'mrb')]/ul/li",
   "cateVodName": "/h3[@class='dytit']/a/text()",
   "cateVodId": "/h3[@class='dytit']/a/@href",
-  "cateVodIdR": "/movie/(\\w+).html",
+  "cateVodIdR": "https://www.subaibai.com/movie/(\\w+).html",
   "cateVodImg": "/a/img/@data-original",
   "cateVodMark": "/a/div[@class='jidi']/span/text()",
   "dtUrl": "https://www.subaibai.com/movie/{vid}.html",
