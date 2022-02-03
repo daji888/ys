@@ -25,7 +25,7 @@
   "cateVodImg": "/a/img/@data-original",
   "cateVodMark": "/a/div[@class='jidi']/span/text()",
   "dtUrl": "https://www.subaibai.com/movie/{vid}.html",
-  "dtNode": "//div[@class='dyxingq']",
+  "dtNode": "//body",
   "dtName": "//div[@class='moviedteail_tt']/h1/text()",
   "dtImg": "//div[contains(@class,'dyimg')]/img/@src",
   "dtCate": "//ul[@class='moviedteail_list']/li[contains(text(),'类型')]/a/text()",
