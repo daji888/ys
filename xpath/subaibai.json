@@ -9,7 +9,7 @@
   "cateNode": "//li[contains(@class,'menu-item menu-item-type-post_type') and not(contains(@class,'1928'))]/a",
   "cateName": "/text()",
   "cateId": "/@href",
-  "cateIdR": "menu-item-(\\S+)",
+  "cateIdR": "https://www.subaibai.com/(\\S+)",
   "cateManual": {},
   "homeVodNode": "//div[contains(@class,'leibox')]/ul/li",
   "homeVodName": "/h3[@class='dytit']/a/text()",
