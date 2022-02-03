@@ -6,7 +6,7 @@
   "pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
   "dcShow2Vip": {},
   "dcPlayUrl": "true",
-  "cateNode": "//li[contains(@class,'menu-item menu-item')]/a",
+  "cateNode": "//li[contains(@class,'menu-item menu-item-type-post_type')]/a",
   "cateName": "/text()",
   "cateId": "/@href",
   "cateIdR": "menu-item-(\\S+)",
