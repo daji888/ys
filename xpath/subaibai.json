@@ -9,7 +9,7 @@
   "cateNode": "//a[contains(@href,'https://www.subaibai.com/')]",
   "cateName": "/text()",
   "cateId": "/@href",
-  "cateIdR": "menu-item-(\\w+)",
+  "cateIdR": "menu-item-(\\S+)",
   "cateManual": {},
   "homeVodNode": "//div[contains(@class,'leibox')]/ul/li",
   "homeVodName": "/h3[@class='dytit']/a/text()",
