@@ -1,8 +1,8 @@
 {
   "ua": "",
-  "homeUrl": "https://www.6080x.cc/",
+  "homeUrl": "https://www.6080x.cc",
   "dcVipFlag": "true",
-  "pCfgJs": "http://www.niumatv.com/static/js/playerconfig.js",
+  "pCfgJs": "https://www.6080x.cc/static/js/playerconfig.js",
   "pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
   "dcShow2Vip": {},
   "dcPlayUrl": "true",
