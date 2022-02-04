@@ -38,7 +38,7 @@
  "dtDesc": "//div[contains(@class,'video-info-item video-info-content vod_content')]/span/text()",
  "dtFromNode": "//div[contains(@class, 'module-tab-content')]/div[contains(@class, 'module-tab-item')]/span",
  "dtFromName": "/text()",
- "dtUrlNode": "//div[contains(@class, 'module-blocklist')]",
+ "dtUrlNode": "//div[contains(@class, 'module-blocklist scroll-box scroll-box-y')]",
  "dtUrlSubNode": "/div/a",
  "dtUrlId": "/@href",
  "dtUrlIdR": "/play/(\\S+).html",
