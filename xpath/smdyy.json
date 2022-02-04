@@ -15,7 +15,7 @@
  "homeVodImg": "/div[contains(@class, 'module-item-cover')]/div[contains(@class, 'module-item-pic')]/img/@data-src",
  "homeVodImgR": "\\S+(http\\S+)",
  "homeVodMark": "/div[contains(@class,'module-item-text')]/text()",
- "cateUrl": "https://www.6080x.cc/list/{cateId}-{catePg}.html",
+ "cateUrl": "https://www.6080x.cc/list/{cateId}.html",
  "cateVodNode": "//div[@class='module-item']",
  "cateVodName": "//div[contains(@class, 'module-item-pic')]/a/@title",
  "cateVodId": "//div[contains(@class, 'module-item-pic')]/a/@href",
