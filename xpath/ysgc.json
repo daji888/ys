@@ -32,7 +32,7 @@
   "dtCate": "//div[@class='myui-content__detail']//span[contains(@class,'text-muted') and contains(text(), '类型')]/following-sibling::*/text()",
   "dtCateR": "",
   "dtYear": "//div[@class='myui-content__detail']//h1/span[contains(@class,'year')]/text()",
-  "dtYearR": ".+((\\S+)).+",
+  "dtYearR": ".+（(\\S+)）.+",
   "dtArea": "//div[@class='myui-content__detail']//span[contains(@class,'text-muted') and contains(text(), '地区')]/following-sibling::*/text()",
   "dtAreaR": "",
   "dtMark": "//div[@class='myui-content__detail']//p[contains(@class,'otherbox')]/text()",
