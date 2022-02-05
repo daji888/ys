@@ -42,11 +42,11 @@
   "dtUrlIdR": "https://www.subaibai.com/v_play/(\\S+).html",
   "dtUrlName": "/text()",
   "playUrl": "https://www.subaibai.com/v_play/{playUrl}.html",
-  "searchUrl": "https://www.subaibai.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
-  "scVodNode": "json:list",
-  "scVodName": "name",
-  "scVodId": "id",
-  "scVodIdR": "",
-  "scVodImg": "pic",
-  "scVodMark": ""
+  "searchUrl": "https://www.subaibai.com/?s={wd}",
+  "scVodNode": "//div[contains(@class,'search_list')]/ul/li",
+  "scVodName": "/h3[@class='dytit']/a/text()",
+  "scVodId": "/h3[@class='dytit']/a/@href",
+  "scVodIdR": "/movie/(\\w+).html",
+  "scVodImg": "/a/img/@data-original",
+  "scVodMark": "/a/div[@class='jidi']/span/text()"
 }
