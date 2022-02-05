@@ -42,7 +42,7 @@
   "dtUrlIdR": "https://www.subaibai.com/v_play/(\\S+).html",
   "dtUrlName": "/text()",
   "playUrl": "https://www.subaibai.com/v_play/{playUrl}.html",
-  "searchUrl": "https://www.subaibai.com/?s={wd}",
+  "searchUrl": "https://www.subaibai.com/grabble?q={wd}",
   "scVodNode": "//div[contains(@class,'search_list')]/ul/li",
   "scVodName": "/h3[@class='dytit']/a/text()",
   "scVodId": "/h3[@class='dytit']/a/@href",
