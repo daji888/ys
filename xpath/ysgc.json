@@ -5,6 +5,7 @@
   "dcPlayUrl": "true",
   "cateNode": "//ul[contains(@class,'myui-header__menu nav-menu')]/li/a[contains(@href, 'vodtype')]",
   "cateName": "/text()",
+  "cateNameR": "（）(.+)",
   "cateId": "/@href",
   "cateIdR": "/vodtype/(\\w+).html",
   "cateManual": {},
