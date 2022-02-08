@@ -17,7 +17,7 @@
     "homeVodIdR": "/voddetail/(\\w+).html",
     "homeVodImg": "/@data-original",
     "homeVodImgR": "",
-    "homeVodMark": "//span[@class='pic-text text-right']/text()",
+    "homeVodMark": "",
     "cateUrl": "https://www.9e02.com/vodshow/{cateId}/page/{catePg}.html",
     "cateVodNode": "//li[@class='col-lg-8 col-md-6 col-sm-4 col-xs-3']/div/a",
     "cateVodName": "/@title",
