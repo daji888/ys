@@ -7,7 +7,7 @@
     "dcShow2Vip": {},
     "dcPlayUrl": "true",
     "cateNode": "//a[contains(@href,'vodshow')]",
-    "cateName": "/text()",
+    "cateName": "/@title",
     "cateId": "/@href",
     "cateIdR": "/vodshow/(\\w+).html",
     "cateManual": {},
