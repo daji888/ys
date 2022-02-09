@@ -6,7 +6,7 @@
     "pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
     "dcShow2Vip": {},
     "dcPlayUrl": "true",
-    "cateNode": "//ul[contains(@class, 'drop-content-items grid-items')]/li[contains(@class, 'grid-item')]/a[contains(@class,'vodtype')]",
+    "cateNode": "//ul[contains(@class, 'drop-content-items grid-items')]/li[contains(@class, 'grid-item')]/a[contains(@href,'vodtype')]",
     "cateName": "/text()",
     "cateId": "/@href",
     "cateIdR": "/vodtype/(\\d+).html",
