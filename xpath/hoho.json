@@ -7,7 +7,7 @@
     "dcShow2Vip": {},
     "dcPlayUrl": "true",
     "cateNode": "//li[contains(@class, 'nav-menu-item')]/a[contains(@href,'vodtype')]",
-    "cateName": "//text()",
+    "cateName": "/i/text()",
     "cateId": "/@href",
     "cateIdR": "/vodtype/(\\d+).html",
     "cateManual": {},
