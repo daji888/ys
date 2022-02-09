@@ -18,7 +18,7 @@
     "homeVodImg": "/div[contains(@class, 'module-item-cover')]/div[contains(@class, 'module-item-pic')]/img/@data-src",
     "homeVodMark": "/div[contains(@class,'module-item-text')]/text()",
     "cateUrl": "https://www.hoho.tv/vodtype/{cateId}/page/{catePg}.html",
-    "cateVodNode": "//div[contains(@class,'module-items')]",
+    "cateVodNode": "//div[contains(@class, 'module-items')]/div[contains(@class, 'module-item')]",
     "cateVodName": "//div[@class='module-item-pic']/a/@title",
     "cateVodId": "//div[@class='module-item-pic']/a/@href",
     "cateVodIdR": "/voddetail/(\\w+).html",
