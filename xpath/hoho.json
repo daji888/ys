@@ -1,8 +1,8 @@
 {
     "ua": "",
-    "homeUrl": "https://hoho.tv",
+    "homeUrl": "https://www.hoho.tv",
     "dcVipFlag": "true",
-    "pCfgJs": "https://hoho.tv/static/js/playerconfig.js",
+    "pCfgJs": "https://www.hoho.tv/static/js/playerconfig.js",
     "pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
     "dcShow2Vip": {},
     "dcPlayUrl": "true",
