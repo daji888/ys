@@ -43,7 +43,7 @@
   "dtActor": "//div[@class='stui-content__detail']//p[contains(@class,'data') and contains(text(), '主演')]/text()",
   "dtActorR": "",
   "dtDirector": "//div[@class='stui-content__detail']//p[contains(@class,'data') and contains(text(), '导演')]/text()",
-  "dtDirectorR": "",
+  "dtDirectorR": "导演：(.+)",
   "dtDesc": "//div[@class='stui-content__detail']//span[@class='detail-content']/text()",
   "dtDescR": "",
   "dtFromNode": "//h3[contains(@class,'icon-iconfontplay2')]",
