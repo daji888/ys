@@ -49,7 +49,7 @@
 	"dtUrlNode": "//ul[@class='stui-content__playlist clearfix']",
 	"dtUrlSubNode": "/li/a",
 	"dtUrlId": "@href",
-	"dtUrlIdR": "vod/play/(\\S+)/",
+	"dtUrlIdR": "/vodplay/(\\S+)/",
 	"dtUrlName": "/text()",
 	"dtUrlNameR": "",
 	"playUrl": "https://www.juztv.com/vodplay/{playUrl}/",
