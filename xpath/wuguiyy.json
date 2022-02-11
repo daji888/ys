@@ -38,7 +38,7 @@
 	"dtDirectorR": "",
 	"dtActor": "//span[contains(@class,'text-muted') and contains(text(), '主演')]/following-sibling::*/text()",
 	"dtActorR": "",
-	"dtYear": "//span[contains(@class,'text-muted') and contains(text(), '年代')]/following-sibling::*/text()",
+	"dtYear": "//span[contains(@class,'text-muted') and contains(text(), '年份')]/following-sibling::*/text()",
 	"dtYearR": "",
 	"dtMark": "//span[contains(@class,'text-muted') and contains(text(), '集数')]/following-sibling::*/text()",
 	"dtMarkR": "",
