@@ -46,7 +46,7 @@
 	"dtDescR": "",
 	"dtFromNode": "//h3",
 	"dtFromName": "/text()",
-	"dtUrlNode": "//ul[contains(@class,'stui-content__playlist clearfix')]",
+	"dtUrlNode": "//ul[@class='stui-content__playlist clearfix']",
 	"dtUrlSubNode": "/li/a",
 	"dtUrlId": "@href",
 	"dtUrlIdR": "/play/(\\S+)/",
