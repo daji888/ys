@@ -35,7 +35,7 @@
   "dtCate": "//div[@class='stui-content__detail']//p[contains(@class,'data') and contains(text(), '类型')]/text()",
   "dtCateR": "类型：(.+)",
   "dtYear": "//div[@class='stui-content__detail']//p[contains(@class,'data') and contains(text(), '年份')]/text()",
-  "dtYearR": "年份：(.+)",
+  "dtYearR": "年份：(.+) /上映：",
   "dtArea": "//div[@class='stui-content__detail']//p[contains(@class,'data') and contains(text(), '地区')]/text()",
   "dtAreaR": "地区：(.+)",
   "dtMark": "",
