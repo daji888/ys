@@ -18,7 +18,7 @@
 	"homeVodImg": "/@data-original",
 	"homeVodMark": "/span[contains(@class,'pic-text text-right')]/text()",
 	"cateUrl": "https://www.wuguiyy.com/type/{cateId}-{catePg}/",
-	"cateVodNode": "//div[contains(@class,'stui-vodlist__box')]/a[contains(@class,'stui-vodlist__thumb')]",
+	"cateVodNode": "//li[contains(@class,'col-md-6 col-sm-4 col-xs-3')]/div/a[contains(@class,'stui-vodlist__thumb')]",
 	"cateVodName": "/@title",
 	"cateVodId": "/@href",
 	"cateVodIdR": "/detail/(\\w+)/",
