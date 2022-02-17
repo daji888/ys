@@ -41,7 +41,7 @@
   "dtUrlIdR": "/play/(\\S+).htm",
   "dtUrlName": "/text()",
   "playUrl": "https://www.btbdys.com/play/{playUrl}.htm",
-  "playUa": "",
+  "playUa": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36",
   "searchUrl": "https://www.btbdys.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
   "scVodNode": "json:list",
   "scVodName": "name",
