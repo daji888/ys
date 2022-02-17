@@ -35,7 +35,7 @@
   "dtYear": "//div[@class='stui-content__detail']//p[contains(@class,'data') and contains(text(), '年份')]/text()",
   "dtYearR": "年份：(.+)",
   "dtArea": "//div[@class='stui-content__detail']//p[contains(@class,'data') and contains(text(), '地区')]/text()",
-  "dtAreaR": "地区：(.+) / 年份：：",
+  "dtAreaR": "地区：(.+) / 年份：",
   "dtMark": "//div[@class='stui-content__detail']//p[contains(@class,'data') and contains(text(), '更新')]/span/text()",
   "dtMarkR": "",
   "dtActor": "//div[@class='stui-content__detail']//p[contains(@class,'data') and contains(text(), '主演')]/a/text()",
