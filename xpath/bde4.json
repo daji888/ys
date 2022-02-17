@@ -1,5 +1,5 @@
 {
-  "ua": "",
+  "ua": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36",
   "homeUrl": "https://www.btbdys.com",
   "cateNode": "//a[contains(@href,'/s')]",
   "cateName": "concat(//span[contains(@class,'nav-link-title')]/text(),//a[contains(@class,'dropdown-item')]/text())",
