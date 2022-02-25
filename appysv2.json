@@ -1,6 +1,9 @@
 {
 "sites":{
-"星空影视":{"url":"https://xkys.tv/xgapp.php/v1/","jx":[]},
+"南府影视":{"url":"http://iapp.nfuxs.club/dnmb.php/v1.vod"},
+"神马影院":{"url":"https://www.6080kan.cc/xgapp.php/v1/"},    
+"爱迪影视":{"url":"https://aidi.fun/xgapp.php/v1/"},    
+"星空影视":{"url":"https://xkys.tv/xgapp.php/v1/"},
 "天空影视":{"url":"https://tkys.tv/xgapp.php/v1/"},
 "天空影视V2":{"url":"https://www.tkys.tv/xgapp.php/v2/"},
 "迪迪影院V2":{"url":"http://dd88.icu:6080/xgapp.php/v2/"},
