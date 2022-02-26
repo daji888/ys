@@ -8,7 +8,7 @@
     "cateId": "/@href",
     "cateIdR": "/vodtype/(\\w+).html",
     "cateManual": {},
-    "homeVodNode": "//ul[contains(@class,'myui-vodlist')]//li//a[contains(@class,'myui-vodlist__thumb')]",
+    "homeVodNode": "//ul[contains(@class,'myui-vodlist')]/li//a[contains(@class,'myui-vodlist__thumb')]",
     "homeVodName": "/@title",
     "homeVodId": "/@href",
     "homeVodIdR": "/voddetail/(\\w+).html",
