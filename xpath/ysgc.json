@@ -3,7 +3,7 @@
     "homeUrl": "https://www.ysgc.cc",
     "dcVipFlag": "true",
     "dcPlayUrl": "true",
-    "cateNode": "//ul[contains(@class,'myui-header__menu nav-menu')]/li/a[contains(@href, 'vodtype')]",
+    "cateNode": "//div[contains(@class, 'col-lg-wide-75 col-md-wide-75 col-xs-1 padding-0')]//ul[contains(@class,'myui-header__menu nav-menu')]/li/a[contains(@href, 'vodtype')]",
     "cateName": "/text()",
     "cateId": "/@href",
     "cateIdR": "/vodtype/(\\w+).html",
