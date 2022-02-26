@@ -19,7 +19,7 @@
 	"homeVodImgR": "\\S+(http\\S+)",
 	"homeVodMark": "concat(/a/span[@class='pic-text text-right']/text(),//span[contains(@style,'background-color')]/text())",
 	"cateUrl": "https://www.555dy1.com/vodshow/{cateId}--------{catePg}---{year}.html",
-	"cateVodNode": "//div[contains(@class, 'myui-vodlist__box')]",
+	"cateVodNode": "//ul[contains(@class, 'myui-vodlist')]/li[contains(@class, 'col-lg-8 col-md-6 col-sm-4 col-xs-3')]/div[contains(@class, 'myui-vodlist__box')]",
 	"cateVodName": "/a/@title",
 	"cateVodId": "/a//@href",
 	"cateVodIdR": "/voddetail/(\\S+).html",
