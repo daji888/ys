@@ -37,6 +37,7 @@
     "dtUrlIdR": "/v_play/(\\S+).html",
     "dtUrlName": "/text()",
     "playUrl": "https://www.subaibaiys.com/v_play/{playUrl}.html",
+    "playUa": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
     "searchUrl": "https://www.subaibaiys.com/grabble?q={wd}",
     "scVodNode": "//div[contains(@class,'search_list')]/ul/li",
     "scVodName": "/h3[@class='dytit']/a/text()",
