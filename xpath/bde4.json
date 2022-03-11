@@ -5,11 +5,7 @@
     "cateName": "concat(//span[contains(@class,'nav-link-title')]/text(),//a[contains(@class,'dropdown-item')]/text())",
     "cateId": "/@href",
     "cateIdR": "/s/(\\w+)",
-    "cateManual": {
-        "全部": "*",
-        "电影": "0",
-        "电视剧": "1"
-    },
+    "cateManual": {},
     "homeVodNode": "//div[contains(@class,'col-4 rows-md-7')]/div[contains(@class,'card card-sm card-link')]",
     "homeVodName": "//h3/text()",
     "homeVodId": "/a/@href",
