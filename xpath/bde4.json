@@ -41,7 +41,7 @@
     "dtFromNode": "//div[@class='card mt-3']",
     "dtFromName": "//h3/text()",
     "dtUrlNode": "//div[contains(@id,'play-list')]",
-    "dtUrlSubNode": "/a[@class='btn btn-square me-2']",
+    "dtUrlSubNode": "//a[@class='btn btn-square me-2']",
     "dtUrlId": "@href",
     "dtUrlIdR": "/play/(\\S+).htm",
     "dtUrlName": "/text()",
