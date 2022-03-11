@@ -25,7 +25,7 @@
     "cateVodImg": "/a/img/@src",
     "cateVodImgR": "\\S+(http\\S+)",
     "cateVodMark": "concat(//div[contains(@class,'ribbon ribbon-bookmark ribbon-top bg-azure p-0')]/text(),//span[contains(@class,'badge bg-pink position-absolute top-0 start-0')]/text())",
-    "dtUrl": "https://www.btbdys.com/{cateId}/{vid}.htm",
+    "dtUrl": "https://www.btbdys.com/{vid}.htm",
     "dtNode": "//body",
     "dtName": "//h2/text()",
     "dtNameR": "",
