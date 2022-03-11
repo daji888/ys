@@ -13,7 +13,7 @@
     "homeVodNode": "//div[contains(@class,'col-4 rows-md-7')]/div[contains(@class,'card card-sm card-link')]",
     "homeVodName": "//h3/text()",
     "homeVodId": "/a/@href",
-    "homeVodIdR": "/(\\S+).htm;jsessionid=(\\S+)",
+    "homeVodIdR": "/(\\S+).htm",
     "homeVodImg": "/a/img/@data-src",
     "homeVodImgR": "\\S+(http\\S+)",
     "homeVodMark": "concat(//div[contains(@class,'ribbon ribbon-bookmark ribbon-top bg-azure p-0')]/text(),//span[contains(@class,'badge bg-pink position-absolute top-0 start-0')]/text())",
