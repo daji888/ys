@@ -40,7 +40,7 @@
     "dtDesc": "//div[@class='card collapse']//div[@class='card-body']/text()'",
     "dtFromNode": "//div[@class='card mt-3']",
     "dtFromName": "//h3/text()",
-    "dtUrlNode": "//div[contains(@id,'play-list')]/div[@class='d-flex']",
+    "dtUrlNode": "//div[contains(@id,'play-list')]",
     "dtUrlSubNode": "/a[@class='btn btn-square me-2']",
     "dtUrlId": "@href",
     "dtUrlIdR": "/play/(\\S+).htm",
