@@ -42,7 +42,7 @@
     "dtFromName": "//h3/text()",
     "dtUrlNode": "//div[contains(@id,'play-list')]",
     "dtUrlSubNode": "//a",
-    "dtUrlId": "/@href",
+    "dtUrlId": "@href",
     "dtUrlIdR": "/play/(\\S+).htm",
     "dtUrlName": "/text()",
     "playUrl": "https://www.btbdys.com/play/{playUrl}.htm",
