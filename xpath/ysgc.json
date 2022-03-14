@@ -40,7 +40,7 @@
     "dtAreaR": "",
     "dtMark": "//div[@class='myui-content__detail']//p[contains(@class,'otherbox')]/text()",
     "dtMarkR": "",
-    "dtActor": "concat(//div[@class='myui-content__detail']//span[contains(text(), '主演')]/following-sibling::(text(),','))",
+    "dtActor": "concat(//div[@class='myui-content__detail']//span[contains(text(), '主演')]/following-sibling::/(text(),','))",
     "dtActorR": "",
     "dtDirector": "//div[@class='myui-content__detail']//span[contains(@class,'text-muted') and contains(text(), '导演')]/following-sibling::*/text()",
     "dtDirectorR": "",
