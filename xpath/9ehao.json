@@ -37,7 +37,7 @@
     "dtArea": "//span[contains(text(), '地区')]/following-sibling::a/text()",
     "dtDirector": "//span[contains(text(), '导演')]/following-sibling::a/text()",
     "dtActor": "//span[contains(text(), '主演')]/following-sibling::a/text()",
-    "dtDesc": "//span[contains(text(), '简介')]/following-sibling::text()",
+    "dtDesc": "//span[contains(text(), '简介')]/parent::text()",
     "dtFromNode": "//ul[@class='nav nav-tabs active']/li/a",
     "dtFromName": "/text()",
     "dtFromNameR": "",
