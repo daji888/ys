@@ -25,7 +25,7 @@
     "cateVodIdR": "/voddetail/(\\w+).html",
     "cateVodImg": "/@data-original",
     "cateVodImgR": "",
-    "cateVodMark": "//span[@class='pic-text text-right']/text()",
+    "cateVodMark": "//span[@class='pic-text text-right']//text()",
     "dtUrl": "https://www.9e03.com/voddetail/{vid}.html",
     "dtNode": "//body",
     "dtName": "//div[@class='col-xs-1']/div[@class='myui-content__thumb']/a/@title",
