@@ -48,7 +48,7 @@
     "dtUrlIdR": "/index.php/vod/play/id/(\\w+).html",
     "dtUrlName": "/span/text()",
     "dtUrlNameR": "",
-    "playUrl": "https://www.nfuxs.com/index.php/vod/play/{playUrl}.html",
+    "playUrl": "https://www.nfuxs.com/index.php/vod/play/id/{playUrl}.html",
     "playUa": "",
     "searchUrl": "https://www.nfuxs.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
     "scVodNode": "json:list",
