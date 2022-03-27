@@ -42,7 +42,7 @@
     "dtYearR": "",
     "dtMark": "//span[contains(@class,'video-info-itemtitle') and contains(text(), '集数')]/following-sibling::div/span/following-sibling::*/text()",
     "dtMarkR": "",
-    "dtDesc": "//span[contains(@class,'video-info-itemtitle') and contains(text(), '剧情')]/following-sibling::div/*/text()",
+    "dtDesc": "//span[contains(@class,'video-info-itemtitle') and contains(text(), '剧情')]/following-sibling::div/text()",
     "dtDescR": "",
     "dtFromNode": "//div[contains(@class, 'module-tab-content')]/div[contains(@class, 'module-tab-item')]/span",
     "dtFromName": "/text()",
