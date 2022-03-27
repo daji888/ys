@@ -7,7 +7,7 @@
     "dcShow2Vip": {},
     "dcPlayUrl": "true",
     "cateNode": "//ul[contains(@class,'nav-menu-items')]/li[contains(@class,'nav-menu-item selected')]/a[contains(@href,'type')]",
-    "cateName": "/span/text()",
+    "cateName": "/@title",
     "cateId": "/@href",
     "cateIdR": "/vod/type/(\\d+).html",
     "cateManual": {},
