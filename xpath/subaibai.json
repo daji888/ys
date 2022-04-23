@@ -6,7 +6,7 @@
     "cateId": "/@href",
     "cateIdR": "https://www.subaibaiys.com/(\\S+)",
     "cateManual": {},
-    "homeVodNode": "//div[contains(@class,'leibox')]/ul/li",
+    "homeVodNode": "//div[contains(@class,'newindex')]/ul/li",
     "homeVodName": "/h3[@class='dytit']/a/text()",
     "homeVodId": "/h3[@class='dytit']/a/@href",
     "homeVodIdR": "/movie/(\\w+).html",
