@@ -12,7 +12,7 @@
     "homeVodIdR": "/movie/(\\w+).html",
     "homeVodImg": "/img/@data-original",
     "homeVodImgR": "\\S+(http\\S+)",
-    "homeVodMark": "/a/div[@class='jidi']/span/text()",
+    "homeVodMark": "/div[@class='jidi']/span/text()",
     "cateUrl": "https://www.subaibaiys.com/{cateId}/page/{catePg}",
     "cateVodNode": "//div[contains(@class,'mrb')]/ul/li",
     "cateVodName": "/h3[@class='dytit']/a/text()",
