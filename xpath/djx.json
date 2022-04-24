@@ -18,7 +18,7 @@
   "homeVodImg": "/@data-original",
   "homeVodImgR": "\\S+(http\\S+)",
   "homeVodMark": "//span[contains(@class,'pic-text')]/text()",
-  "cateUrl": "https://www.dijiaxia.com/index.php/vod/show/area/{area}/id/{cateId}/by/{by}/year/{year}/page/{catePg}.html",
+  "cateUrl": "https://www.dijiaxia.com/index.php/vod/type/id/{cateId}/page/{catePg}.html",
   "cateVodNode": "//ul[contains(@class,'myui-vodlist')]/li/div/a",
   "cateVodName": "/@title",
   "cateVodId": "/@href",
