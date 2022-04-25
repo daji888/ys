@@ -11,7 +11,7 @@
     "cateId": "/@href",
     "cateIdR": "/list/(\\d+).html",
     "cateManual": {},
-    "homeVodNode": "//ul[contains(@class, 'stui-vodlist')]/li/div[contains(@class, 'stui-vodlist__box')]/a",
+    "homeVodNode": "//ul[contains(@class, 'stui-vodlist')][2]/li/div[contains(@class, 'stui-vodlist__box')]/a",
     "homeVodName": "/@title",
     "homeVodId": "/@href",
     "homeVodIdR": "/kan/(\\w+).html",
