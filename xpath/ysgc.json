@@ -11,7 +11,7 @@
     "cateId": "/@href",
     "cateIdR": "/vodtype/(\\w+).html",
     "cateManual": {},
-    "homeVodNode": "//div[contains(@class,'col-lg-wide-75')][2]//a[contains(@class,'myui-vodlist__thumb')]",
+    "homeVodNode": "//div[contains(@class,'col-lg-wide-75')]//a[contains(@class,'myui-vodlist__thumb')]",
     "homeVodName": "/@title",
     "homeVodId": "/@href",
     "homeVodIdR": "/voddetail/(\\w+).html",
