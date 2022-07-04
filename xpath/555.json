@@ -21,7 +21,7 @@
     "cateUrl": "https://www.555dy1.com/vodshow/{cateId}--------{catePg}---{year}.html",
     "cateVodNode": "//div[contains(@class, 'module-main module-page')]/div[contains(@class, 'module-items module-poster-items-base')]",
     "cateVodName": "/a/@title",
-    "cateVodId": "/a//@href",
+    "cateVodId": "/a/@href",
     "cateVodIdR": "/voddetail/(\\S+).html",
     "cateVodImg": "//img/@data-original",
     "cateVodImgR": "\\S+(http\\S+)",
