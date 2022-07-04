@@ -17,7 +17,7 @@
     "homeVodIdR": "/voddetail/(\\S+).html",
     "homeVodImg": "//img/@data-original",
     "homeVodImgR": "\\S+(http\\S+)",
-    "homeVodMark": "concat(/a/div[contains(@class,'module-item-cover')]/div[contains(@class,'module-item-note')]/text(),' ',/a/div/div[contains(@class,'module-item-douban')]/text())",
+    "homeVodMark": "/a/div[contains(@class,'module-item-cover')]/div[contains(@class,'module-item-note')]/text()",
     "cateUrl": "https://www.555dy1.com/vodshow/{cateId}--------{catePg}---{year}.html",
     "cateVodNode": "//div[contains(@class, 'module-main module-page')]/div[contains(@class, 'module-items module-poster-items-base')]",
     "cateVodName": "/a/@title",
