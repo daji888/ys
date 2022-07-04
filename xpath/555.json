@@ -25,7 +25,7 @@
     "cateVodIdR": "/voddetail/(\\S+).html",
     "cateVodImg": "//img/@data-original",
     "cateVodImgR": "\\S+(http\\S+)",
-    "cateVodMark": "concat(//div[contains(@class,'module-item-note')]/text(),'\ ',/div/div[contains(@class,'module-item-douban')]/text())",
+    "cateVodMark": "concat(//div[contains(@class,'module-item-note')]/text(),'\/ ',/div/div[contains(@class,'module-item-douban')]/text())",
     "dtUrl": "https://www.555dy1.com/voddetail/{vid}.html",
     "dtNode": "//body",
     "dtName": "//div[@class='myui-content__thumb']/a[contains(@class,'myui-vodlist__thumb')]/@title",
