@@ -40,7 +40,7 @@
     "dtAreaR": "",
     "dtMark": "",
     "dtMarkR": "",
-    "dtActor": "//span[contains(@class,'module-info-item-title')][1]/text()",
+    "dtActor": "//span[contains(@class,'module-info-item-title')][3]/text()",
     "dtActorR": "",
     "dtDirector": "//span[contains(@class,'module-info-item-title') and contains(text(), '导演')]//a[contains(@href,'vodsearch')]/text()",
     "dtDirectorR": "",
