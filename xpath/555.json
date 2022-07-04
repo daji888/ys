@@ -15,7 +15,7 @@
     "homeVodName": "/a/@title",
     "homeVodId": "/a/@href",
     "homeVodIdR": "/voddetail/(\\S+).html",
-    "homeVodImg": "/a/@data-original",
+    "homeVodImg": "//img/@data-original",
     "homeVodImgR": "\\S+(http\\S+)",
     "homeVodMark": "concat(/a/span[@class='pic-text text-right']/text(),' ',//span[contains(@style,'background-color')]/text())",
     "cateUrl": "https://www.555dy1.com/vodshow/{cateId}--------{catePg}---{year}.html",
