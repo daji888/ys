@@ -15,7 +15,7 @@
   "homeVodName": "/@title",
   "homeVodId": "/@href",
   "homeVodIdR": "/vod/(\\w+).html",
-  "homeVodImg": "//img/@data-original",
+  "homeVodImg": "/img/@data-original",
   "homeVodImgR": "\\S+(http\\S+)",
   "homeVodMark": "//div[contains(@class,'module-item-note')]/text()",
   "cateUrl": "https://guapitv.xyz/vodshow/{cateId}--------{catePg}---{year}.html",
