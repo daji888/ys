@@ -6,7 +6,7 @@
   "pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
   "dcShow2Vip": {},
   "dcPlayUrl": "true",
-  "cateNode": "//ul[contains(@class,'navbar-items swiper-wrapper')]/li/a",
+  "cateNode": "//ul[contains(@class,'navbar-items swiper-wrapper')]/li/a[contains(@href, 'list')]",
   "cateName": "/span/text()",
   "cateId": "/@href",
   "cateIdR": "/list/vod-(\\w+).html",
