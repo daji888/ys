@@ -26,7 +26,7 @@
   "cateVodImg": "//img/@data-original",
   "cateVodImgR": "\\S+(http\\S+)",
   "cateVodMark": "//div[contains(@class,'module-item-note')]/text()",
-  "dtUrl": "https://guapitv.xyz/{vid}.html",
+  "dtUrl": "https://guapitv.xyz/vod/{vid}.html",
   "dtNode": "//body",
   "dtName": "//div[contains(@class,'module-info-heading')]/h1//text()",
   "dtNameR": "",
