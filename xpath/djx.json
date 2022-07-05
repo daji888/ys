@@ -23,7 +23,7 @@
   "cateVodName": "/@title",
   "cateVodId": "/@href",
   "cateVodIdR": "/vod/(\\w+).html",
-  "cateVodImg": "//div[contains(@class, 'module-item-cover')]//img/@data-original",
+  "cateVodImg": "//div[contains(@class, 'module-item-cover')]/div/img/@data-original",
   "cateVodImgR": "\\S+(http\\S+)",
   "cateVodMark": "//div[contains(@class,'module-item-note')]/text()",
   "dtUrl": "https://guapitv.xyz/vod/{vid}.html",
