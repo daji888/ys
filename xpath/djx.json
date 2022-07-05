@@ -22,7 +22,7 @@
   "cateVodNode": "//div[contains(@class, 'module-main module-page')]/div[contains(@class, 'module-items module-poster-items-base')]/a",
   "cateVodName": "/@title",
   "cateVodId": "/@href",
-  "cateVodIdR": "/vod/(\\S+).html",
+  "cateVodIdR": "/vod/(\\w+).html",
   "cateVodImg": "//img/@data-original",
   "cateVodImgR": "\\S+(http\\S+)",
   "cateVodMark": "//div[contains(@class,'module-item-note')]/text()",
