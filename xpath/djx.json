@@ -18,7 +18,7 @@
   "homeVodImg": "//img/@data-original",
   "homeVodImgR": "\\S+(http\\S+)",
   "homeVodMark": "//div[contains(@class,'module-item-note')]/text()",
-  "cateUrl": "https://guapitv.xyz/vodshow/{cateId}--------{catePg}---{year}.html",
+  "cateUrl": "https://guapitv.xyz/vodshow/{cateId}--------{catePg}---.html",
   "cateVodNode": "//div[contains(@class, 'module-main module-page')]/div[contains(@class, 'module-items module-poster-items-base')]/a",
   "cateVodName": "/@title",
   "cateVodId": "/@href",
