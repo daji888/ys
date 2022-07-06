@@ -36,7 +36,7 @@
  "dtArea": "//div[@class='module-info-tag-link'][2]/a/text()",
  "dtActor": "//div[contains(@class,'module-info-item')]/span[contains(@class,'module-info-item-title') and contains(text(), '主演') ]/following-sibling::*/a/text()",
  "dtDirector": "//div[contains(@class,'module-info-item')]/span[contains(@class,'module-info-item-title') and contains(text(), '导演')]/following-sibling::*/a/text()",
- "dtDesc": "//div[@class='module-info-introduction-content show-desc']/p/text()",
+ "dtDesc": "//div[@class='module-info-introduction-content']/p/text()",
  "dtFromNode": "//div[@class='module-tab-item tab-item']",
  "dtFromName": "/span/text()",
  "dtUrlNode": "//div[contains(@class,'module-play-list')]",
