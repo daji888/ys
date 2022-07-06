@@ -10,7 +10,7 @@
  "cateName": "/@title",
  "cateId": "/@href",
  "cateIdR": "/vodtype/(\\d+)/",
- "homeVodNode": "//div[contains(@class, 'module-main tab-list active')]/div[contains(@class, 'module-items module-poster-items-base')][3]/a",
+ "homeVodNode": "//div[contains(@class, 'module-main tab-list active')]/div[contains(@class, 'module-items module-poster-items-base')]/a",
  "homeVodName": "/@title",
  "homeVodId": "/@href",
  "homeVodIdR": "/voddetail/(\\w+)/",
