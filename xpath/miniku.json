@@ -42,7 +42,7 @@
  "dtUrlNode": "//div[contains(@class,'module-play-list')]",
  "dtUrlSubNode":  "/div/a",
  "dtUrlId": "/@href",
- "dtUrlIdR": "/vodplay/(\\S+).html",
+ "dtUrlIdR": "/vodplay/(\\S+)/",
  "dtUrlName": "/span/text()",
  "playUrl": "https://www.miniku.cc/vodplay/{playUrl}/",
  "searchUrl": "https://www.miniku.cc/index.php/ajax/suggest?mid=1&wd={wd}&limit=5",
