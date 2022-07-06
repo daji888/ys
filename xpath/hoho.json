@@ -9,7 +9,7 @@
     "cateNode": "//ul[contains(@class,'nav-menu-items')]//li[contains(@class,'nav-menu-item')]/a[contains(@href,'type')]",
     "cateName": "/@title",
     "cateId": "/@href",
-    "cateIdR": "/vod/type/(\\d+).html",
+    "cateIdR": "/vod/type/id/(\\d+).html",
     "cateManual": {},
     "homeVodNode": "//div[contains(@class, 'module-items')]/div[contains(@class, 'module-item')]",
     "homeVodName": "/div[contains(@class, 'module-item-titlebox')]/a/@title",
