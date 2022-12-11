@@ -44,7 +44,7 @@
     "dtActorR": "(\\S+),,,",
     "dtDirector": "//div[@class='myui-content__detail']//span[contains(@class,'text-muted') and contains(text(), '导演')]/following-sibling::*/text()",
     "dtDirectorR": "",
-    "dtDesc": "concat(//div[@class='myui-panel_bd']//span[contains(@class,'data')]/text())",
+    "dtDesc": "concat(//div[@class='myui-panel_bd']//span[contains(@class,'data')]/p/text(),//div[@class='myui-panel_bd']//span[contains(@class,'data')]/text())",
     "dtDescR": "",
     "dtFromNode": "//a[@data-toggle='tab' and contains(@href, 'playlist')]",
     "dtFromName": "/text()",
