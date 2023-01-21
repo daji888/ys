@@ -158,7 +158,7 @@
      "searchable": 1,
      "quickSearch": 1,
      "filterable": 0,
-     "ext": "https://daji888.coding.net/p/mao/d/maoys/git/raw/master/xpath/555.json"
+     "ext": "https://notabug.org/daji/ys/raw/master/xpath/555.json"
 },
 {
      "key":"csp_xpath_smdyy",
@@ -168,7 +168,7 @@
      "searchable":1,
      "quickSearch":1,
      "filterable":0,
-     "ext":"https://daji888.coding.net/p/mao/d/maoys/git/raw/master/xpath/smdyy.json"
+     "ext":"https://notabug.org/daji/ys/raw/master/xpath/smdyy.json"
 },
 {
       "key":"csp_xpath_jubaibai",
@@ -178,7 +178,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":0,
-      "ext":"https://daji888.coding.net/p/mao/d/maoys/git/raw/master/xpath/jubaibai.json"
+      "ext":"https://notabug.org/daji/ys/raw/master/xpath/jubaibai.json"
 },
 {
       "key": "csp_xpath_djx",
@@ -188,7 +188,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://daji888.coding.net/p/mao/d/maoys/git/raw/master/xpath/djx.json"
+      "ext": "https://notabug.org/daji/ys/raw/master/xpath/djx.json"
     },
 {
      "key":"csp_xpath_1010dy",
@@ -198,7 +198,7 @@
      "searchable":1,
      "quickSearch":1,
      "filterable":1,
-     "ext":"https://daji888.coding.net/p/mao/d/maoys/git/raw/master/xpath/1010dy.json"
+     "ext":"https://notabug.org/daji/ys/raw/master/xpath/1010dy.json"
 },
 {
      "key":"csp_xpath_libvio",
@@ -208,7 +208,7 @@
      "searchable":1,
      "quickSearch":1,
      "filterable":0,
-     "ext":"https://daji888.coding.net/p/mao/d/maoys/git/raw/master/xpath/libvio.json"
+     "ext":"https://notabug.org/daji/ys/raw/master/xpath/libvio.json"
 },
 {
     "key": "csp_xpath_xkys",
@@ -218,7 +218,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 0,
-    "ext": "https://daji888.coding.net/p/mao/d/maoys/git/raw/master/xpath/xkys.json"
+    "ext": "https://notabug.org/daji/ys/raw/master/xpath/xkys.json"
 },
 {
       "key":"csp_xpath_1090ys",
@@ -228,7 +228,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":0,
-      "ext":"https://daji888.coding.net/p/mao/d/maoys/git/raw/master/xpath/1090ys.json"
+      "ext":"https://notabug.org/daji/ys/raw/master/xpath/1090ys.json"
 },
 {
      "key":"csp_xpath_juztv",
@@ -238,7 +238,7 @@
      "searchable":1,
      "quickSearch":1,
      "filterable":0,
-     "ext":"https://daji888.coding.net/p/mao/d/maoys/git/raw/master/xpath/juztv.json"
+     "ext":"https://notabug.org/daji/ys/raw/master/xpath/juztv.json"
 },
 {
      "key":"csp_xpath_wuguiyy",
@@ -248,7 +248,7 @@
      "searchable":1,
      "quickSearch":1,
      "filterable":0,
-     "ext":"https://daji888.coding.net/p/mao/d/maoys/git/raw/master/xpath/wuguiyy.json"
+     "ext":"https://notabug.org/daji/ys/raw/master/xpath/wuguiyy.json"
 },
 {
       "key": "csp_xpath_subaibai",
@@ -258,7 +258,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://daji888.coding.net/p/mao/d/maoys/git/raw/master/xpath/subaibai.json"
+      "ext": "https://notabug.org/daji/ys/raw/master/xpath/subaibai.json"
     },
 {
      "key":"csp_xpath_miniku",
@@ -268,7 +268,7 @@
      "searchable":1,
      "quickSearch":1,
      "filterable": 0,
-     "ext":"https://daji888.coding.net/p/mao/d/maoys/git/raw/master/xpath/miniku.json"
+     "ext":"https://notabug.org/daji/ys/raw/master/xpath/miniku.json"
 },
 {
      "key":"csp_xpath_hoho",
@@ -278,7 +278,7 @@
      "searchable":1,
      "quickSearch":1,
      "filterable":0,
-     "ext":"https://daji888.coding.net/p/mao/d/maoys/git/raw/master/xpath/hoho.json"
+     "ext":"https://notabug.org/daji/ys/raw/master/xpath/hoho.json"
 },
 {
      "key": "csp_xpath_bde4",
@@ -288,7 +288,7 @@
      "searchable": 1,
      "quickSearch": 1,
      "filterable": 1,
-     "ext": "https://daji888.coding.net/p/mao/d/maoys/git/raw/master/xpath/bde4.json"
+     "ext": "https://notabug.org/daji/ys/raw/master/xpath/bde4.json"
 },
 {
       "key": "csp_xpath_nfuxs",
@@ -298,7 +298,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://daji888.coding.net/p/mao/d/maoys/git/raw/master/xpath/nfuxs.json"
+      "ext": "https://notabug.org/daji/ys/raw/master/xpath/nfuxs.json"
     },
 {
       "key": "csp_xpath_aixixi",
@@ -308,7 +308,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://daji888.coding.net/p/mao/d/maoys/git/raw/master/xpath/aixixi.json"
+      "ext": "https://notabug.org/daji/ys/raw/master/xpath/aixixi.json"
     },
 {
     "key": "csp_xpath_dsxys",
@@ -318,7 +318,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
-    "ext": "https://daji888.coding.net/p/mao/d/maoys/git/raw/master/xpath/dsxys.json"
+    "ext": "https://notabug.org/daji/ys/raw/master/xpath/dsxys.json"
 },
 
 
