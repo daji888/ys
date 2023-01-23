@@ -21,13 +21,6 @@
 {"key":"Yisou","name":"🆎易搜","type":3,"api":"csp_Yisou","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext": "https://yydsys.top/duo/ali/token.txt"},
 {"key":"Upyunso","name":"☁️UP云搜","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext": "https://yydsys.top/duo/ali/token.txt"},
 {"key":"Zhaozy","name":"🐞找资源","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext": "https://yydsys.top/duo/ali/token.txt"},
-
-
-{"key":"PanSou","name":"😻盘搜","type":3,"api":"csp_PanSou","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext": "https://yydsys.top/duo/ali/token.txt"},
-{"key":"Paper","name":"📜小纸条","type":3,"api":"csp_Paper","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext": "https://yydsys.top/duo/ali/token.txt"},
-{"key":"YiSo","name":"🆎易搜","type":3,"api":"csp_YiSo","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext": "https://yydsys.top/duo/ali/token.txt"},
-{"key":"UpYun","name":"☁️UP云搜","type":3,"api":"csp_UpYun","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext": "https://yydsys.top/duo/ali/token.txt"},
-{"key":"Zhaozy","name":"🐞找资源","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext": "https://yydsys.top/duo/ali/token.txt"},
 {"key":"t4public","name":"🎁T4(SP)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=0c55c9f1c5cb4327ae2e51423276bb1e","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 
