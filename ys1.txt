@@ -82,9 +82,9 @@
 
 {
      "key":"csp_xpath_smdyy",
-     "name":"神马影院(XPath)",
+     "name":"神马影院(XPathMac)",
      "type":3,
-     "api":"csp_XPath",
+     "api":"csp_XPathMac",
      "searchable":1,
      "quickSearch":1,
      "filterable":0,
