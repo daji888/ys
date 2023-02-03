@@ -16,7 +16,6 @@
 },
 
 
-
 {"key":"Gitcafe","name":"📜小纸条","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
 {"key":"AliPS","name":"😻盘搜","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
 {"key":"Upyunso","name":"☁️UP云搜","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
@@ -60,50 +59,32 @@
 
 {"key":"csp_xpath_yinfans","name":"👒音范丝（XP磁力）","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.liucn.cc/box/sub/MeowXP/yinfans.json"},
 {"key":"csp_xpath_qiumi","name":"🏀JRKAN直播(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.liucn.cc/box/sub/ext/dj看球.json"},
-{"key":"88看球","name":"⚽88看球","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/88看球.json"},
 
 
 {"searchable":1,"quickSearch":1,"api":"csp_AppYsV2","filterable":1,"ext":"http://v.jiexi.work/qingdoujiekou.php/v1.vod","key":"csp_优质_爱麻花影视","type":3,"name":"爱麻花影视(M2)"},
-{"searchable":1,"quickSearch":1,"api":"csp_AppYsV2","filterable":1,"ext":"https://vod.9e03.com/lvdou_api.php/v1.vod","key":"9E03","type":3,"name":"9E03(M2)"},
-{"searchable":"1","quickSearch":"1","api":"csp_AppYsV2","filterable":"1","ext":"http://tv.tkys.tv/api.php/iptv/vod/","key":"csp_IPTV_天空TV","type":"3","name":"IPTV_天空TV(M2)"},
 {"searchable":"1","quickSearch":"1","api":"csp_AppYsV2","filterable":"1","ext":"https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod","key":"csp_appysv2_爱酷影视","type":"3","name":"爱酷影视(M2)"},
-{"key":"csp_appysv2_暖光影视","name":"暖光影视(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://app.bl210.com/api.php/v1.vod"},
-{"key":"csp_appysv2_v1_淘剧社", "name":"淘剧社(M2)", "type":3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://app.shuhai99.com/api.php/v1.vod"},
-{"searchable":"1","quickSearch":"1","api":"csp_AppYsV2","filterable":"1","ext":"https://shangjihuoke.com/api.php/tv.vod","key":"csp_appysv2_段友影视2","type":"3","name":"段友影视2(M2)"},
-{"key":"csp_appysv2_渔渔影视","name":"渔渔影视(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://luobo.yugenye.site/api.php/v1.vod"},
-{"key":"csp_appysv2_影库","name":"影库(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yingkudy.com/lvdou_api.php/v1.vod"},
 
 
 
 ## XPath系列
 {"key":"csp_xpath_xuangz","name":"尘落电影(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/xuangz.json"},
 {"key":"csp_xpath_6d","name":"六度TV(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/6d.json"},
-{"key":"csp_xpath_cokemv","name":"Cokemv(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/cokemv.json"},
 {"key":"csp_xpath_348z","name":"348电影(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/348z.json"},
-{"key":"csp_xpath_dandanzan10","name":"蛋蛋赞(电影)(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/dandanzan10.json"},
-{"key":"csp_xpath_xiangdao","name":"农民影视(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/xiangdao.json"},
 {"key":"csp_xpath_czspp","name":"厂长资源(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/czspp.json"},
-{"key":"csp_XPath_bidiys","name":"哔嘀影视(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/bidiys2.json"},
 {"key":"csp_xpath_bttwoo","name":"两个BT(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/bttwoo.json"},
-{"key":"csp_xpath_wanmeikk","name":"完美看看(XP)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/wanmeikk.json"},
 {"key":"csp_xpath_lezhutv","name":"乐猪TV(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/lezhutv.json"},
 {"key":"csp_xpath_zaixiandianying8","name":"在线电影(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/zaixiandianying8.json"},
 {"key":"csp_xpath_135kan","name":"135看看(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/135kan.json"},
-{"key":"csp_xpath_newfii","name":"奈落影院(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/newfii.json"},
-{"key":"csp_xpath_dym8","name":"电影迷(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/dym8.json"},
 {"key":"csp_xpath_paopaoshipin","name":"泡泡视频(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/paopaoshipin.json"},
-{"key":"csp_xpath_hiyszx","name":"影视在线(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/hiyszx.json"},
-{"key":"csp_xpath_xqmi","name":"小强迷(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/xqmi.json"},
-{"key":"csp_xpath_juhuang","name":"剧荒TV(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/juhuang.json"},
 {"key":"csp_xpath_huya","name":"🐯虎牙(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/huya2.json"},
 {"key":"csp_xpath_kuqimv","name":"🎤酷奇MV(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/kuqimv.json"},
 
 
 {
      "key":"csp_xpath_smdyy",
-     "name":"神马影院(XPathMac)",
+     "name":"神马影院(XPath)",
      "type":3,
-     "api":"csp_XPathMac",
+     "api":"csp_XPath",
      "searchable":1,
      "quickSearch":1,
      "filterable":0,
@@ -111,9 +92,9 @@
 },
 {
      "key": "csp_xpath_555",
-     "name": "555电影(XPathMac)",
+     "name": "555电影(XPath)",
      "type": 3,
-     "api": "csp_XPathMac",
+     "api": "csp_XPath",
      "searchable": 1,
      "quickSearch": 1,
      "filterable": 0,
@@ -121,9 +102,9 @@
 },
 {
      "key":"csp_xpath_1010dy",
-     "name":"双十电影(XPathMac)",
+     "name":"双十电影(XPath)",
      "type":3,
-     "api":"csp_XPathMacFilter",
+     "api":"csp_XPathFilter",
      "searchable":1,
      "quickSearch":1,
      "filterable":1,
