@@ -248,8 +248,16 @@
 # type0 手动解析
 
 {"name":"m3u8tv解析","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
-{"name":"OK01解析", "type": 0,"url": "https://okjx.cc/?url="},
-{"name":"免费解析","type":0,"url":"https://api.okjx.cc:3389/jx.php?url="},
+{
+		"name": "bulei",
+		"type": 0,
+		"url": "https://bf.bulei.cc/player/?url=",
+		"header": {
+			"User-Agent": "Mozilla/5.0"
+		} 
+	},
+{"name":"OK解析", "type": 0,"url": "https://okjx.cc/?url="},
+{"name":"OK解析api","type":0,"url":"https://api.okjx.cc:3389/jx.php?url="},
 {"name":"云逸解析","type":0,"url":"https://jx.iztyy.com/svip/?url="},
 {"name":"zui","type":0,"url":"https://jx.zui.cm/?url="},
 {"name":"诺讯解析","type":0,"url":"https://www.nxflv.com/?url="},
