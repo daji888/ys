@@ -40,7 +40,7 @@
     "dtUrlName": "/text()",
     "playUrl": "https://www.subaibaiys.com/v_play/{playUrl}.html",
     "playUa": "",
-    "searchUrl": "https://www.subaibaiys.com/grabble?q={wd}",
+    "searchUrl": "https://www.subaibaiys.com/search?q={wd}",
     "scVodNode": "//div[contains(@class,'search_list')]/ul/li",
     "scVodName": "/h3[@class='dytit']/a/text()",
     "scVodId": "/h3[@class='dytit']/a/@href",
