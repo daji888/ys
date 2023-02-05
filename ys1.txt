@@ -150,16 +150,6 @@
      "filterable":0,
      "ext":"https://notabug.org/daji/ys/raw/master/xpath/juztv.json"
 },
-{
-     "key":"csp_xpath_wuguiyy",
-     "name":"乌龟影院(XPathMac)",
-     "type":3,
-     "api":"csp_XPathMac",
-     "searchable":1,
-     "quickSearch":1,
-     "filterable":0,
-     "ext":"https://notabug.org/daji/ys/raw/master/xpath/wuguiyy.json"
-},
 
 
 
