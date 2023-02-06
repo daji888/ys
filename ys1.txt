@@ -130,26 +130,6 @@
       "filterable": 0,
       "ext": "https://notabug.org/daji/ys/raw/master/xpath/subaibai.json"
     },
-{
-    "key": "csp_xpath_xkys",
-    "name": "星空影视(XPathMac)",
-    "type": 3,
-    "api": "csp_XPathMac",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 0,
-    "ext": "https://notabug.org/daji/ys/raw/master/xpath/xkys.json"
-},
-{
-     "key":"csp_xpath_juztv",
-     "name":"星辰影院(XPathMac)",
-     "type":3,
-     "api":"csp_XPathMac",
-     "searchable":1,
-     "quickSearch":1,
-     "filterable":0,
-     "ext":"https://notabug.org/daji/ys/raw/master/xpath/juztv.json"
-},
 
 
 
