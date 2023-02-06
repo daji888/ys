@@ -46,7 +46,7 @@
     "dtDirectorR": "",
     "dtDesc": "//div[@class='module-info-introduction-content show-desc']/p/text()",
     "dtDescR": "",
-    "dtFromNode": "//div[@class='module-tab-items']",
+    "dtFromNode": "//div[@class='module-tab-items-box hisSwiper']",
     "dtFromName": "//span/text()",
     "dtFromNameR": "",
     "dtUrlNode": "//div[contains(@class,'module-play-list')]",
