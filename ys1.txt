@@ -205,7 +205,7 @@
 
 # type0 手动解析
 
-{"name":"m3u8tv解析","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
+
 {
 		"name": "bulei",
 		"type": 0,
@@ -217,6 +217,7 @@
 {"name":"OK解析", "type": 0,"url": "https://okjx.cc/?url="},
 {"name":"OK解析api","type":0,"url":"https://api.okjx.cc:3389/jx.php?url="},
 {"name":"云逸解析","type":0,"url":"https://jx.iztyy.com/svip/?url="},
+{"name":"m3u8tv解析","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
 
 # type1 自动解析
 
