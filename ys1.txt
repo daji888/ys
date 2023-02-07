@@ -206,14 +206,7 @@
 # type0 手动解析
 
 
-{
-		"name": "bulei",
-		"type": 0,
-		"url": "https://bf.bulei.cc/player/?url=",
-		"header": {
-			"User-Agent": "Mozilla/5.0"
-		} 
-	},
+
 {
 		"name": "未知",
 		"type": 0,
