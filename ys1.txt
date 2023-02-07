@@ -223,11 +223,10 @@
 		}    
 	}, 
 {"name":"OK解析", "type": 0,"url": "https://okjx.cc/?url="},
-{"name":"OK解析api","type":0,"url":"https://api.okjx.cc:3389/jx.php?url="},
+
 
 
 # type1 自动解析
-
 
 
 {
