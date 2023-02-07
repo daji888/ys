@@ -221,18 +221,16 @@
 # type1 自动解析
 
 
- {
-		"name": "星辰云",
-		"type": 1,
-		"url": "http://jiexi.xn--9kq078cdn3a.cc/api/?key=GBD3V6yCj23M2no1WZ&url=",
-		"header": {
-			"User-Agent": "Mozilla/5.0"
-		}   
-	},
+
 {
 		"name": "rx",
 		"type": 1,
 		"url": "http://rxjx.kuanjv.com/allm3u8.php?url="
+	},
+{
+		"name": "万年魂环",
+		"type": 1,
+		"url": "https://jiexi.parses.repl.co/api.php?url="
 	},
 {
       "name": "m3u8解析",
