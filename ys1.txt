@@ -1,6 +1,6 @@
 // 配置地址 --> clan://localhost/TVBox/bc.json
 {
-"spider":"https://notabug.org/daji/ys/raw/master/Yoursmile.jar",
+"spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=https://notabug.org/daji/ys/raw/master/tv.txt"]}]}],
 "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 "sites":[
@@ -16,11 +16,11 @@
 },
 
 
-{"key":"Gitcafe","name":"📜小纸条","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext": "https://yydsys.top/duo/ali/token.txt"},
-{"key":"AliPS","name":"😻盘搜","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext": "https://yydsys.top/duo/ali/token.txt"},
-{"key":"Upyunso","name":"☁️UP云搜","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext": "https://yydsys.top/duo/ali/token.txt"},
-{"key":"Yisou","name":"🆎易搜","type":3,"api":"csp_Yisou","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext": "https://yydsys.top/duo/ali/token.txt"},
-{"key":"Zhaozy","name":"🐞找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://yydsys.top/duo/ali/token.txt$$$yingshi$$$abcd1234"},
+{"key":"Gitcafe","name":"📜小纸条","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext": "https://yydsys.top/duo/ali/token.txt","jar": "https://notabug.org/daji/ys/raw/master/Yoursmile.jar"},
+{"key":"AliPS","name":"😻盘搜","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext": "https://yydsys.top/duo/ali/token.txt","jar": "https://notabug.org/daji/ys/raw/master/Yoursmile.jar"},
+{"key":"Upyunso","name":"☁️UP云搜","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext": "https://yydsys.top/duo/ali/token.txt","jar": "https://notabug.org/daji/ys/raw/master/Yoursmile.jar"},
+{"key":"Yisou","name":"🆎易搜","type":3,"api":"csp_Yisou","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext": "https://yydsys.top/duo/ali/token.txt","jar": "https://notabug.org/daji/ys/raw/master/Yoursmile.jar"},
+{"key":"Zhaozy","name":"🐞找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://yydsys.top/duo/ali/token.txt$$$yingshi$$$abcd1234","jar": "https://notabug.org/daji/ys/raw/master/Yoursmile.jar"},
 {"key":"t4public","name":"🔎T4(SP)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=52eb497172f44b498943ac642d62113e","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 
@@ -170,7 +170,7 @@
 
 {"key":"csp_bendi","name":"📂本地视频","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":1},
 
-{"key":"Push","name":"🍭推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext": "https://yydsys.top/duo/ali/token.txt"}
+{"key":"Push","name":"🍭推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext": "https://yydsys.top/duo/ali/token.txt","jar": "https://notabug.org/daji/ys/raw/master/Yoursmile.jar"}
 
 ],
 
