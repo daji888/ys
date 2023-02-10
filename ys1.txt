@@ -159,7 +159,7 @@
 
 {"key":"csp_bendi","name":"📂本地视频","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":1},
 
-{"key":"Push","name":"🍭推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext": "https://yydsys.top/duo/ali/token.txt","jar": "https://notabug.org/daji/ys/raw/master/Yoursmile.jar"}
+{"key":"Push","name":"🍭推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext": "https://yydsys.top/duo/ali/token.txt"}
 
 ],
 
