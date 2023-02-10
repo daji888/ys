@@ -21,7 +21,7 @@
 {"key":"Upyunso","name":"☁️UP云搜","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext": "https://yydsys.top/duo/ali/token.txt"},
 {"key":"Yisou","name":"🆎易搜","type":3,"api":"csp_Yisou","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext": "https://yydsys.top/duo/ali/token.txt"},
 {"key":"Zhaozy","name":"🐞找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://yydsys.top/duo/ali/token.txt$$$yingshi$$$abcd1234"},
-{"key":"t4public","name":"🔎T4(SP)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=52eb497172f44b498943ac642d62113e","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"t4public","name":"🔎T4(SP)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=283b584c5e524558a4c665d7e9e273be","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 
 {"key":"csp_77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
