@@ -95,7 +95,7 @@
 },
 {
      "key":"csp_xpath_555",
-     "name":"555影院(XPath)",
+     "name":"555电影(XPath)",
      "type":3,
      "api":"csp_XPath",
      "searchable":1,
