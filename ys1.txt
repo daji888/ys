@@ -18,8 +18,8 @@
 
 
 {
-            "key": "📜Gitcafe",
-            "name": "小纸条",
+            "key": "Gitcafe",
+            "name": "📜小纸条",
             "type": 3,
             "api": "csp_Paper",
             "searchable": 1,
