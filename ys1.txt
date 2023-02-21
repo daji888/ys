@@ -25,7 +25,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
+            "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"
         },
         {
             "key": "YiSo",
@@ -36,7 +36,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
+            "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"
         },
         {
             "key": "PanSou",
@@ -47,7 +47,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
+            "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"
         },
         {
             "key": "UpYun",
@@ -58,12 +58,12 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
+            "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"
         },
 
-{"key":"Zhaozy","name":"🐞找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt$$$yingshi$$$abcd1234"},
+{"key":"Zhaozy","name":"🐞找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt$$$yingshi$$$abcd1234"},
 
-{"key":"t4public","name":"🔎T4(SP)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=52eb497172f44b498943ac642d62113e","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"t4public","name":"🔎T4(SP)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=43c2326baa784ad99b4c59265f714227","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 {
             "key": "农民",
@@ -470,7 +470,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
+            "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"
         }
 
 ],
