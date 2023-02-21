@@ -23,7 +23,7 @@
 {"key":"PanSou","name":"😻盘搜","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"},
 {"key":"UpYun","name":"☁️UP云搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"},
 
-{"key":"t4public","name":"🔎T4(SP)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=43c2326baa784ad99b4c59265f714227","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"t4public","name":"🔎T4","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=43c2326baa784ad99b4c59265f714227","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 {"key":"csp_77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"SP360","name":"💘360影视","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
