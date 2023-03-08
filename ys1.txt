@@ -9,7 +9,7 @@
 		    "logo": "https://epg.112114.xyz/logo/{name}.png"
 	    }],
 //"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=https://notabug.org/daji/ys/raw/master/tv.txt"]}]}],
-"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
+"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 "sites":[
 {
     "key":"csp_xpath_ysgc",
