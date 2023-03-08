@@ -1,7 +1,14 @@
 // 配置地址 --> clan://localhost/TVBox/bc.json
 {
 "spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar",
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=https://notabug.org/daji/ys/raw/master/tv.txt"]}]}],
+"lives": [{
+		    "name": "live",
+		    "type": 0,
+		    "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
+		    "epg": "https://diyp.112114.xyz/?ch={name}&date={date}",
+		    "logo": "https://epg.112114.xyz/logo/{name}.png"
+	    }],
+//"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=https://notabug.org/daji/ys/raw/master/tv.txt"]}]}],
 "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 "sites":[
 {
