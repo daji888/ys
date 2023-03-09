@@ -4,7 +4,7 @@
 "lives": [{
 		    "name": "live",
 		    "type": 0,
-		    "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
+		    "url": "https://notabug.org/daji/ys/raw/master/tv.txt",
 		    "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 		    "logo": "https://epg.112114.xyz/logo/{name}.png"
 	    }],
