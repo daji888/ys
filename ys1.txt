@@ -13,7 +13,7 @@
 "sites":[
 {
     "key":"csp_xpath_ysgc",
-    "name":"影视工厂9(XPath)",
+    "name":"影视工厂(XPath)",
     "type":3,
     "api":"csp_XPathFilter",
     "searchable":1,
