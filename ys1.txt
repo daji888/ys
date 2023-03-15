@@ -4,7 +4,7 @@
 "lives": [{
 		    "name": "live",
 		    "type": 0,
-		    "url": "https://raw.iqiq.io/lmlmi/ooo/master/live.txt",
+		    "url": "https://notabug.org/daji/ys/raw/master/tv.txt",
 		    "logo": "https://epg.112114.xyz/logo/{name}.png"
 	    }],
 // "lives":[{"group":"redirect","channels":[{"name":"live","epg": "http://diyp.112114.xyz","urls":["proxy://do=live&type=txt&ext=https://notabug.org/daji/ys/raw/master/tv.txt"]}]}],
