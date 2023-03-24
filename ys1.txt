@@ -241,12 +241,12 @@
 {"name":"OK解析", "type": 0,"url": "https://okjx.cc/?url="},
 {"name":"OK解析api","type":0,"url":"https://api.okjx.cc:3389/jx.php?url="},
 {
-            "name": "c",
+            "name": "777jiexi",
             "type": 0,
             "url": "https://jx.777jiexi.com/player/?url="
         },
         {
-            "name": "d",
+            "name": "jsonplayer",
             "type": 0,
             "url": "https://jx.jsonplayer.com/player/?url="
         },
