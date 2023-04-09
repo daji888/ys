@@ -1,6 +1,6 @@
 // 配置地址 --> clan://localhost/TVBox/bc.json
 {
-"spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar",
+"spider":"https://notabug.org/daji/ys/raw/master/ys.jar",
 "lives": [{
 		    "name": "live",
 		    "type": 0,
