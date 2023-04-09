@@ -12,7 +12,7 @@
 "sites":[
 {
     "key":"csp_xpath_ysgc",
-    "name":"影视工厂(XPath)",
+    "name":"影视工厂66(XPath)",
     "type":3,
     "api":"csp_XPathFilter",
     "searchable":1,
@@ -21,13 +21,13 @@
     "ext":"https://notabug.org/daji/ys/raw/master/xpath/ysgc.json"
 },
 
-{"key":"csp_WoGG","name":"👽玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/daji/ys/raw/master/token.txt"},
-{"key":"Paper","name":"📜小纸条","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://notabug.org/daji/ys/raw/master/token.txt"},
-{"key":"PanSou","name":"😻盘搜","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://notabug.org/daji/ys/raw/master/token.txt"},
-{"key":"UpYun","name":"☁️UP云搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://notabug.org/daji/ys/raw/master/token.txt"},
-{"key":"Zhaozy","name":"🐞找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://notabug.org/daji/ys/raw/master/token.txt$$$yingshi$$$abcd1234"},
-{"key":"FanYY","name":"💦剥饭","type":3,"api":"csp_FanYY","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://notabug.org/daji/ys/raw/master/token.txt"},
-{"key":"YiSo","name":"🆎易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://notabug.org/daji/ys/raw/master/token.txt"},
+{"key":"csp_WoGG","name":"👽玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.qiaoji8.com/jar1/token.txt"},
+{"key":"Paper","name":"📜小纸条","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://www.qiaoji8.com/jar1/token.txt"},
+{"key":"PanSou","name":"😻盘搜","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://www.qiaoji8.com/jar1/token.txt"},
+{"key":"UpYun","name":"☁️UP云搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://www.qiaoji8.com/jar1/token.txt"},
+{"key":"Zhaozy","name":"🐞找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://www.qiaoji8.com/jar1/token.txt$$$yingshi$$$abcd1234"},
+{"key":"FanYY","name":"💦剥饭","type":3,"api":"csp_FanYY","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://www.qiaoji8.com/jar1/token.txt"},
+{"key":"YiSo","name":"🆎易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://www.qiaoji8.com/jar1/token.txt"},
 {"key":"csp_AList","name":"🅰AList网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":0,"filterable":1,"changeable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Alist.json"},
 
 {"key":"t4public","name":"🔎T4","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=6fa71bda523b40348c55f9446b5fa093","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -175,7 +175,7 @@
 
 {"key":"csp_bendi","name":"📂本地视频","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":1},
 
-{"key":"push_agent","name":"🍭推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext": "https://notabug.org/daji/ys/raw/master/token.txt"}
+{"key":"push_agent","name":"🍭推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext": "https://www.qiaoji8.com/jar1/token.txt"}
 
 
 ],
