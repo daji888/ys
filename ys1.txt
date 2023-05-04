@@ -1,11 +1,10 @@
 // 配置地址 --> clan://localhost/TVBox/bc.json
 {
-"spider":"https://dxawi.github.io/1/jar/cc.jar",
+"spider":"https://ghproxy.net/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar",
 "lives": [{
 		    "name": "live",
 		    "type": 0,
-		    "url": "https://notabug.org/daji/ys/raw/master/tv.txt",
-                    "epg":"http://epg.112114.xyz/?ch={name}&date={date}"
+		    "url": "https://notabug.org/daji/ys/raw/master/tv.txt"
 	    }],
 // "lives":[{"group":"redirect","channels":[{"name":"live","epg": "http://diyp.112114.xyz","urls":["proxy://do=live&type=txt&ext=https://notabug.org/daji/ys/raw/master/tv.txt"]}]}],
 "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
@@ -27,6 +26,7 @@
 {"key":"UpYun","name":"☁️UP云搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,"changeable":0},
 {"key":"Dovx","name":"😾七夜","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"filterable":0,"changeable":0},
 {"key":"Zhaozy","name":"🐞找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "https://pan.shangui.cc/f/YeQiy/自行扫码观看.txt$$$yingshi$$$abcd1234"},
+{"key":"PanSearch","name":"🙀盘搜索","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://pan.shangui.cc/f/YeQiy/自行扫码观看.txt"},
 {"key":"YiSo","name":"🆎易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"changeable":0},
 {"key":"csp_AList","name":"🅰AList网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":0,"filterable":1,"changeable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Alist.json"},
 
