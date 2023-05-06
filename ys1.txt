@@ -216,10 +216,13 @@
     
 
 
-
-
 # type0 手动解析
 
+ {
+      "name": "多多自建",
+      "type": 0,
+      "url": "https://xduo.app/api/?url="
+    },	
 {
 		"name": "777",
 		"type": 0,
@@ -264,7 +267,11 @@
 
 # type1 自动解析
 
-
+{
+      "name": "84jia",
+      "type": 1,
+      "url": "http://json.84jia.com/api/?key=voVwzMMKmRTdz6oMJ2&url="
+    },
 {
 		"name": "猫影视",
 		"type": 1,
