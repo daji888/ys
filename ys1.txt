@@ -2,7 +2,7 @@
 {
 "spider":"https://ghproxy.net/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar",
 
-"lives":[{"name":"live","type":0,"url":"https://notabug.org/daji/ys/raw/master/tv.txt","playerType":1,"ua":"okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
+"lives":[{"name":"live","type":0,"url":"https://notabug.org/daji/ys/raw/master/tv.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}"],
 
 // "lives":[{"group":"redirect","channels":[{"name":"live","epg": "http://diyp.112114.xyz","urls":["proxy://do=live&type=txt&ext=https://notabug.org/daji/ys/raw/master/tv.txt"]}]}],
 
@@ -40,7 +40,7 @@
 {"key":"360","name":"💘360","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"csp_AppTT","name":"🐰图图","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"SldZWXFaWkhXTU1sTlpadFNSSyN0elRJdzlMQVJSQ00=$$$Q1ppbkoxUzdvNnNZbU1WVw==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
 {"key":"csp_YQKAPP","name":"🌎一起看","type":3,"api":"csp_YQKAPP","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-aws.11ty.top"},
-{"key":"BuLei","name":"⚡布雷","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://饭太硬.ga/$$$auto$$$sdlw1111$$$qqaa1122"},
+{"key":"BuLei","name":"⚡布雷","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://饭太硬.ml/$$$auto$$$sdlw1111$$$qqaa1122"},
 {"key":"csp_Xinsj","name":"✨新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080yy2.com/"},
 {"key":"csp_Cokemv","name":"🚗可乐","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Nmys","name":"💥农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Nmys.json"},
@@ -252,11 +252,6 @@
 		}, 
 {"name":"OK解析", "type": 0,"url": "https://okjx.cc/?url="},
 {"name":"OK解析api","type":0,"url":"https://api.okjx.cc:3389/jx.php?url="},
-{
-		"name": "猫影视",
-		"type": 0,
-		"url": "http://www.miaoys.cc/vip/?url="
-	},
 # type1 自动解析
 
 
