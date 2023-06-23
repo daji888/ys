@@ -1,5 +1,5 @@
 {
-"spider": "https://notabug.org/daji/ys/raw/master/20.jar",
+"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06",
 
 "lives":[{"name":"live","type":0,"url":"https://notabug.org/daji/ys/raw/master/tv.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 
@@ -119,7 +119,6 @@
 {"key":"csp_xpath_135kan","name":"135看看(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/135kan.json"},
 {"key":"csp_xpath_huya","name":"🐯虎牙(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/huya2.json"},
 {"key":"csp_xpath_kuqimv","name":"🎤酷奇MV(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/kuqimv.json"},
-{"key":"csp_xpath_A33","name":"🎸MTV","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://home.jundie.top:81/TVBox/MaooXB/mtv.json"},
 {"key":"MV_vod","name":"🎵明星MV","type":1,"api":"https://mv.饭太硬.ml/mv/vod","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_XYQBiu_斗鱼","name":"🐬斗鱼直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/斗鱼.json"},
