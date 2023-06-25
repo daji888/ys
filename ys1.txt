@@ -230,16 +230,9 @@
 		}, 
 {"name":"OK解析", "type": 0,"url": "https://okjx.cc/?url="},
 {"name":"OK解析api","type":0,"url":"https://api.okjx.cc:3389/jx.php?url="},
+
 # type1 自动解析
 
-{
-		"name": "芒果",
-		"type": 1,
-		"url": "https://jx.255tv.tk/api/?key=S6kQHaE1gVEY5KAv8L&url=",
-		"ext": {
-			"flag": ["imgo","mgtv","芒果"]
-		}   
-	},
 {
 		"name": "小新",
 		"type": 1,
