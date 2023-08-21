@@ -85,9 +85,9 @@
 },
 {
      "key":"csp_xpath_hoho",
-     "name":"吼吼影视(XPathMac)",
+     "name":"吼吼影视(XPath)",
      "type":3,
-     "api":"csp_XPathMac",
+     "api":"csp_XPath",
      "searchable":1,
      "quickSearch":1,
      "filterable":0,
