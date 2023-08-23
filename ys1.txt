@@ -128,7 +128,6 @@
 #优质资源
 
 {"key":"U酷资源","name":"U酷资源(优)","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"淘片资源","name":"淘片资源(优)","type":1,"api":"https://taopianapi.com/home/cjapi/as/mc10/vod/json","searchable":1,"quickSearch":1},
 
 {"key":"*博天堂","name":"*博天堂","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":1,"quickSearch":1},
 {"key":"*美少女资源","name":"*美少女资源","type":0,"api":"https://www.msnii.com/api/xml.php","searchable":1,"quickSearch":1},
