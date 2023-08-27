@@ -1,5 +1,5 @@
 {
-"spider": "https://notabug.org/daji/TVBox/raw/master/Yoursmile.jar",
+"spider": "https://mpimg.cn/down.php/c2d9520823fd503539e2bd0522771dca.jar",
 
 "lives":[{"name":"live","type":0,"url":"https://notabug.org/daji/ys/raw/master/tv.txt","epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 
