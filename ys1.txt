@@ -221,7 +221,6 @@
 
 # type1 自动解析
 
-{"name":"巧技","type":1,"url":"http://pandown.pro/app/kkdy.php?url="},
  {
             "name": "小鱼",
             "type": 1,
@@ -232,6 +231,7 @@
 		"type": 1,
 		"url": "http://xiaoxin.1080p.fun/home/api?type=ys&uid=13270&key=cehklprBCEPUVWY234&url="
 	},
+{"name":"巧技","type":1,"url":"http://pandown.pro/app/kkdy.php?url="},
 {
 		"name": "哥哥们",
 		"type": 1,
