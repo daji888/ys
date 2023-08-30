@@ -128,7 +128,6 @@
 #优质资源
 
 {"key":"影图资源","name":"影图资源(官)","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"Ikun资源","name":"Ikun资源(切片)","type":0,"api":"https://ikunzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1},
 {"key":"U酷资源","name":"U酷资源(优)","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 
 {"key":"*博天堂","name":"*博天堂","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":1,"quickSearch":1},
@@ -223,11 +222,6 @@
 # type1 自动解析
 
 {"name":"巧技","type":1,"url":"http://pandown.pro/app/kkdy.php?url="},
-{
-            "name": "肥猫",
-            "type": 1,
-            "url": "http://jx.fuqizhishi.com:63/接口地址www.肥猫.love/肥猫专用.php?url="
-        },
  {
             "name": "小鱼",
             "type": 1,
