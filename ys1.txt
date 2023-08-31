@@ -213,12 +213,6 @@
 
 # type1 自动解析
 
- {
-            "name": "小鱼",
-            "type": 1,
-            "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=fjklpqsyCDGMNQRWX8&url="
-        },
-
 {
             "name":"巧技",
             "type":1,
