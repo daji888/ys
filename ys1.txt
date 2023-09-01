@@ -1,5 +1,5 @@
 {
-"spider": "https://mpimg.cn/down.php/cb79a023d795989f42ebf76d64fd7afa.jar",
+"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431",
 
 "lives":[{"name":"live","type":0,"url":"https://notabug.org/daji/ys/raw/master/tv.txt","epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 
@@ -212,6 +212,12 @@
 		}, 
 
 # type1 自动解析
+
+ {
+            "name": "小鱼",
+            "type": 1,
+            "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=fjklpqsyCDGMNQRWX8&url="
+        },
 
 {
             "name":"巧技",
