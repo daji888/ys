@@ -73,16 +73,6 @@
      "ext":"https://notabug.org/daji/ys/raw/master/xpath/555.json"
 },
 {
-     "key":"csp_xpath_1010dy",
-     "name":"双十电影(XPath)",
-     "type":3,
-     "api":"csp_XPathFilter",
-     "searchable":1,
-     "quickSearch":1,
-     "filterable":1,
-     "ext":"https://notabug.org/daji/ys/raw/master/xpath/1010dy.json"
-},
-{
      "key":"csp_xpath_hoho",
      "name":"吼吼影视(XPath)",
      "type":3,
