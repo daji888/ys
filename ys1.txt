@@ -95,12 +95,13 @@
 {
      "key": "csp_xpath_subaibai",
      "name": "素白白影视(XPath)",
+     "type":3,
      "api":"csp_XPathFilter",
      "searchable":1,
      "quickSearch":1,
      "filterable":1,
      "ext": "https://notabug.org/daji/ys/raw/master/xpath/subaibai.json"
-    },
+},
 {"key":"csp_xpath_yinfans","name":"👒音范丝（XP磁力）","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.liucn.cc/box/sub/MeowXP/yinfans.json"},
 {"key":"csp_xpath_348z","name":"348电影(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/348z.json"},
 {"key":"csp_xpath_bttwoo","name":"两个BT(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/bttwoo.json"},
