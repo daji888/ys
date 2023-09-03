@@ -96,7 +96,7 @@
      "key": "csp_xpath_subaibai",
      "name": "素白白影视(XPath)",
      "type":3,
-     "api":"csp_XPathFilter",
+     "api":"csp_XPath",
      "searchable":1,
      "quickSearch":1,
      "filterable":1,
