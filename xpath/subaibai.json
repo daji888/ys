@@ -28,7 +28,7 @@
     "dtCate": "//ul[@class='moviedteail_list']/li[contains(text(),'类型')]/a/text()",
     "dtYear": "//ul[@class='moviedteail_list']/li[contains(text(),'年份')]/a/text()",
     "dtArea": "//ul[@class='moviedteail_list']/li[contains(text(),'地区')]/a/text()",
-    "dtActor": "//div[@class='dyxingq']//li[contains(text(),'主演')]/a/text()",
+    "dtActor": "concat(//div[@class='dyxingq']//li[contains(text(),'主演')]/a/text())",
     "dtDirector": "//ul[@class='moviedteail_list']/li[contains(text(),'导演')]/a/text()",
     "dtDesc": "//div[@class='yp_context']/p/text()",
     "dtFromNode": "//div[contains(@class,'mi_paly_box')]//div[@class='ypxingq_t']",
