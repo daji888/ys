@@ -40,7 +40,7 @@
     "dtAreaR": "",
     "dtMark": "",
     "dtMarkR": "",
-    "dtActor": "//div[@class='module-info-items']//span[contains(text(), '主演') ]/div[contains(@class,'module-info-item-content')]/a/following-sibling::*/text()",
+    "dtActor": "//div[@class='module-info-items']//span[contains(text(), '主演') ]/div[contains(@class,'module-info-item-content')]/following-sibling::*/text()",
     "dtActorR": "(\\S+),,,",
     "dtDirector": "//div[contains(@class,'module-info-item')]/span[contains(@class,'module-info-item-title') and contains(text(), '导演')]/following-sibling::*/a/text()",
     "dtDirectorR": "",
