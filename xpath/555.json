@@ -40,7 +40,7 @@
     "dtAreaR": "",
     "dtMark": "",
     "dtMarkR": "",
-"dtActor": "concat(//div[contains(@class,'module-info-item')]/span[contains(text(), '主演') ]/following-sibling::*[1]/a/text(),',',//span[contains(text(), '主演')]/following-sibling::*[2]/a/text(),',',//span[contains(text(), '主演')]/following-sibling::*[3]/a/text(),',',//span[contains(text(), '主演')]/following-sibling::*[4]/a/text(),',',//span[contains(text(), '主演')]/following-sibling::*[5]/a/text(),',',//span[contains(text(), '主演')]/following-sibling::*[6]/a/text(),',',//span[contains(text(), '主演')]/following-sibling::*[7]/a/text())",    "dtActorR": "(\\S+),,,",
+    "dtActor": "concat(//div[contains(@class,'module-info-item')]/span[contains(text(), '主演') ]/following-sibling::*[1]/a/text(),',',//span[contains(text(), '主演')]/following-sibling::*[2]/a/text(),',',//span[contains(text(), '主演')]/following-sibling::*[3]/a/text(),',',//span[contains(text(), '主演')]/following-sibling::*[4]/a/text(),',',//span[contains(text(), '主演')]/following-sibling::*[5]/a/text(),',',//span[contains(text(), '主演')]/following-sibling::*[6]/a/text(),',',//span[contains(text(), '主演')]/following-sibling::*[7]/a/text())",    "dtActorR": "(\\S+),,,",
     "dtDirector": "//div[contains(@class,'module-info-item')]/span[contains(@class,'module-info-item-title') and contains(text(), '导演')]/following-sibling::*/a/text()",
     "dtDirectorR": "",
     "dtDesc": "//div[@class='module-info-introduction-content show-desc']/p/text()",
