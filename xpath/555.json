@@ -9,7 +9,7 @@
     "cateNode": "//ul[contains(@class, 'navbar-items swiper-wrapper')]/li/a[contains(@href, 'vodtypehtml')]",
     "cateName": "/span/text()",
     "cateId": "/@href",
-    "cateIdR": "/vodtype/(\\S+).html",
+    "cateIdR": "/vodtypehtml/(\\w+)/",
     "cateManual": {},
     "homeVodNode": "//div[contains(@class, 'module-main tab-list  active')]/div[contains(@class, 'module-items  module-poster-items-base')]/a",
     "homeVodName": "/@title",
