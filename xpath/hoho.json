@@ -22,7 +22,7 @@
     "cateVodName": "//div[@class='module-item-pic']/a/@title",
     "cateVodId": "//div[@class='module-item-pic']/a/@href",
     "cateVodIdR": "/vod/detail/id/(\\w+).html",
-    "cateVodImg": "concat('https://www.hoho.tv',//div[@class='module-item-pic']/img/@data-src"),
+    "cateVodImg": "//div[@class='module-item-pic']/img/@data-src",
     "cateVodMark": "//div[contains(@class,'module-item-caption')]/span/text()",
     "dtUrl": "https://www.hoho.tv/vod/detail/id/{vid}.html",
     "dtNode": "//body",
