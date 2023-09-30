@@ -18,7 +18,7 @@
     "homeVodImg": "/a/@data-original",
     "homeVodMark": "//span[contains(@class,'pic-text text-right')]/b/text()",
     "cateUrl": "https://www.hoho1.tv/vod/show/{cateId}/area/{area}/page/{page}/year/{year}.html",
-    "cateVodNode": ""//ul[contains(@class, 'stui-vodlist clearfix')][2]/li/div[contains(@class, 'stui-vodlist__box')]",
+    "cateVodNode": ""//ul[contains(@class, 'stui-vodlist clearfix')]/li/div[contains(@class, 'stui-vodlist__box')]",
     "cateVodName": "/a/@title",
     "cateVodId": "/a/@href",
     "cateVodIdR": "/vod/detail/id/(\\w+).html",
