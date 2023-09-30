@@ -17,7 +17,7 @@
     "homeVodIdR": "/detail/(\\w+).html",
     "homeVodImg": "//img/@data-src",
     "homeVodMark": "//span[contains(@class,'public-prt')]/text()",
-    "cateUrl": "https://www.ihoho.tv/vod/show/{cateId}.html",
+    "cateUrl": "https://www.ihoho.tv/index.php/vod/type/id/{cateId}.html",
     "cateVodNode": "//div[contains(@class, 'module-items')]/div[contains(@class, 'module-item')]",
     "cateVodName": "//div[@class='module-item-pic']/a/@title",
     "cateVodId": "//div[@class='module-item-pic']/a/@href",
