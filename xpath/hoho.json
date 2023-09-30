@@ -15,7 +15,7 @@
     "homeVodName": "/a/@title",
     "homeVodId": "/a/@href",
     "homeVodIdR": "/vod/detail/id/(\\w+).html",
-    "homeVodImg": "//img/@data-original",
+    "homeVodImg": "/a/@data-original",
     "homeVodMark": "//span[contains(@class,'pic-text')]/text()",
     "cateUrl": "https://www.hoho1.tv/index.php/vod/type/id/{cateId}.html",
     "cateVodNode": "//div[contains(@class, 'hide-b-16')]/div[contains(@class, 'public-list-box')]",
