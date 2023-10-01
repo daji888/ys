@@ -33,7 +33,7 @@
     "dtCate": "//div[@class='stui-content__detail']//p[contains(@class,'data hidden-xs')]/text()",
     "dtCateR": "类型：(\\S+)\/",
     "dtArea": "//p[contains(@class,'data visible-xs')][1]/text()",
-    "dtAreaR": "",
+    "dtAreaR": "地区：(\\S+)",
     "dtDirector": "//p[contains(@class,'data') and contains(text(), '导演')]/following-sibling::*/a/following-sibling::*/text()",
     "dtDirectorR": "",
     "dtActor": "concat(//div[@class='stui-content__detail']//p[contains(text(), '主演') ]/a[1]/text(),',',//p[contains(text(), '主演')]/a[2]/text(),',',//p[contains(text(), '主演')]/a[3]/text(),',',//p[contains(text(), '主演')]/a[4]/text(),',',//p[contains(text(), '主演')]/a[5]/text(),',',//p[contains(text(), '主演')]/a[6]/text(),',',//p[contains(text(), '主演')]/a[7]/text())",    "dtActorR": "(\\S+),,,",
