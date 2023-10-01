@@ -39,7 +39,7 @@
     "dtActor": "concat(//div[@class='stui-content__detail']//p[contains(text(), '主演') ]/a[1]/text(),',',//p[contains(text(), '主演')]/a[2]/text(),',',//p[contains(text(), '主演')]/a[3]/text(),',',//p[contains(text(), '主演')]/a[4]/text(),',',//p[contains(text(), '主演')]/a[5]/text(),',',//p[contains(text(), '主演')]/a[6]/text(),',',//p[contains(text(), '主演')]/a[7]/text())",    "dtActorR": "(\\S+),,,",
     "dtActorR": "(\\S+),,,",
     "dtYear": "//p[contains(@class,'data visible-xs')][3]/text()",
-    "dtYearR": "",
+    "dtYearR": "年份：(\\S+)",
     "dtMark": "//p[contains(@class,'data') and contains(text(), '状态')]/following-sibling::span/following-sibling::*/text()",
     "dtMarkR": "",
     "dtDesc": "//span[contains(@class,'detail-content')]/text()",
