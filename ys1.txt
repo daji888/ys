@@ -1,5 +1,5 @@
 {
-"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar",
+"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431",
 
 "lives":[{"name":"live","type":0,"url":"https://notabug.org/daji/ys/raw/master/tv.txt","epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 
@@ -18,7 +18,7 @@
 },
 
 {"key":"YiSo","name":"🆎易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
-{"key":"Zhaozy","name":"🐞找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$yingshi$$$abcd1234"},
+{"key":"Zhaozy","name":"🐞找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$Yoursmile$$$abcd1234"},
 {"key":"UpYun","name":"☁️UP云搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
 {"key":"PanSearch","name":"🙀盘搜索","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
 {"key":"PanSou","name":"📀盘搜","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
@@ -32,9 +32,11 @@
 {"key":"Qtv","name":"🐧腾讯","type": 3,"api":"csp_Qtv","searchable": 1,"quickSearch": 1,"filterable":1}, 
 {"key":"Itv","name":"💥爱奇艺","type":3,"api":"csp_Itv","quickSearch":0,"searchable":1,"filterable":1},
 {"key":"Mtv","name":"🚀芒果TV","type":3,"api":"csp_Mtv","searchable":1,"quickSearch":1,"filterable":1}, 
-{"key":"csp_SixV","name":"🧲新6V磁力","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://www.xb6v.com/"},
 {"key":"快看","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Czsapp","name":"🏭厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"Mino","name":"👻Mino","type":3,"api":"csp_Appto","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"ext":"|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx"},
+{"key":"追忆","name":"✌追忆","type":3,"api":"csp_Appto","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"ext":"|NZWNwN0ZXZE02WTRreHpXY2ZmNjJwY0RjWGlZN2ZmQWF8aHR0cDovLzIyMi4yMTEuNzMuMTU3OjExMjIvYXBwdG8vdjE"},
+{"key":"橘子","name":"🍊橘子","type":3,"api":"csp_Appto","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"ext":"pB8fV1o5fODylO5AtO8tvf0F1lRBzZhIb0ydyOYoUZ69DpfdeG0oDdRtFLkWxpHU9kWB67yp98N%2FQRMqmBFfDAyox2BUH5%2BexjgENSd4e28Pxi%2B5t01guq9FdjMXODf8IiUY1tJcNlEWeTAdGho%2BjA%3D%3D|BTmtwQlNQQ05OQXdYMktjZWNtd1lNakdKYkNQYjVZcll8aHR0cDovLzExOS4xMDEuMTQ4LjM6MjUyNS9hcHB0by92MQ"},
 {"key":"csp_DiDuan","name":"📺低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Zxzj","name":"🏠在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzj.pro/"},
 {"key":"csp_Auete","name":"🐼奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
@@ -44,9 +46,9 @@
 {"key":"csp_Cokemv","name":"🚗可乐","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bttwoo","name":"✌比特","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Lib","name":"🔷LibVio","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.libvio.pro/"},
-{"key":"csp_AppMr","name":"👻明明影视","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Voflix","name":"🌀Voflix","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ysgc","name":"🎥影视工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.ysgc.fun"},
+{"key":"csp_SixV","name":"🧲新6V","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://www.xb6v.com/"},
 {"key":"csp_Bili","name":"🅱️哔哩哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/fantaiying/fty/raw/branch/master/json/bilibili.json"},
 {"key":"csp_Biliych","name":"🅱哔哩演唱会","type": 3,"api": "csp_Bili","searchable":1,"quickSearch":0,"changeable":0,"ext":"https://agit.ai/fantaiying/fty/raw/branch/master/json/biliych.json"},
 {"key":"csp_Anime1","name":"🎈动漫","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
