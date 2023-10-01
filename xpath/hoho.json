@@ -31,7 +31,7 @@
     "dtImg": "//div[@class='stui-content']/div[contains(@class,'stui-content__thumb')]/a/img/@data-origina",
     "dtImgR": "",
     "dtCate": "//div[@class='stui-content__detail']//p[contains(@class,'data hidden-xs')]/text()",
-    "dtCateR": "类型：(\\S+)\/",
+    "dtCateR": "类型：(\\S+)/",
     "dtArea": "//p[contains(@class,'data visible-xs')][1]/text()",
     "dtAreaR": "地区：(\\S+)",
     "dtDirector": "//p[contains(@class,'data') and contains(text(), '导演')]/following-sibling::*/a/following-sibling::*/text()",
