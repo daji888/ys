@@ -28,7 +28,7 @@
     "dtNode": "//body",
     "dtName": "//div[contains(@class,'stui-content__detail')]/h1/text()",
     "dtNameR": "",
-    "dtImg": "//div[@class='stui-content']/div[contains(@class,'stui-content__thumb')]/a/img/@data-origina",
+    "dtImg": "//div[contains(@class,'stui-content__thumb')]/a[contains(@class,'pic')]/img/@data-origina",
     "dtImgR": "",
     "dtCate": "//div[@class='stui-content__detail']//p[contains(@class,'data hidden-xs')]/text()",
     "dtCateR": "类型：(\\S+)",
