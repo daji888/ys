@@ -11,7 +11,7 @@
     "cateId": "/@href",
     "cateIdR": "/vodtype/(\\w+).html",
     "cateManual": {},
-    "homeVodNode": "//div[contains(@class, 'myui-panel myui-panel-bg clearfix')][2]//ul[contains(@class, 'myui-vodlist clearfix')]/li/div[contains(@class, 'myui-vodlist__box')]/a",
+    "homeVodNode": "//div[contains(@class, 'myui-panel-box clearfix')][2]//ul[contains(@class, 'myui-vodlist clearfix')]/li/div[contains(@class, 'myui-vodlist__box')]/a",
     "homeVodName": "/@title",
     "homeVodId": "/@href",
     "homeVodIdR": "/voddetail/(\\w+).html",
