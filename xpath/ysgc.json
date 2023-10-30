@@ -19,7 +19,7 @@
     "homeVodImgR": "\\S+(http\\S+)",
     "homeVodMark": "/span[contains(@class,'pic-text')]/text()",
     "cateUrl": "https://www.ysgc1.cc/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
-    "cateVodNode": "//ul[contains(@class,'myui-vodlist clearfix')]/li/div[contains(@class, 'myui-vodlist__box')]/a",
+    "cateVodNode": "//div[contains(@class, 'myui-panel myui-panel-bg clearfix')]//ul[contains(@class,'myui-vodlist clearfix')]/li/div[contains(@class, 'myui-vodlist__box')]/a",
     "cateVodName": "/@title",
     "cateVodId": "/@href",
     "cateVodIdR": "/voddetail/(\\w+).html",
