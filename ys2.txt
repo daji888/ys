@@ -1,5 +1,5 @@
 {
-"spider": "https://mpimg.cn/down.php/cf00cc8baef423e51187750ac973417d.txt",
+"spider": "https://mpimg.cn/down.php/aabde6a8ab69185b3de13788799f5f53.txt",
 
 "lives":[{"name":"live","type":0,"url":"https://notabug.org/daji/ys/raw/master/tv.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 
