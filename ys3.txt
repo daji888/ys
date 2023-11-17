@@ -1,7 +1,7 @@
 {
 "spider": "https://notabug.org/daji/ys/raw/master/fan.txt",
 
-"lives":[{"name":"live","type":0,"url":"https://notabug.org/daji/ys/raw/master/tv.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
+"lives":[{"name":"live","type":0,"url":"https://notabug.org/daji/ys/raw/master/tv.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://diyp1.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 
 "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 
