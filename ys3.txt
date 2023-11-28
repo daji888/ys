@@ -1,5 +1,5 @@
 {
-"spider": "https://mpimg.cn/down.php/54c10560f16ee36885df2af75ebd12bb.jar",
+"spider": "https://mpimg.cn/down.php/da553cabc9a4e1f4577d1defcaa3ab28.jar",
 
 "lives":[{"name":"live","type":0,"url":"https://notabug.org/daji/ys/raw/master/tv.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://diyp1.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 
@@ -8,7 +8,7 @@
 "sites":[
 {
     "key":"csp_xpath_ysgc",
-    "name":"影视工厂222(XPath)",
+    "name":"影视工厂333(XPath)",
     "type":3,
     "api":"csp_XPathFilter",
     "searchable":1,
