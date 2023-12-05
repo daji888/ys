@@ -1,16 +1,89 @@
 {
   "spider": "https://notabug.org/daji/ys/raw/master/custom_spider.jar",
+  "lives":[{"name":"live","type":0,"url":"https://notabug.org/daji/ys/raw/master/tv.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://diyp1.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
+
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
-    {
-      "key": "商店",
-      "name": "商店",
-      "type": 3,
-      "api": "csp_Market",
-      "searchable": 0,
-      "changeable": 0,
-      "ext": "https://notabug.org/daji/FongMi-CatVodSpider/raw/main/json/market.json"
+  {
+    "key":"csp_xpath_ysgc",
+    "name":"影视工厂(XPath)",
+    "type":3,
+    "api":"csp_XPathFilter",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"https://notabug.org/daji/ys/raw/master/xpath/ysgc.json"
     },
+    {
+      "key": "玩偶",
+      "name": "玩偶",
+      "type": 3,
+      "api": "csp_Wogg",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "token": "影視天下第一",
+        "filter": "https://notabug.org/daji/FongMi-CatVodSpider/raw/main/json/wogg.json"
+    }
+    },
+    {
+      "key": "七夜",
+      "name": "七夜",
+      "type": 3,
+      "api": "csp_Dovx",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "易搜",
+      "name": "易搜",
+      "type": 3,
+      "api": "csp_YiSo",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "雲搜",
+      "name": "雲搜",
+      "type": 3,
+      "api": "csp_UpYun",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "盤搜",
+      "name": "盤搜",
+      "type": 3,
+      "api": "csp_PanSou",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "紙條搜",
+      "name": "紙條搜",
+      "type": 3,
+      "api": "csp_XiaoZhiTiao",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "盤搜索",
+      "name": "盤搜索",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "找資源",
+      "name": "找資源",
+      "type": 3,
+      "api": "csp_Zhaozy",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": "影視天下第一$$$test2$$$test2"
+    },
+    
     {
       "key": "泥巴",
       "name": "泥巴",
@@ -27,18 +100,8 @@
       "searchable": 1,
       "changeable": 1
     },
-    {
-      "key": "玩偶",
-      "name": "玩偶",
-      "type": 3,
-      "api": "csp_Wogg",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "token": "影視天下第一",
-        "filter": "https://notabug.org/daji/FongMi-CatVodSpider/raw/main/json/wogg.json"
-      }
-    },
+    
+    
     {
       "key": "賤賤",
       "name": "賤賤",
@@ -263,61 +326,13 @@
       "ext": "https://notabug.org/daji/FongMi-CatVodSpider/raw/main/json/webdav.json"
     },
     {
-      "key": "七夜",
-      "name": "七夜",
+      "key": "商店",
+      "name": "商店",
       "type": 3,
-      "api": "csp_Dovx",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "易搜",
-      "name": "易搜",
-      "type": 3,
-      "api": "csp_YiSo",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "雲搜",
-      "name": "雲搜",
-      "type": 3,
-      "api": "csp_UpYun",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "盤搜",
-      "name": "盤搜",
-      "type": 3,
-      "api": "csp_PanSou",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "紙條搜",
-      "name": "紙條搜",
-      "type": 3,
-      "api": "csp_XiaoZhiTiao",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "盤搜索",
-      "name": "盤搜索",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "找資源",
-      "name": "找資源",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "searchable": 1,
+      "api": "csp_Market",
+      "searchable": 0,
       "changeable": 0,
-      "ext": "影視天下第一$$$test2$$$test2"
+      "ext": "https://notabug.org/daji/FongMi-CatVodSpider/raw/main/json/market.json"
     },
     {
       "key": "push_agent",
