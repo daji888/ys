@@ -23,7 +23,7 @@
       "changeable": 0,
       "ext": {
         "token": "影視天下第一",
-        "filter": "https://notabug.org/daji/FongMi-CatVodSpider/src/main/json/wogg.json"
+        "filter": "https://notabug.org/daji/FongMi-CatVodSpider/raw/main/json/wogg.json"
       }
     },
     {
@@ -90,7 +90,7 @@
       "api": "csp_Jianpian",
       "searchable": 1,
       "changeable": 1,
-      "ext": "https://notabug.org/daji/FongMi-CatVodSpider/src/main/json/jianpian.json"
+      "ext": "https://notabug.org/daji/FongMi-CatVodSpider/raw/main/json/jianpian.json"
     },
     {
       "key": "996影院",
@@ -115,7 +115,7 @@
       "api": "csp_Douban",
       "searchable": 0,
       "changeable": 1,
-      "ext": "https://notabug.org/daji/FongMi-CatVodSpider/src/main/json/douban.json"
+      "ext": "https://notabug.org/daji/FongMi-CatVodSpider/raw/main/json/douban.json"
     },
     {
       "key": "新6V",
@@ -207,7 +207,7 @@
       "api": "csp_Market",
       "searchable": 0,
       "changeable": 0,
-      "ext": "https://notabug.org/daji/FongMi-CatVodSpider/src/main/json/market.json"
+      "ext": "https://notabug.org/daji/FongMi-CatVodSpider/raw/main/json/market.json"
     },
     {
       "key": "本地",
@@ -224,7 +224,7 @@
       "api": "csp_AList",
       "searchable": 1,
       "changeable": 0,
-      "ext": "https://notabug.org/daji/FongMi-CatVodSpider/src/main/json/alist.json"
+      "ext": "https://notabug.org/daji/FongMi-CatVodSpider/raw/main/json/alist.json"
     },
     {
       "key": "WebDAV",
@@ -233,7 +233,7 @@
       "api": "csp_WebDAV",
       "searchable": 1,
       "changeable": 0,
-      "ext": "https://notabug.org/daji/FongMi-CatVodSpider/src/main/json/webdav.json"
+      "ext": "https://notabug.org/daji/FongMi-CatVodSpider/raw/main/json/webdav.json"
     },
     {
       "key": "push_agent",
