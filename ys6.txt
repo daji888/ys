@@ -103,7 +103,7 @@
       "type": 3,
       "api": "csp_Ys23",
       "searchable": 1,
-      "changeable": 1
+      "changeable": 0
     },
     {
       "key": "短劇",
