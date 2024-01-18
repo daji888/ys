@@ -12,7 +12,7 @@
       "changeable": 0,
       "ext": {
         "token": "影視天下第一",
-        "filter": "https://raw.fgit.cf/daji888/Spider/main/json/wogg.json"
+        "filter": "https://raw.fgit.cf/daji888/ys/master/json/wogg.json"
       }
     },
     {
@@ -79,7 +79,7 @@
       "api": "csp_Jianpian",
       "searchable": 1,
       "changeable": 1,
-      "ext": "https://raw.fgit.cf/daji888/Spider/main/json/jianpian.json"
+      "ext": "https://raw.fgit.cf/daji888/ys/master/json/jianpian.json"
     },
     {
       "key": "996影院",
@@ -104,7 +104,7 @@
       "api": "csp_Douban",
       "searchable": 0,
       "changeable": 1,
-      "ext": "https://raw.fgit.cf/daji888/Spider/main/json/douban.json"
+      "ext": "https://raw.fgit.cf/daji888/ys/master/json/douban.json"
     },
     {
       "key": "新6V",
@@ -207,7 +207,7 @@
       "api": "csp_Market",
       "searchable": 0,
       "changeable": 0,
-      "ext": "https://raw.fgit.cf/daji888/Spider/main/json/market.json"
+      "ext": "https://raw.fgit.cf/daji888/ys/master/json/market.json"
     },
     {
       "key": "本地",
@@ -224,7 +224,7 @@
       "api": "csp_AList",
       "searchable": 1,
       "changeable": 0,
-      "ext": "https://raw.fgit.cf/daji888/Spider/main/json/alist.json"
+      "ext": "https://raw.fgit.cf/daji888/ys/master/json/alist.json"
     },
     {
       "key": "WebDAV",
@@ -233,7 +233,7 @@
       "api": "csp_WebDAV",
       "searchable": 1,
       "changeable": 0,
-      "ext": "https://raw.fgit.cf/daji888/Spider/main/json/webdav.json"
+      "ext": "https://raw.fgit.cf/daji888/ys/master/json/webdav.json"
     },
     {
       "key": "push_agent",
