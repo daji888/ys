@@ -16,6 +16,14 @@
       }
     },
     {
+      "key": "影视车",
+      "name": "影视车",
+      "type": 3,
+      "api": "csp_Yingshiche",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
       "key": "七夜",
       "name": "七夜",
       "type": 3,
@@ -86,6 +94,14 @@
       "name": "996影院",
       "type": 3,
       "api": "csp_Cs1369",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "23影视",
+      "name": "23影视",
+      "type": 3,
+      "api": "csp_Ys23",
       "searchable": 1,
       "changeable": 1
     },
