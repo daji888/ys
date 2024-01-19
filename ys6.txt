@@ -78,7 +78,7 @@
       "api": "csp_Zhaozy",
       "searchable": 1,
       "changeable": 0,
-      "ext": "影視天下第一$$$test2$$$test2"
+      "ext": "影視天下第一$$$lmok37266@bazatek.com$$$Yoursmile"
     },
     {
       "key": "賤賤",
