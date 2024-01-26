@@ -1,6 +1,6 @@
 {
   "spider": "https://raw.fgit.cf/daji888/CatVodSpider/xg/jar/custom_spider.jar",
-  "lives":[{"name":"live","type":0,"url":"https://raw.fgit.cf/daji888/ys/master/tv.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://diyp1.112114.xyz/?ch={name}&date={date}","logo":"https://diyp1.112114.xyz/logo/{name}.png"}],
+  "lives":[{"name":"live","type":0,"url":"https://raw.fgit.cf/daji888/ys/master/tv.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://diyp1.112114.xyz/?ch={name}&date={date}","logo":"https://upload.112114.xyz/logo/{name}.png"}],
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -96,14 +96,6 @@
       "api": "csp_Cs1369",
       "searchable": 1,
       "changeable": 1
-    },
-    {
-      "key": "23影视",
-      "name": "23影视",
-      "type": 3,
-      "api": "csp_Ys23",
-      "searchable": 1,
-      "changeable": 0
     },
     {
       "key": "短劇",
