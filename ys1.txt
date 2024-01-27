@@ -23,7 +23,7 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":1,
-    "ext":"https://notabug.org/daji/ys/raw/master/xpath/ysgc.json"
+    "ext":"https://ghproxy.net/raw.githubusercontent.com//daji888/ys/master/xpath/ysgc.json"
 },
 
 {"key":"csp_DouDou","name":"🔍豆瓣","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
@@ -70,7 +70,7 @@
      "searchable":1,
      "quickSearch":1,
      "filterable":1,
-     "ext":"https://notabug.org/daji/ys/raw/master/xpath/555.json"
+     "ext":"https://ghproxy.net/raw.githubusercontent.com//daji888/ys/master/xpath/555.json"
 },
 {
      "key": "csp_xpath_subaibai",
@@ -80,7 +80,7 @@
      "searchable":1,
      "quickSearch":1,
      "filterable":1,
-     "ext": "https://notabug.org/daji/ys/raw/master/xpath/subaibai.json"
+     "ext": "https://ghproxy.net/raw.githubusercontent.com//daji888/ys/master/xpath/subaibai.json"
 },
 {"key":"csp_xpath_yinfans","name":"👒音范丝（XP磁力）","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.liucn.cc/box/sub/MeowXP/yinfans.json"},
 {"key":"csp_xpath_348z","name":"348电影(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/348z.json"},
