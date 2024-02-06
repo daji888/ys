@@ -1,6 +1,6 @@
 {
-  "spider": "https://ghproxy.net/raw.githubusercontent.com/daji888/CatVodSpider/xg/jar/custom_spider.jar",
-  "lives":[{"name":"live","type":0,"url":"https://ghproxy.net/raw.githubusercontent.com/daji888/ys/master/tv.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://diyp1.112114.xyz/?ch={name}&date={date}","logo":"https://upload.112114.xyz/logo/{name}.png"}],
+  "spider": "https://ghproxy.net/raw.github.com/daji888/CatVodSpider/xg666/jar/custom_spider.jar",
+  "lives":[{"name":"live","type":0,"url":"https://ghproxy.net/raw.github.com/daji888/ys/master/tv.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://diyp1.112114.xyz/?ch={name}&date={date}","logo":"https://upload.112114.xyz/logo/{name}.png"}],
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -12,7 +12,7 @@
       "changeable": 0,
       "ext": {
         "token": "影視天下第一",
-        "filter": "https://ghproxy.net/raw.githubusercontent.com/daji888/ys/master/json/wogg.json"
+        "filter": "https://ghproxy.net/raw.github.com/daji888/ys/master/json/wogg.json"
       }
     },
     {
@@ -87,7 +87,7 @@
       "api": "csp_Jianpian",
       "searchable": 1,
       "changeable": 1,
-      "ext": "https://ghproxy.net/raw.githubusercontent.com/daji888/ys/master/json/jianpian.json"
+      "ext": "https://ghproxy.net/raw.github.com/daji888/ys/master/json/jianpian.json"
     },
     {
       "key": "996影院",
@@ -112,7 +112,7 @@
       "api": "csp_Douban",
       "searchable": 0,
       "changeable": 1,
-      "ext": "https://ghproxy.net/raw.githubusercontent.com/daji888/ys/master/json/douban.json"
+      "ext": "https://ghproxy.net/raw.github.com/daji888/ys/master/json/douban.json"
     },
     {
       "key": "新6V",
@@ -206,7 +206,7 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":1,
-    "ext":"https://ghproxy.net/raw.githubusercontent.com/daji888/ys/master/xpath/ysgc.json"
+    "ext":"https://ghproxy.net/raw.github.com/daji888/ys/master/xpath/ysgc.json"
 },    
     {
       "key": "商店",
@@ -215,7 +215,7 @@
       "api": "csp_Market",
       "searchable": 0,
       "changeable": 0,
-      "ext": "https://ghproxy.net/raw.githubusercontent.com/daji888/ys/master/json/market.json"
+      "ext": "https://ghproxy.net/raw.github.com/daji888/ys/master/json/market.json"
     },
     {
       "key": "本地",
@@ -232,7 +232,7 @@
       "api": "csp_AList",
       "searchable": 1,
       "changeable": 0,
-      "ext": "https://ghproxy.net/raw.githubusercontent.com/daji888/ys/master/json/alist.json"
+      "ext": "https://ghproxy.net/raw.github.com/daji888/ys/master/json/alist.json"
     },
     {
       "key": "WebDAV",
@@ -241,7 +241,7 @@
       "api": "csp_WebDAV",
       "searchable": 1,
       "changeable": 0,
-      "ext": "https://ghproxy.net/raw.githubusercontent.com/daji888/ys/master/json/webdav.json"
+      "ext": "https://ghproxy.net/raw.github.com/daji888/ys/master/json/webdav.json"
     },
     {
       "key": "push_agent",
@@ -300,7 +300,7 @@
     {
       "name": "proxy",
       "hosts": [
-        "raw.githubusercontent.com",
+        "raw.github.com",
         "googlevideo.com",
         "cdn.v82u1l.com",
         "cdn.iz8qkg.com",
