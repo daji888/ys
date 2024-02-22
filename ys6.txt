@@ -314,11 +314,13 @@
         "haiwaikan"
       ],
       "regex": [
+        "8.16",
+        "8.1748",
         "10.0099",
         "10.3333",
-        "16.0599",
-        "8.1748",
-        "10.85"
+        "10.85",
+        "12.33",
+        "16.0599"
       ]
     },
     {
@@ -367,8 +369,7 @@
         "hd.ffzy"
       ],
       "regex": [
-        "25.0666",
-        "25.08"
+        "25.1"
       ]
     },
     {
@@ -397,9 +398,37 @@
       "regex": [
         "video/tos/cn"
       ]
+    },
+    {
+      "name": "七新嗅探",
+      "hosts": [
+        "api.52wyb.com"
+      ],
+      "regex": [
+        "m3u8?pt=m3u8"
+      ]
+    },
+    {
+      "name": "夜市點擊",
+      "hosts": [
+        "yeslivetv.com"
+      ],
+      "script": [
+        "document.getElementsByClassName('vjs-big-play-button')[0].click()"
+      ]
+    },
+    {
+      "name": "毛驢點擊",
+      "hosts": [
+        "www.maolvys.com"
+      ],
+      "script": [
+        "document.getElementsByClassName('swal-button swal-button--confirm')[0].click()"
+      ]
     }
   ],
   "ads": [
-    "mozai.4gtv.tv"
+    "static-mozai.4gtv.tv",
+    "s3t3d2y8.afcdn.net"
   ]
 }
