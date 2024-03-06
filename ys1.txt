@@ -98,10 +98,10 @@
 {"key":"U酷资源","name":"U酷资源(优)","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 
 {"key":"*dadiapi.com","name":"*dadiapi.com","type":0,"api":"http://dadiapi.com/api.php","searchable":1,"quickSearch":1},
+{"key":"*api.apilyzy.com","name":"*api.apilyzy.com","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"*wmcj8.com","name":"*wmcj8.com","type":0,"api":"http://wmcj8.com/inc/sapi.php","searchable":1,"quickSearch":1},
 {"key":"*llzxcj.com","name":"*llzxcj.com","type":0,"api":"http://llzxcj.com/inc/sck.php?ac=videolist","searchable":1,"quickSearch":1},
 {"key":"*f2dcj6.com","name":"*f2dcj6.com","type":0,"api":"http://f2dcj6.com/sapi?ac=videolist","searchable":1,"quickSearch":1},
-{"key":"*api.apilyzy.com","name":"*api.apilyzy.com","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"*博天堂","name":"*博天堂","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":1,"quickSearch":1},
 {"key":"*淫水机资源","name":"*淫水机资源","type":0,"api":"https://www.xrbsp.com/api/xml.php","searchable":1,"quickSearch":1},
 {"key":"*香奶儿资源","name":"*香奶儿资源","type":0,"api":"https://www.gdlsp.com/api/xml.php","searchable":1,"quickSearch":1},
