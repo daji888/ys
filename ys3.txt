@@ -23,19 +23,6 @@
 {"key":"Yisou","name":"❤️易搜┃4K","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/TVBox/tok.txt"},
 {"key":"Gitcafe","name":"❤️小纸条┃4K","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/TVBox/tok.txt"},
 
-//XPath
-
-{
-    "key":"csp_xpath_ysgc",
-    "name":"影视工厂(XPath)",
-    "type":3,
-    "api":"csp_XPathFilter",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"https://ghproxy.net/raw.githubusercontent.com//daji888/ys/master/xpath/ysgc.json"
-},
-
 //jar
 
 {"key":"阿里云盘登录","name":"🐲阿里┃云盘登录","type":3,"api":"csp_AliYunPan","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://127.0.0.1:9978/file/TVBox/tok.txt"},
@@ -52,6 +39,19 @@
 {"key":"机器人","name":"💡机器┃影视","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_JianPian","name":"💡荐片┃影视","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ownjpykxttjzuhy.jiesiwa.com"},
 {"key":"一起看","name":"💡起看┃影视","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"filterable":0},
+
+//XPath
+
+{
+    "key":"csp_xpath_ysgc",
+    "name":"影视工厂(XPath)",
+    "type":3,
+    "api":"csp_XPathFilter",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"https://ghproxy.net/raw.githubusercontent.com//daji888/ys/master/xpath/ysgc.json"
+},
 
 //XBPQ
 
