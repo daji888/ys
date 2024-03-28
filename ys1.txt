@@ -97,7 +97,7 @@
 {"key":"U酷资源","name":"U酷资源(优)","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 
 
-{"key":"*api.apilyzy.com","name":"*api.lyzy","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"*api.apilyzy.com","name":"*lyzy","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"*dadiapi.com","name":"*dadiapi","type":0,"api":"http://dadiapi.com/api.php","searchable":1,"quickSearch":1},
 {"key":"*wmcj8.com","name":"*wmcj8.com","type":0,"api":"http://wmcj8.com/inc/sapi.php","searchable":1,"quickSearch":1},
 {"key":"*llzxcj.com","name":"*llzxcj.com","type":0,"api":"http://llzxcj.com/inc/sck.php?ac=videolist","searchable":1,"quickSearch":1},
