@@ -24,14 +24,6 @@
       "changeable": 0
     },
     {
-      "key": "七夜",
-      "name": "七夜",
-      "type": 3,
-      "api": "csp_Dovx",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
       "key": "易搜",
       "name": "易搜",
       "type": 3,
@@ -188,6 +180,70 @@
       "type": 3,
       "api": "csp_Kugou",
       "searchable": 0,
+      "changeable": 0
+    },
+    {
+      "key": "Doll",
+      "name": "Doll",
+      "type": 3,
+      "api": "csp_Doll",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "Eighteen",
+      "name": "Eighteen",
+      "type": 3,
+      "api": "csp_Eighteen",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "Hanime",
+      "name": "Hanime",
+      "type": 3,
+      "api": "csp_Hanime",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "Jable",
+      "name": "Jable",
+      "type": 3,
+      "api": "csp_Jable",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "JavDb",
+      "name": "JavDb",
+      "type": 3,
+      "api": "csp_JavDb",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "Miss",
+      "name": "Miss",
+      "type": 3,
+      "api": "csp_Miss",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "NiNi",
+      "name": "NiNi",
+      "type": 3,
+      "api": "csp_NiNi",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "Star",
+      "name": "Star",
+      "type": 3,
+      "api": "csp_Star",
+      "searchable": 1,
       "changeable": 0
     },
     {
