@@ -123,6 +123,25 @@
 {"key":"稀饭动漫","name":"🐞稀饭┃动漫","type":3,"api":"csp_Xifan","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"樱花动漫","name":"🐞樱花┃动漫","type":3,"api":"csp_XBPQ","ext":"分类url:https://www.857yhdm.com/show/{cateId}--{by}------{catePg}---{year}.html,分类:日本动漫$ribendongman#国产动漫$guochandongman#动漫电影$dongmandianying#欧美动漫$omeidongman"},
 
+{"key":"*api.apilyzy.com","name":"*api.lyzy","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"*dadiapi.com","name":"*dadiapi","type":0,"api":"http://dadiapi.com/api.php","searchable":1,"quickSearch":1},
+{"key":"*wmcj8.com","name":"*wmcj8.com","type":0,"api":"http://wmcj8.com/inc/sapi.php","searchable":1,"quickSearch":1},
+{"key":"*llzxcj.com","name":"*llzxcj.com","type":0,"api":"http://llzxcj.com/inc/sck.php?ac=videolist","searchable":1,"quickSearch":1},
+{"key":"*f2dcj6.com","name":"*f2dcj6.com","type":0,"api":"http://f2dcj6.com/sapi?ac=videolist","searchable":1,"quickSearch":1},
+{"key":"*博天堂","name":"*博天堂","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":1,"quickSearch":1},
+{"key":"*淫水机资源","name":"*淫水机资源","type":0,"api":"https://www.xrbsp.com/api/xml.php","searchable":1,"quickSearch":1},
+{"key":"*香奶儿资源","name":"*香奶儿资源","type":0,"api":"https://www.gdlsp.com/api/xml.php","searchable":1,"quickSearch":1},
+{"key":"*美少女资源","name":"*美少女资源","type":0,"api":"https://www.msnii.com/api/xml.php","searchable":1,"quickSearch":1},
+{"key":"*乐播资源","name":"*乐播资源","type":1,"api":"https://lbapi9.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"*白嫖资源","name":"*白嫖资源","type":0,"api":"https://www.kxgav.com/api/xml.php","searchable":1,"quickSearch":1},
+{"key":"*番号资源","name":"*番号资源","type":1,"api":"http://fhapi9.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+
+{"key":"push_agent","name":"🍭推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
+
+{"key":"csp_bendi","name":"📂本地视频","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":1}
+
+],
+
 "parses":
 	[{"name":"聚合","type":3,"url":"Demo"},
 	{"name":"线路1","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"}}},
