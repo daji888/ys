@@ -17,15 +17,14 @@
 {"key":"️玩偶妹","name":"❤️玩偶妹┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://tv.nxog.top/m/json/wom.json"},
 {"key":"️玩偶歌","name":"❤️玩偶歌┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://tv.nxog.top/m/json/wou.json"},
 {"key":"云盘搜索","name":"❤️搜索┃4K","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://tv.nxog.top/m/json/yps.json"},
-{"key":"DOVX搜索","name":"❤️七夜┃4K","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://tv.nxog.top/m/json/DOVX.json"},
 {"key":"Upyunso","name":"❤️云搜┃4K","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/TVBox/tok.txt"},
 {"key":"AliPS","name":"❤️盘搜┃4K","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/TVBox/tok.txt"},
 {"key":"Yisou","name":"❤️易搜┃4K","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/TVBox/tok.txt"},
-{"key":"Gitcafe","name":"❤️小纸条┃4K","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/TVBox/tok.txt"},
 
 //jar
 
 {"key":"阿里云盘登录","name":"🐲阿里┃云盘登录","type":3,"api":"csp_AliYunPan","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://127.0.0.1:9978/file/TVBox/tok.txt"},
+{"key":"豆瓣","name":"📢豆瓣","type":3,"api":"csp_Douban","searchable":0},
 {"key":"南瓜","name":"💡南瓜┃影视","type":3,"api":"csp_AppYSDQ","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"热播","name":"💡热播┃影视","type":3,"api":"csp_TTian","ext":"http://v.rbotv.cn"},
 {"key":"追剧","name":"💡追剧┃影视","type":3,"api":"csp_TTian","ext":"http://app.kzjtv.com"},
