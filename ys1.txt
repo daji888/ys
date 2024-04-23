@@ -1,7 +1,7 @@
 {
 "spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1713780171700/fan.txt",
 
-"lives":[{"name":"live","type":0,"url":"https://ghproxy.net/raw.githubusercontent.com/daji888/ys/master/tv.txt","ua":"okhttp/3.15","epg":"https://epg.imxd.top/api/diyp/?ch={name}&date={date}","logo":"https://ghproxy.net/raw.githubusercontent.com/sparkssssssssss/epg/main/logo/{name}.png"}],
+"lives":[{"name":"live","type":0,"url":"https://ghproxy.net/raw.githubusercontent.com/daji888/ys/master/tv.txt","ua":"okhttp/3.15","epg":"https://epg.mxdyeah.top/api/diyp/?ch={name}&date={date}","logo":"https://ghproxy.net/raw.githubusercontent.com/sparkssssssssss/epg/main/logo/{name}.png"}],
 
 "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 
