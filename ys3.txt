@@ -5,7 +5,7 @@
 
 "spider":"https://ghproxy.net/raw.githubusercontent.com/daji888/ys/master/ou.jar",
 
-"lives":[{"name":"live","type":0,"url":"https://ghproxy.net/raw.githubusercontent.com/daji888/ys/master/tv.txt","ua":"okhttp/3.15","epg":"https://epg.imxd.top/api/diyp/?ch={name}&date={date}","logo":"https://ghproxy.net/raw.githubusercontent.com/sparkssssssssss/epg/main/logo/{name}.png"}],
+"lives":[{"name":"live","type":0,"url":"https://ghproxy.net/raw.githubusercontent.com/daji888/ys/master/tv.txt","ua":"okhttp/3.15","epg":"https://epg.mxdyeah.top/api/diyp/?ch={name}&date={date}","logo":"https://ghproxy.net/raw.githubusercontent.com/sparkssssssssss/epg/main/logo/{name}.png"}],
 
 "sites":[
 
