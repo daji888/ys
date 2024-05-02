@@ -24,6 +24,7 @@
 //jar
 
 {"key":"阿里云盘登录","name":"🐲云盘登录","type":3,"api":"csp_AliYunPan","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://127.0.0.1:9978/file/TVBox/tok.txt"},
+
 {"key":"豆瓣","name":"📢豆瓣","type":3,"api":"csp_Douban","searchable":0},
 {"key":"南瓜影视","name":"💡南瓜┃影视","type":3,"api":"csp_WexNgys","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"天天影视","name":"💡天天┃影视","type":3,"api":"csp_TTian","ext":"http://op.ysdqjs.cn"},
@@ -37,8 +38,8 @@
 {"key":"韩剧视频","name":"💡韩剧┃影视","type":3,"api":"csp_Wexhanjutv","searchable":1,"changeable":1},
 {"key":"酷云七七","name":"💡七七┃影视","type":3,"api":"csp_WexKuyun77","searchable":1,"changeable":1},
 {"key":"文才影视","name":"💡文才┃影视","type":3,"api":"csp_Wexwencai","searchable":1,"changeable":1},
-{"key":"白嫖影视","name":"💡白嫖┃影视","type":3,"api":"csp_Wexbaipiao","searchable":1,"changeable":1},{
-"key":"影探蓝光","name":"💡影探┃影视","type":3,"api":"csp_WexYingtan4k","searchable":1,"changeable":1},
+{"key":"白嫖影视","name":"💡白嫖┃影视","type":3,"api":"csp_Wexbaipiao","searchable":1,"changeable":1},
+{"key":"影探蓝光","name":"💡影探┃影视","type":3,"api":"csp_WexYingtan4k","searchable":1,"changeable":1},
 {"key":"厂长资源","name":"💡厂长┃影视","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://czzy.top"},
 {"key":"低端影视","name":"💡低端┃影视","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1},
 
