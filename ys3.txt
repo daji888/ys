@@ -43,7 +43,6 @@
 {"key":"厂长资源","name":"💡厂长┃影视","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://czzy.top"},
 {"key":"低端影视","name":"💡低端┃影视","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1},
 
-
 //XPath
 
 {
@@ -84,7 +83,6 @@
 {"key":"优","name":"🎄优优┃影视","type":3,"api":"http://tv.nxog.top/m/js/nxog.js","ext":"http://tv.nxog.top/m/js/yy.js"},
 {"key":"芒","name":"🎄芒芒┃影视","type":3,"api":"http://tv.nxog.top/m/js/nxog.js","ext":"http://tv.nxog.top/m/js/mm.js"},
 {"key":"爱","name":"🎄爱爱┃影视","type":3,"api":"http://tv.nxog.top/m/js/nxog.js","ext":"http://tv.nxog.top/m/js/aa.js"},
-
 
 //磁力
 
