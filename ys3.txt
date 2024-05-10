@@ -3,7 +3,7 @@
 {
 "wallpaper":"http://tv.nxog.top/t/",
 
-"spider":"https://ghproxy.net/raw.githubusercontent.com/daji888/ys/master/ou.jar;md5;72882de184eefbff3f3ae24e062e01d9",
+"spider":"https://ghproxy.net/raw.githubusercontent.com/daji888/ys/master/ou.jar;md5;59f3f76c511c3b7bcae01147c5b5afc4",
 
 "lives":[{"name":"live","type":0,"url":"https://ghproxy.net/raw.githubusercontent.com/daji888/ys/master/tv.txt","playerType":1,"ua":"okhttp/3.15","epg":"https://epg.mxdyeah.top/api/diyp/?ch={name}&date={date}","logo":"https://ghproxy.net/raw.githubusercontent.com/sparkssssssssss/epg/main/logo/{name}.png"}],
 
@@ -38,10 +38,11 @@
 {"key":"韩剧视频","name":"💡韩剧┃影视","type":3,"api":"csp_Wexhanjutv","searchable":1,"changeable":1},
 {"key":"酷云七七","name":"💡七七┃影视","type":3,"api":"csp_WexKuyun77","searchable":1,"changeable":1},
 {"key":"文才影视","name":"💡文才┃影视","type":3,"api":"csp_Wexwencai","searchable":1,"changeable":1},
-{"key":"白嫖影视","name":"💡白嫖┃影视","type":3,"api":"csp_Wexbaipiao","searchable":1,"changeable":1},
+//{"key":"白嫖影视","name":"💡白嫖┃影视","type":3,"api":"csp_Wexbaipiao","searchable":1,"changeable":1},
 {"key":"影探蓝光","name":"💡影探┃影视","type":3,"api":"csp_WexYingtan4k","searchable":1,"changeable":1},
 {"key":"厂长资源","name":"💡厂长┃影视","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://czzy.top"},
 {"key":"低端影视","name":"💡低端┃影视","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"素白白","name":"💡素白┃影视","type":3,"api":"csp_Subaibai","searchable":1,"changeable":1},
 
 //XPath
 
@@ -122,10 +123,8 @@
 
 //短剧
 
-{"key":"秒播短剧","name":"🐞短剧1┃短剧","type":3,"api":"csp_Wexduanjuvop","searchable":1,"changeable":1},
-{"key":"极品短剧","name":"🐞短剧2┃短剧","type":3,"api":"csp_Wexduanjuvmp","searchable":1,"changeable":1},
-{"key":"横版影院","name":"🐞短剧3┃短剧","type":1,"api":"https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"categories":["短剧"]},
-{"key":"精品短剧","name":"🐞短剧4┃短剧","type":3,"api":"csp_Wexduanjuvip","searchable":1,"changeable":1},
+{"key":"短剧1","name":"🐞短剧1┃短剧","type":1,"api":"https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"categories":["短剧"]},
+{"key":"短剧2","name":"🐞短剧2┃短剧","type":3,"api":"csp_XBPQ","ext": {"分类":"短剧$42","分类url":"https://ork.ink/show/{cateId}--------{catePg}---{year}.html"}},
 
 {"key":"*淫水机资源","name":"*淫水机资源","type":0,"api":"https://www.xrbsp.com/api/xml.php","searchable":1,"quickSearch":1},
 {"key":"*香奶儿资源","name":"*香奶儿资源","type":0,"api":"https://www.gdlsp.com/api/xml.php","searchable":1,"quickSearch":1},
