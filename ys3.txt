@@ -141,6 +141,7 @@
 {"key":"csp_XBPQ_VS短剧","name":"🐞影院┃短剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://www.ytshengde.com/sanyisw/{cateId}--hits------{catePg}---{year}.html","分类":"短剧$5"}},
 {"key":"csp_XBPQ_胖嘟嘟","name":"🐞嘟嘟┃短剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类":"全部$qb#言情$yq#古代$dg#都市$ds","分类url":"https://m.pangdo.com/{cateId}/list_{catePg}.html"}},
 
+{"key":"*博天堂","name":"*博天堂","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":1,"quickSearch":1},
 {"key":"*淫水机资源","name":"*淫水机资源","type":0,"api":"https://www.xrbsp.com/api/xml.php","searchable":1,"quickSearch":1},
 {"key":"*香奶儿资源","name":"*香奶儿资源","type":0,"api":"https://www.gdlsp.com/api/xml.php","searchable":1,"quickSearch":1},
 {"key":"*美少女资源","name":"*美少女资源","type":0,"api":"https://www.msnii.com/api/xml.php","searchable":1,"quickSearch":1},
@@ -152,7 +153,6 @@
 {"key":"*wmcj8.com","name":"*wmcj8.com","type":0,"api":"http://wmcj8.com/inc/sapi.php","searchable":1,"quickSearch":1},
 {"key":"*llzxcj.com","name":"*llzxcj.com","type":0,"api":"http://llzxcj.com/inc/sck.php?ac=videolist","searchable":1,"quickSearch":1},
 {"key":"*f2dcj6.com","name":"*f2dcj6.com","type":0,"api":"http://f2dcj6.com/sapi?ac=videolist","searchable":1,"quickSearch":1},
-{"key":"*博天堂","name":"*博天堂","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":1,"quickSearch":1},
 
 {"key":"push_agent","name":"🍭推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext": "http://127.0.0.1:9978/file/TVBox/tok.txt"},
 
