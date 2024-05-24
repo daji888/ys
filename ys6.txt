@@ -82,14 +82,6 @@
       "ext": "https://ghproxy.net/raw.githubusercontent.com/daji888/ys/master/json/jianpian.json"
     },
     {
-      "key": "短劇",
-      "name": "短劇",
-      "type": 3,
-      "api": "csp_Duanju",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
       "key": "豆瓣",
       "name": "豆瓣",
       "type": 3,
