@@ -10,10 +10,7 @@
       "api": "csp_Wogg",
       "searchable": 1,
       "changeable": 0,
-      "ext": {
-        "token": "影視天下第一",
-        "filter": "https://ghproxy.net/raw.githubusercontent.com/daji888/ys/master/json/wogg.json"
-      }
+      "ext": "https://ghproxy.net/raw.githubusercontent.com/daji888/ys/master/json/wogg.json"
     },
     {
       "key": "影视车",
