@@ -1,6 +1,6 @@
 
 {
-"spider":"http://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app
+"spider":"http://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app",
 
 "sites":[
 
