@@ -1,6 +1,7 @@
 
 {
-"spider":"https://ghproxy.net/raw.githubusercontent.com/daji888/ys/master/ou.jar;md5;0541e021a35158a77f4b6f90b16f9760",
+"spider":"http://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app
+
 "sites":[
 
 //阿里
