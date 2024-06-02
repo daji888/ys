@@ -12,7 +12,7 @@
       "changeable": 0,
       "ext": {
         "token": "影視天下第一",
-        "filter": "https://ghproxy.net/raw.githubusercontent.com/daji888/ys/master/json/wogg.json"
+        "filter": "https://ghproxy.net/raw.githubusercontent.com/daji888/ys/master/json/Wogg.json"
       }
     },
     {
