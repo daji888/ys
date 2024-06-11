@@ -3,10 +3,10 @@
 
 "wallpaper":"https://深色壁纸.饭.eu.org/",
 
-"lives":[{"name":"live","type":0,"url":"https://ghproxy.net/raw.githubusercontent.com/daji888/ys/master/tv.txt","playerType":1,"ua":"okhttp/3.15","epg":"https://epg.mxdyeah.top/api/diyp/?ch={name}&date={date}","logo":"https://ghproxy.net/raw.githubusercontent.com/sparkssssssssss/epg/main/logo/{name}.png"}],
+"lives":[{"name":"live","type":0,"url":"https://ghproxy.net/raw.githubusercontent.com/daji888/ys/master/tv.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.mxdyeah.top/api/diyp/?ch={name}&date={date}","logo":"https://ghproxy.net/raw.githubusercontent.com/sparkssssssssss/epg/main/logo/{name}.png"}],
 
 "sites":[
-{"key":"玩偶","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":{"aliToken":"tvfan/token.txt","quarkCookie":"tvfan/cookie.txt","from":"4k|auto|fhd","siteUrl":"https://www.wogg.net/","danMu":"弹"}},
+{"key":"玩偶","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":{"aliToken":"tvfan/token.txt","quarkCookie":"tvfan/cookie.txt","from":"4k|auto|fhd","siteUrl":"http://www.wogg.net/","danMu":"弹"}},
 {"key":"YiSo","name":"😹易搜┃搜索","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext":{"aliToken":"tvfan/token.txt","from":"4k|auto|fhd"}},
 {"key":"PanSou","name":"🦊盘搜┃搜索","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"changeable":0,"ext":{"aliToken":"tvfan/token.txt","from":"4k|auto|fhd"}},
 {"key":"PanSearch","name":"🙀盘Se┃搜索","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext":{"aliToken":"tvfan/token.txt","from":"4k|auto|fhd"}},
