@@ -10,8 +10,9 @@
 
 "sites":[
 
-//阿里
+//网盘
 
+{"key":"荐片弹幕","name":"💘荐片┃弹幕","type":3,"api":"csp_Jianpian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://tv.nxog.top/m/jar.php?id=danmu&ou=公众号欧歌app;md5;7b83c871a42078c5216a8dd2065691c0"},
 {"key":"玩弹幕1","name":"❤️玩哥┃弹幕","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt","danmu":true},"jar":"https://tv.nxog.top/m/jar.php?id=danmu&ou=公众号欧歌app;md5;7b83c871a42078c5216a8dd2065691c0"},
 {"key":"玩弹幕2","name":"❤️玩欧┃弹幕","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt","danmu":true},"jar":"https://tv.nxog.top/m/jar.php?id=danmu&ou=公众号欧歌app;md5;7b83c871a42078c5216a8dd2065691c0"},
 {"key":"夸克玩弹幕1","name":"❤️玩偶┃弹幕","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt","danmu":true},"jar":"https://tv.nxog.top/m/jar.php?id=danmu&ou=公众号欧歌app;md5;7b83c871a42078c5216a8dd2065691c0"},
