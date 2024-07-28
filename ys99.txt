@@ -167,7 +167,6 @@
 "ijk":
 	[{"group":"硬解","options":
 		[{"category":4,"name":"opensles","value":"0"},
-		{"category":4,"name":"framedrop","value":"1"},
 		{"category":4,"name":"soundtouch","value":"1"},
 		{"category":4,"name":"start-on-prepared","value":"1"},
 		{"category":1,"name":"http-detect-range-support","value":"0"},
@@ -184,7 +183,6 @@
 		{"category":4,"name":"mediacodec-hevc","value":"1"}]},
          {"group":"软解","options":
 		[{"category":4,"name":"opensles","value":"0"},
-		{"category":4,"name":"framedrop","value":"1"},
 		{"category":4,"name":"soundtouch","value":"1"},
 		{"category":4,"name":"start-on-prepared","value":"1"},
 		{"category":1,"name":"http-detect-range-support","value":"0"},
