@@ -1,9 +1,9 @@
 {
-"spider":"https://ghproxy.net/raw.githubusercontent.com/daji888/ys/master/fan.txt;md5;71d846866f2ceb9666ba114e5963983f",
+"spider":"http://mirror.ghproxy.com/raw.githubusercontent.com/daji888/ys/master/fan.txt;md5;71d846866f2ceb9666ba114e5963983f",
 
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 
-"lives":[{"name":"live","type":0,"url":"https://ghproxy.net/raw.githubusercontent.com/daji888/ys/master/tv.txt","playerType":1,"epg":"http://epg.mxdyeah.top/api/diyp/?ch={name}&date={date}","logo":"https://ghproxy.net/raw.githubusercontent.com/sparkssssssssss/epg/main/logo/{name}.png"}],
+"lives":[{"name":"live","type":0,"url":"http://mirror.ghproxy.com/raw.githubusercontent.com/daji888/ys/master/tv.txt","playerType":1,"epg":"http://epg.mxdyeah.top/api/diyp/?ch={name}&date={date}","logo":"http://mirror.ghproxy.com/raw.githubusercontent.com/sparkssssssssss/epg/main/logo/{name}.png"}],
 
 "sites":[
 {"key":"玩偶","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0, "ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.net/","danMu":"弹"}},
