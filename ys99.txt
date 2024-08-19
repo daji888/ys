@@ -80,8 +80,6 @@
 {"key":"我的夸克","name":"❤我的｜夸克","type":3,"api":"csp_MyQuark","searchable":0,"quickSearch":0,"filterable":0,"indexs":0,"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt"},"style":{"type":"list"},"jar":"https://tv.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;e0129dfc4f7caa454c7af98773e9ef72"},
 {"key":"我的UC","name":"❤我的｜UC","type":3,"api":"csp_MyUc","searchable":0,"quickSearch":0,"filterable":0,"indexs":0,"ext":{"uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt"},"style":{"type":"list"},"jar":"https://tv.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;e0129dfc4f7caa454c7af98773e9ef72"},
 
-
-
 //XPath
 
 {
@@ -105,8 +103,7 @@
 {"key":"酷吧电影","name":"💘酷吧┃磁力","type":3,"api":"csp_KubaCL","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"美剧天堂","name":"💘美剧┃磁力","type":3,"api":"csp_MeijuTT","searchable":1,"quickSearch":1,"filterable":1},
 
-
- //采集
+//采集
 
 {"key":"采集之王","name":"🐲采王┃采集","type":3,"api":"https://tv.nxog.top/m/js/drpy2.min.js","searchable":1,"quickSearch":1,"order_num":142,"ext":"https://tv.nxog.top/m/js/采集之王.js?type=url&params=https://tv.nxog.top/m/json/采集静态.json"},
 
