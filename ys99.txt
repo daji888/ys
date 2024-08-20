@@ -132,7 +132,8 @@
 
 {"key":"push_agent","name":"🎱推送┃电视","type":3,"api":"csp_Push","searchable":0,"filterable":0,"changeable":0,"jar":"https://tv.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;e0129dfc4f7caa454c7af98773e9ef72",ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt"}},
 
-{"key":"本地","name":"🐲本地｜视频","type":3,"api":"csp_LocalFile"},
+{"key":"本地","name":"🐲本地｜视频","type":3,"api":"csp_LocalFile"}
+],
 
 "parses":
 	[{"name":"-聚合-","type":3,"url":"Demo"},
