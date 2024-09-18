@@ -6,7 +6,7 @@
 
 "spider":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app",
 
-"lives":[{"name":"live","type":0,"url":"https://gh-proxy.com/raw.githubusercontent.com/daji888/ys/master/tv.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.mxdyeah.top/api/diyp/?ch={name}&date={date}","logo":"https://gh-proxy.com/raw.githubusercontent.com/sparkssssssssss/epg/main/logo/{name}.png"}],
+"lives":[{"name":"live","type":0,"url":"https://gh-proxy.com/raw.githubusercontent.com/daji888/ys/master/tv.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.crestekk.cn/api/diyp/?ch={name}&date={date}","logo":"https://gh-proxy.com/raw.githubusercontent.com/sparkssssssssss/epg/main/logo/{name}.png"}],
 
 "sites":[
 
