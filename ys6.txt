@@ -1,6 +1,6 @@
 {
   "spider": "https://gh-proxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
-  "lives":[{"name":"live","type":0,"url":"https://gh-proxy.com/raw.githubusercontent.com/daji888/ys/master/tv.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.crestekk.cn/api/diyp/?ch={name}&date={date}","logo":"https://gh-proxy.com/raw.githubusercontent.com/sparkssssssssss/epg/main/logo/{name}.png"}],
+  "lives":[{"name":"live","type":0,"url":"https://gh-proxy.com/raw.githubusercontent.com/daji888/ys/master/tv.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.zbds.top/api/diyp/?ch={name}&date={date}","logo":"https://gh-proxy.com/raw.githubusercontent.com/sparkssssssssss/epg/main/logo/{name}.png"}],
   "wallpaper":"https://深色壁纸.xxooo.cf/",
   "sites": [
     {
