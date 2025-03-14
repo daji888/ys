@@ -27,16 +27,17 @@ CCTV10,http://39.134.67.108/PLTV/88888888/224/3221226128/1.m3u8$高清
 🔞🈲经典三级频道,#genre#
 
 香蕉,http://s.mrw.so/bK5Rb
-松视3,http://suo.im/aeQT9
+松视2,http://suo.im/aeQT9
 松视1,http://suo.im/aeQTj
 惊艳,http://suo.im/dfkTT
 潘多拉,http://suo.im/aZtnO
 彩虹电影,http://suo.im/cuIoU
 彩虹e,http://s.mrw.so/aeQSZ
 彩虹k,http://s.mrw.so/aZtoi
-pigoo,http://s.mrw.so/7DlBI
 极限电影,http://suo.im/7emO2
 极限电影,http://suo.im/aD7Ry
+pigoo,http://s.mrw.so/7DlBI
+pigoo,https://luong.utako.moe/pigoo/index.m3u8
 🔞,https://live.iptvxxx.net/hustlertv.m3u8
 🔞,http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
 🔞,http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
