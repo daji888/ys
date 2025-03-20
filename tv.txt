@@ -37,7 +37,7 @@ CCTV10,http://39.134.67.108/PLTV/88888888/224/3221226128/1.m3u8$高清
 潘多拉,http://suo.im/aZtnO
 潘多拉,http://ali.hlspull.yximgs.com/live/8a9c9272cbb0925e25899772460ae4db.flv
 彩虹电影,http://suo.im/cuIoU
-彩虹电影http://ali.hlspull.yximgs.com/live/6f7a5dd3e260d82239f39a7fa0bcea50.flv
+彩虹电影,http://ali.hlspull.yximgs.com/live/6f7a5dd3e260d82239f39a7fa0bcea50.flv
 彩虹e,http://s.mrw.so/aeQSZ
 彩虹e,http://ali.hlspull.yximgs.com/live/5b132f0bd0f8f8857d682951ad584a21.flv
 彩虹k,http://s.mrw.so/aZtoi
