@@ -43,6 +43,31 @@ CCTV15,http://z.b.bkpcp.top/m.php?id=cctv15
 CCTV16,https://stream1.freetv.fun/f5e0459fd9f11d93ac18af88196997db1c71aeb6d27ce1bd24faccb628652629.m3u8
 CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17
 
+CCTV1，
+http://vss.cbnmtv.com/live/yt_cctv1_h_1.m3u8?channelid=yt_cctv1_h
+CCTV2,
+http://vss.cbnmtv.com/live/yt_cctv2_h_1.m3u8?channelid=yt_cctv2_h
+CCTV3,
+http://vss.cbnmtv.com/live/yt_cctv3_h_1.m3u8?channelid=yt_cctv3_h
+CCTV4,
+http://vss.cbnmtv.com/live/yt_cctv4zhongwenguoji_h_1.m3u8?channelid=yt_cctv4zhongwenguoji_h
+CCTV5,
+http://vss.cbnmtv.com/live/ty_cctv5_h_1.m3u8?channelid=ty_cctv5_h_1
+CCTV6,
+http://vss.cbnmtv.com/live/yt_cctv6_h_1.m3u8?channelid=yt_cctv6_h
+CCTV7,
+http://vss.cbnmtv.com/live/yt_cctv7_h_1.m3u8?channelid=yt_cctv7_h
+CCTV8,
+http://vss.cbnmtv.com/live/ty_cctv8_h_1.m3u8?channelid=yt_cctv8_h
+CCTV9,
+http://vss.cbnmtv.com/live/yt_cctv9_h_1.m3u8?channelid=yt_cctv9_h
+CCTV10,
+http://vss.cbnmtv.com/live/yt_cctv10_h_1.m3u8?channelid=yt_cctv10_h
+CCTV12,
+http://vss.cbnmtv.com/live/yt_cctv12_h_1.m3u8?channelid=yt_cctv12_h
+CCTV14,
+http://vss.cbnmtv.com/live/yt_cctv14_h_1.m3u8?channelid=yt_cctv14_h
+
 🔞🈲经典三级频道,#genre#
 
 香蕉,http://s.mrw.so/bK5Rb
