@@ -43,6 +43,25 @@ CCTV10,http://39.134.67.108/PLTV/88888888/224/3221226128/1.m3u8$高清
 CCTV11,http://39.134.67.108/PLTV/88888888/224/3221226123/1.m3u8$高清
 CCTV13,http://39.134.67.108/PLTV/88888888/224/3221226125/1.m3u8$高清
 
+CCTV1,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226559
+CCTV2,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226540
+CCTV3,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226021
+CCTV4,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226428
+CCTV5,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226019
+CCTV5+,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225603
+CCTV6,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226010
+CCTV7,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225733
+CCTV8,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226008
+CCTV9,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225734
+CCTV10,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226473
+CCTV11,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226565
+CCTV12,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226568
+CCTV13,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226571
+CCTV14,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226591
+CCTV15,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226476
+CCTV16,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226100
+CCTV17,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225765
+
 🔞🈲台湾频道,#genre#
 
 香蕉台,http://18.svi-studio.com:8880/live/624372101145/418430465490/4.m3u8
@@ -57,64 +76,6 @@ pigoo,http://m6z.cn/5VECGB
 
 🔞🈲欧美频道,#genre#
 
-Hustler HD,http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/93665/hlsx/pl.m3u8
-Redlight HD,http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/90254/hlsx/pl.m3u8
-Private TV HD,http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/54375/hlsx/pl.m3u8
-Dorcel TV,http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/92273/hlsx/pl.m3u8
-Vivid Red HD,http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/91663/hlsx/pl.m3u8
-Eroxxx,http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/54982/hlsx/pl.m3u8
-Penthouse Gold,http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/95026/hlsx/pl.m3u8
-Penthouse Quickies,http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/47354/hlsx/pl.m3u8
-Brazzers TV Europe,http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/62847/hlsx/pl.m3u8
-XXL,http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/26472/hlsx/pl.m3u8
-Blue Hustler,http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/38940/hlsx/pl.m3u8
-Шалун ТВ,http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/43882/hlsx/pl.m3u8
-Barely Legal TV,http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/23879/hlsx/pl.m3u8
-Babes,http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/37449/hlsx/pl.m3u8
-Red Lips,http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/47722/hlsx/pl.m3u8
-Extasy TV UHD,http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/26382/hlsx/pl.m3u8
-Шелк,http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/27993/hlsx/pl.m3u8
-CineMan ExExEx,http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/61194/hlsx/pl.m3u8
-CineMan ExExEx2,http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/29047/hlsx/pl.m3u8
-BCU Charm HD,http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/62294/hlsx/pl.m3u8
-EroLuxe,http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/93583/hlsx/pl.m3u8
-EroLuxe anal,http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/93729/hlsx/pl.m3u8
-EroLuxe blonde,http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/94724/hlsx/pl.m3u8
-EroLuxe blowjob,http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/94956/hlsx/pl.m3u8
-EroLuxe cinema,http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/94185/hlsx/pl.m3u8
-EroLuxe cosplay,http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/94251/hlsx/pl.m3u8
-EroLuxe ebony,http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/94693/hlsx/pl.m3u8
-EroLuxe gays,http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/94951/hlsx/pl.m3u8
-EroLuxe gloryhole,http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/95420/hlsx/pl.m3u8
-EroLuxe henati,http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/94683/hlsx/pl.m3u8
-EroLuxe japanese,http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/95284/hlsx/pl.m3u8
-EroLuxe lesbians,http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/95720/hlsx/pl.m3u8
-EroLuxe massage,http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/95620/hlsx/pl.m3u8
-EroLuxe milf,http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/95793/hlsx/pl.m3u8
-EroLuxe orgy,http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/95842/hlsx/pl.m3u8
-EroLuxe pregnant,http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/95836/hlsx/pl.m3u8
-EroLuxe russian,http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/95728/hlsx/pl.m3u8
-EroLuxe shemale,http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/95823/hlsx/pl.m3u8
-EroLuxe solo,http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/95298/hlsx/pl.m3u8
-EroLuxe stepfamily,http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/95947/hlsx/pl.m3u8
-EroLuxe asian,http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/96381/hlsx/pl.m3u8
-EroLuxe babysitter,http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/95925/hlsx/pl.m3u8
-EroLuxe bbw,http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/96388/hlsx/pl.m3u8
-EroLuxe bdsm,http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/96295/hlsx/pl.m3u8
-EroLuxe bigcock,http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/96048/hlsx/pl.m3u8
-EroLuxe brunette,http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/96173/hlsx/pl.m3u8
-EroLuxe cheerleader,http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/96934/hlsx/pl.m3u8
-EroLuxe creampie,http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/96413/hlsx/pl.m3u8
-EroLuxe cuckold,http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/96952/hlsx/pl.m3u8
-EroLuxe faketaxi,http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/96297/hlsx/pl.m3u8
-EroLuxe fisting,http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/96460/hlsx/pl.m3u8
-EroLuxe footfetish,http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/97493/hlsx/pl.m3u8
-EroLuxe gangbang,http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/97437/hlsx/pl.m3u8
-EroLuxe parody,http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/97495/hlsx/pl.m3u8
-EroLuxe pov,http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/97184/hlsx/pl.m3u8
-EroLuxe publicagent,http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/97159/hlsx/pl.m3u8
-EroLuxe redheads,http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/97242/hlsx/pl.m3u8
-EroLuxe schoolgirl,http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/97523/hlsx/pl.m3u8
 EroLuxe 4k-1,http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/98452/hlsx/pl.m3u8
 EroLuxe 4k-2,http://rr3.tvdosug.net/~2011e1bbac9b936d3c863e36ee357689c6b/98462/hlsx/pl.m3u8
 VF Граиндхаус,http://nx2g47mi.tvclub.xyz/iptv/MUTDWWN8EDA5M5/14158/index.m3u8
