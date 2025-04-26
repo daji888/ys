@@ -63,6 +63,16 @@ CCTV16,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226100
 CCTV17,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225765
 
 🔞🈲台湾频道,#genre#
+香蕉,http://m6z.cn:80/5VEYzn
+松视3,http://u3v.cn:80/5O8LuQ
+松视1,http://u3v.cn:80/5VEYzx
+彩虹电影,http://m6z.cn:80/6idbMy
+彩虹e,http://m6z.cn:80/5z1J9J
+K频道,http://m6z.cn:80/6xbpLi
+惊艳,http://m6z.cn:80/63bbE4
+潘多拉完美,http://m6z.cn/6aGYHR
+花花公子,http://m6z.cn/5O8LuG
+测试,http://m6z.cn/5VECGB
 
 香蕉台,http://18.svi-studio.com:8880/live/624372101145/418430465490/4.m3u8
 松视3台,http://18.svi-studio.com:8880/live/271871095922/006886711863/20205.m3u8
