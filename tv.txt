@@ -321,7 +321,6 @@ pigoo,https://luong.utako.moe/pigoo/index.m3u8
 成人,https://t25.cdn2020.com/video/m3u8/2024/04/14/c7e5e3b3/index.m3u8
 成人,https://t25.cdn2020.com/video/m3u8/2024/04/14/e78290f4/index.m3u8
 成人,https://t25.cdn2020.com/video/m3u8/2024/04/14/8ba19c75/index.m3u8
-,https://t23a.cdn2020.com/video/m3u8/2024/03/11/6d996e2a/index.m3u8
 成人,https://t25.cdn2020.com/video/m3u8/2024/03/13/2ff31aae/index.m3u8
 成人,https://t25.cdn2020.com/video/m3u8/2024/03/13/15f609d2/index.m3u8
 成人,https://t25.cdn2020.com/video/m3u8/2024/03/13/5cec3b69/index.m3u8
@@ -706,7 +705,6 @@ pigoo,https://luong.utako.moe/pigoo/index.m3u8
 成年人,https://t0.97img.com/a1000281/a.m3u8
 成年人,https://t0.97img.com/a1000248/a.m3u8
 成年人,https://t0.97img.com/a53/a.m3u8
-,https://tuidianxia.cc/videos/265e644e1593e26685e9432aeff0e4e68a954925/g.m3u8?h=fd740c7bfc615b3
 成年人,https://t0.97img.com/a1000223/a.m3u8
 成年人,https://t0.97img.com/a1000096/a.m3u8
 成年人,https://t0.97img.com/a1000050/a.m3u8
@@ -1073,8 +1071,6 @@ pigoo,https://luong.utako.moe/pigoo/index.m3u8
 成人,https://t25.cdn2020.com/video/m3u8/2024/04/14/1faae0ea/index.m3u8
 成人,https://t25.cdn2020.com/video/m3u8/2024/04/14/c65b6e70/index.m3u8
 成人,https://t25.cdn2020.com/video/m3u8/2024/04/07/5f75951a/index.m3u8
-,https://t23a.cdn2020.com/video/m3u8/2024/03/11/bd87e43c/index.m3u8
-,https://t23a.cdn2020.com/video/m3u8/2024/03/11/c0a23f15/index.m3u8
 成人,https://t25.cdn2020.com/video/m3u8/2024/03/13/6e2d648a/index.m3u8
 成人,https://t25.cdn2020.com/video/m3u8/2024/03/15/2f0d0d43/index.m3u8
 成人,https://t25.cdn2020.com/video/m3u8/2024/03/15/44cd8b1a/index.m3u8
@@ -1130,7 +1126,6 @@ mini传媒,#genre#
 成人,https://t25.cdn2020.com/video/m3u8/2024/07/25/9e49af0e/index.m3u8
 成人,https://t25.cdn2020.com/video/m3u8/2024/07/25/6da10f4e/index.m3u8
 成年人,https://t0.97img.com/a1000240/a.m3u8
-,https://play.hgm4u9.com/20230409/D5IXfGT4/index.m3u8
 成年人,https://t0.97img.com/a1000197/a.m3u8
 成年人,https://t0.97img.com/a1000183/a.m3u8
 成年人,https://t0.97img.com/a1000184/a.m3u8
@@ -1339,9 +1334,9 @@ PsychoPorn,#genre#
 
 91制片厂,#genre#
 
-,https://player.huangguazyw.com/20230913/M9XxFxJ5/index.m3u8
-,https://player.huangguazyw.com/20231013/aMXdwbj9/index.m3u8
-,https://player.huangguazyw.com/20231013/tyDEk1cy/index.m3u8
+成人,https://player.huangguazyw.com/20230913/M9XxFxJ5/index.m3u8
+成人,https://player.huangguazyw.com/20231013/aMXdwbj9/index.m3u8
+成人,https://player.huangguazyw.com/20231013/tyDEk1cy/index.m3u8
 成人,https://t25.cdn2020.com/video/m3u8/2024/07/04/4172f5c6/index.m3u8
 成人,https://t25.cdn2020.com/video/m3u8/2024/03/17/acca0564/index.m3u8
 成人,https://t25.cdn2020.com/video/m3u8/2024/03/17/e04c6fbd/index.m3u8
@@ -1398,7 +1393,6 @@ PsychoPorn,#genre#
 成人,https://t25.cdn2020.com/video/m3u8/2024/04/14/b824d0e2/index.m3u8
 成人,https://t25.cdn2020.com/video/m3u8/2024/04/07/077dee0a/index.m3u8
 成人,https://t25.cdn2020.com/video/m3u8/2024/04/07/6754b4aa/index.m3u8
-,https://t23a.cdn2020.com/video/m3u8/2024/03/11/ffd6c317/index.m3u8
 成人,https://t25.cdn2020.com/video/m3u8/2024/03/13/c2f286d8/index.m3u8
 成人,https://t25.cdn2020.com/video/m3u8/2024/03/13/36755fbf/index.m3u8
 成人,https://t25.cdn2020.com/video/m3u8/2024/03/15/7178509f/index.m3u8
