@@ -73,9 +73,9 @@ CCTV17,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225765
 潘朵拉,https://hls-gateway.vpstv.net/streams/709042.m3u8
 HAPPY,https://hls-gateway.vpstv.net/streams/709091.m3u8
 惊艳台,https://hls-gateway.vpstv.net/streams/709041.m3u8
-完美台,https://hls-gateway.vpstv.net/streams/476375.m3u8
-Playboy,https://hls-gateway.vpstv.net/streams/476376.m3u8
-Dorcel,https://hls-gateway.vpstv.net/streams/476377.m3u8
+潘朵拉,https://hls-gateway.vpstv.net/streams/476375.m3u8
+HAPPY,https://hls-gateway.vpstv.net/streams/476376.m3u8
+彩虹K台,https://hls-gateway.vpstv.net/streams/476377.m3u8
 HAPPY,https://hls-gateway.vpstv.net/streams/709085.m3u8
 极限,https://hls-gateway.vpstv.net/streams/709086.m3u8
 
