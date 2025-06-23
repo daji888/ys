@@ -74,16 +74,16 @@ CCTV17,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225765
 HAPPY,https://hls-gateway.vpstv.net/streams/709091.m3u8
 惊艳台,https://hls-gateway.vpstv.net/streams/709041.m3u8
 完美台,https://hls-gateway.vpstv.net/streams/476375.m3u8
+Playboy,https://hls-gateway.vpstv.net/streams/476376.m3u8
+Dorcel,https://hls-gateway.vpstv.net/streams/476377.m3u8
+HAPPY,https://hls-gateway.vpstv.net/streams/709085.m3u8
 极限,https://hls-gateway.vpstv.net/streams/709086.m3u8
 
 🔞🈲欧美频道,#genre#
 
-Dorcel,https://hls-gateway.vpstv.net/streams/476377.m3u8
-HAPPY CHANNEL,https://hls-gateway.vpstv.net/streams/709085.m3u8
 erox,https://hls-gateway.vpstv.net/streams/644724.m3u8
 eroxxx,https://hls-gateway.vpstv.net/streams/644725.m3u8
 brazzers,https://hls-gateway.vpstv.net/streams/644730.m3u8
-Playboy,https://hls-gateway.vpstv.net/streams/476376.m3u8
 广告台,https://live.iptvxxx.net/hustlertv.m3u8
 
 乐播传媒,#genre#
