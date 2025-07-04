@@ -107,9 +107,9 @@ HAPPY,https://hls-gateway.vpstv.net/streams/709085.m3u8
 成人,https://t25.cdn2020.com/video/m3u8/2024/08/01/364e427d/index.m3u8
 成人,https://t25.cdn2020.com/video/m3u8/2024/07/27/17c189f0/index.m3u8
 成人,https://t25.cdn2020.com/video/m3u8/2024/07/27/bc3be299/index.m3u8
-成年人,https://t0.97img.com/a1000241/a.m3u8
 成年人,https://t0.97img.com/a1000226/a.m3u8
 成年人,https://t0.97img.com/a1000227/a.m3u8
+成年人,https://t0.97img.com/a1000241/a.m3u8
 成人,https://t25.cdn2020.com/video/m3u8/2024/07/11/45b25c4a/index.m3u8
 成人,https://t25.cdn2020.com/video/m3u8/2024/07/11/fb0f5fe1/index.m3u8
 成人,https://t25.cdn2020.com/video/m3u8/2024/07/11/33d3a502/index.m3u8
