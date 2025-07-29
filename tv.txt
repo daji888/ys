@@ -2,9 +2,10 @@
 央视,#genre#
 
 CCTV1,http://39.134.67.130:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8$移动 4M1080
-CCTV2,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226540
+CCTV2,http://39.134.67.130:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8$移动 720
 CCTV3,http://39.134.67.130:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8$移动 4M1080
 CCTV4,http://39.134.67.130:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8$移动 4M1080
+CCTV4,http://39.134.67.130:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226007/index.m3u8$移动 720
 CCTV5,http://39.134.67.130:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8$移动 4M1080
 CCTV5+,http://39.134.67.130:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$移动 4M1080
 CCTV6,http://39.134.67.130:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8$移动 4M1080
@@ -12,16 +13,15 @@ CCTV7,http://39.134.67.130:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322122
 CCTV8,http://39.134.67.130:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8$移动 4M1080
 CCTV9,http://39.134.67.130:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8$移动 4M1080
 CCTV10,http://39.134.67.130:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8$移动 4M1080
+CCTV11,http://39.134.67.130:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8$移动 720
 CCTV12,http://39.134.67.130:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8$移动 4M1080
 CCTV12,http://39.134.67.130:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226568/index.m3u8$移动 5M1080HEVC
 CCTV13,http://39.134.67.130:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8$移动 4M1080
 CCTV13,http://39.134.67.130:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8$移动 4M1080
 CCTV13,http://39.134.67.130:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226571/index.m3u8$移动 5M1080HEVC
 CCTV14,http://39.134.67.130:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8$移动 4M1080
-CCTV14,http://39.134.67.130:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226591/index.m3u8$移动  5M1080HEVC
-CCTV15,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226476
-CCTV16,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226100
-CCTV17,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225765
+CCTV14,http://39.134.67.130:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226591/index.m3u8$移动 5M1080HEVC
+CCTV15,http://39.134.67.130:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8$移动 720
 
 CCTV1,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226559
 CCTV2,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226540
