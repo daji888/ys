@@ -27,6 +27,23 @@ CCTV15,http://39.134.64.87:6610/PLTV/88888888/224/3221225601/index.m3u8?IASHttpS
 CCTV16,http://39.134.64.87:6610/PLTV/88888888/224/3221226100/index.m3u8?IASHttpSessionId=
 CCTV17,http://39.134.64.87:6610/PLTV/88888888/224/3221225765/index.m3u8?IASHttpSessionId=
 
+CCTV1,http://171.124.179.8:8899/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2,http://171.124.179.8:8899/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3,http://171.124.179.8:8899/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4,http://171.124.179.8:8899/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5,http://171.124.179.8:8899/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6,http://171.124.179.8:8899/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7,http://171.124.179.8:8899/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8,http://171.124.179.8:8899/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9,http://171.124.179.8:8899/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10,http://171.124.179.8:8899/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11,http://171.124.179.8:8899/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12,http://171.124.179.8:8899/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13,http://171.124.179.8:8899/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14,http://171.124.179.8:8899/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15,http://171.124.179.8:8899/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+,http://171.124.179.8:8899/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+
 CCTV1,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226559
 CCTV2,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226540
 CCTV3,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226021
@@ -45,70 +62,6 @@ CCTV14,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226591
 CCTV15,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226476
 CCTV16,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226100
 CCTV17,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225765
-
-CCTV1,http://39.134.67.130:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8$移动 4M1080
-CCTV2,http://39.134.67.130:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8$移动 720
-CCTV3,http://39.134.67.130:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8$移动 4M1080
-CCTV4,http://39.134.67.130:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8$移动 4M1080
-CCTV4,http://39.134.67.130:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226007/index.m3u8$移动 720
-CCTV5,http://39.134.67.130:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8$移动 4M1080
-CCTV5+,http://39.134.67.130:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$移动 4M1080
-CCTV6,http://39.134.67.130:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8$移动 4M1080
-CCTV7,http://39.134.67.130:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8$移动 4M1080
-CCTV8,http://39.134.67.130:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8$移动 4M1080
-CCTV9,http://39.134.67.130:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8$移动 4M1080
-CCTV10,http://39.134.67.130:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8$移动 4M1080
-CCTV11,http://39.134.67.130:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8$移动 720
-CCTV12,http://39.134.67.130:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8$移动 4M1080
-CCTV12,http://39.134.67.130:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226568/index.m3u8$移动 5M1080HEVC
-CCTV13,http://39.134.67.130:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8$移动 4M1080
-CCTV13,http://39.134.67.130:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8$移动 4M1080
-CCTV13,http://39.134.67.130:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226571/index.m3u8$移动 5M1080HEVC
-CCTV14,http://39.134.67.130:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8$移动 4M1080
-CCTV14,http://39.134.67.130:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226591/index.m3u8$移动 5M1080HEVC
-CCTV15,http://39.134.67.130:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8$移动 720
-
-CCTV1,http://39.134.65.175/PLTV/88888888/224/3221225816/1.m3u8
-CCTV2,http://39.134.65.175/PLTV/88888888/224/3221225599/1.m3u8
-CCTV3,http://39.134.65.175/PLTV/88888888/224/3221225799/1.m3u8
-CCTV4,http://39.134.65.175/PLTV/88888888/224/3221225797/1.m3u8
-CCTV5,http://39.134.65.175/PLTV/88888888/224/3221225818/1.m3u8
-CCTV5+,http://39.134.65.175/PLTV/88888888/224/3221225507/1.m3u8
-CCTV6,http://39.134.65.175/PLTV/88888888/224/3221225814/1.m3u8
-CCTV7,http://39.134.65.175/PLTV/88888888/224/3221225671/1.m3u8
-CCTV8,http://39.134.65.175/PLTV/88888888/224/3221225795/1.m3u8
-CCTV9,http://39.134.65.175/PLTV/88888888/224/3221225676/1.m3u8
-CCTV10,http://39.134.65.175/PLTV/88888888/224/3221225677/1.m3u8
-CCTV11,http://39.134.65.175/PLTV/88888888/224/3221225517/1.m3u8
-CCTV12,http://39.134.65.175/PLTV/88888888/224/3221225669/1.m3u8
-CCTV13,http://39.134.65.175/PLTV/88888888/224/3221225812/1.m3u8
-CCTV14,http://39.134.65.175/PLTV/88888888/224/3221225674/1.m3u8
-CCTV15,http://39.134.65.175/PLTV/88888888/224/3221225513/1.m3u8
-CCTV16,http://39.134.65.173/PLTV/88888888/224/3221225893/1.m3u8
-CCTV17,http://39.134.67.108/PLTV/88888888/224/3221225708/1.m3u8
-
-CCTV1,http://39.134.67.108/PLTV/88888888/224/3221225816/1.m3u8$移动
-CCTV2,http://39.134.67.108/PLTV/88888888/224/3221225599/1.m3u8$移动
-CCTV3,http://39.134.67.108/PLTV/88888888/224/3221225799/1.m3u8$移动
-CCTV4,http://39.134.67.108/PLTV/88888888/224/3221225797/1.m3u8$移动
-CCTV5,http://39.134.67.108/PLTV/88888888/224/3221225818/1.m3u8$移动
-CCTV5+,http://39.134.67.108/PLTV/88888888/224/3221225507/1.m3u8$移动
-CCTV6,http://39.134.67.108/PLTV/88888888/224/3221225814/1.m3u8$移动
-CCTV7,http://39.134.67.108/PLTV/88888888/224/3221225671/1.m3u8$移动
-CCTV8,http://39.134.67.108/PLTV/88888888/224/3221225795/1.m3u8$移动
-CCTV9,http://39.134.67.108/PLTV/88888888/224/3221225676/1.m3u8$移动
-CCTV10,http://39.134.67.108/PLTV/88888888/224/3221225677/1.m3u8$移动
-CCTV11,http://39.134.67.108/PLTV/88888888/224/3221225517/1.m3u8$移动
-CCTV12,http://39.134.67.108/PLTV/88888888/224/3221225669/1.m3u8$移动
-CCTV13,http://39.134.67.108/PLTV/88888888/224/3221225812/1.m3u8$移动
-CCTV14,http://39.134.67.108/PLTV/88888888/224/3221225674/1.m3u8$移动
-CCTV15,http://39.134.67.108/PLTV/88888888/224/3221225513/1.m3u8$移动
-CCTV16,http://39.134.67.108/PLTV/88888888/224/3221225893/1.m3u8$移动
-CCTV17,http://39.134.67.108/PLTV/88888888/224/3221225708/1.m3u8$移动
-CCTV1,http://39.134.67.108/PLTV/88888888/224/3221226119/1.m3u8$高清
-CCTV10,http://39.134.67.108/PLTV/88888888/224/3221226128/1.m3u8$高清
-CCTV11,http://39.134.67.108/PLTV/88888888/224/3221226123/1.m3u8$高清
-CCTV13,http://39.134.67.108/PLTV/88888888/224/3221226125/1.m3u8$高清
 
 
 🔞🈲欧美频道,#genre#
