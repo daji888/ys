@@ -1,20 +1,26 @@
 
 央视,#genre#
 
-CCTV1,http://60.29.124.66:6080/hls/12/index.m3u8$天津联通酒店
-CCTV2,http://60.29.124.66:6080/hls/13/index.m3u8$天津联通酒店
-CCTV3,http://60.29.124.66:6080/hls/14/index.m3u8$天津联通酒店
-CCTV4,http://60.29.124.66:6080/hls/15/index.m3u8$天津联通酒店
-CCTV5,http://60.29.124.66:6080/hls/16/index.m3u8$天津联通酒店
-CCTV6,http://60.29.124.66:6080/hls/17/index.m3u8$天津联通酒店
-CCTV7,http://60.29.124.66:6080/hls/18/index.m3u8$天津联通酒店
-CCTV8,http://60.29.124.66:6080/hls/19/index.m3u8$天津联通酒店
-CCTV9,http://60.29.124.66:6080/hls/20/index.m3u8$天津联通酒店
-CCTV10,http://60.29.124.66:6080/hls/21/index.m3u8$天津联通酒店
-CCTV11,http://60.29.124.66:6080/hls/22/index.m3u8$天津联通酒店
-CCTV13,http://60.29.124.66:6080/hls/23/index.m3u8$天津联通酒店
-CCTV14,http://60.29.124.66:6080/hls/25/index.m3u8$天津联通酒店
-CCTV15,http://60.29.124.66:6080/hls/26/index.m3u8$天津联通酒店
+CCTV1,http://ygbh.site/php/bfgd.php?id=488
+CCTV1,http://ygbh.site/php/bfgd.php?id=201
+CCTV1,http://ygbh.site/php/bfgd.php?id=484
+CCTV1,http://ygbh.site/php/bfgd.php?id=489
+CCTV2,http://ygbh.site/php/bfgd.php?id=061
+CCTV3,http://ygbh.site/php/bfgd.php?id=062
+CCTV4,http://ygbh.site/php/bfgd.php?id=063
+CCTV5,http://ygbh.site/php/bfgd.php?id=064
+CCTV5+,http://ygbh.site/php/bfgd.php?id=246
+CCTV6,http://ygbh.site/php/bfgd.php?id=065
+CCTV7,http://ygbh.site/php/bfgd.php?id=127
+CCTV8,http://ygbh.site/php/bfgd.php?id=066
+CCTV9,http://ygbh.site/php/bfgd.php?id=128
+CCTV10,http://ygbh.site/php/bfgd.php?id=129
+CCTV11,http://ygbh.site/php/bfgd.php?id=130
+CCTV12,http://ygbh.site/php/bfgd.php?id=131
+CCTV13,http://ygbh.site/php/bfgd.php?id=067
+CCTV14,http://ygbh.site/php/bfgd.php?id=132
+CCTV15,http://ygbh.site/php/bfgd.php?id=133
+CCTV17,http://ygbh.site/php/bfgd.php?id=204
 
 CCTV1,http://111.43.126.240:9003/hls/13/index.m3u8
 CCTV2,http://111.43.126.240:9003/hls/14/index.m3u8
@@ -34,6 +40,21 @@ CCTV14,http://111.43.126.240:9003/hls/27/index.m3u8
 CCTV15,http://111.43.126.240:9003/hls/28/index.m3u8
 CCTV16,http://111.43.126.240:9003/hls/29/index.m3u8
 CCTV17,http://111.43.126.240:9003/hls/30/index.m3u8
+
+CCTV1,http://60.29.124.66:6080/hls/12/index.m3u8$天津联通酒店
+CCTV2,http://60.29.124.66:6080/hls/13/index.m3u8$天津联通酒店
+CCTV3,http://60.29.124.66:6080/hls/14/index.m3u8$天津联通酒店
+CCTV4,http://60.29.124.66:6080/hls/15/index.m3u8$天津联通酒店
+CCTV5,http://60.29.124.66:6080/hls/16/index.m3u8$天津联通酒店
+CCTV6,http://60.29.124.66:6080/hls/17/index.m3u8$天津联通酒店
+CCTV7,http://60.29.124.66:6080/hls/18/index.m3u8$天津联通酒店
+CCTV8,http://60.29.124.66:6080/hls/19/index.m3u8$天津联通酒店
+CCTV9,http://60.29.124.66:6080/hls/20/index.m3u8$天津联通酒店
+CCTV10,http://60.29.124.66:6080/hls/21/index.m3u8$天津联通酒店
+CCTV11,http://60.29.124.66:6080/hls/22/index.m3u8$天津联通酒店
+CCTV13,http://60.29.124.66:6080/hls/23/index.m3u8$天津联通酒店
+CCTV14,http://60.29.124.66:6080/hls/25/index.m3u8$天津联通酒店
+CCTV15,http://60.29.124.66:6080/hls/26/index.m3u8$天津联通酒店
 
 CCTV1,http://sh.lnott.top:880/dx01.m3u8
 CCTV2,http://sh.lnott.top:880/dx02.m3u8
@@ -92,27 +113,6 @@ CCTV14,http://183.11.239.36:808/hls/32/index.m3u8
 CCTV15,http://183.11.239.36:808/hls/102/index.m3u8
 CCTV16,http://183.11.239.36:808/hls/169/index.m3u8
 CCTV17,http://183.11.239.36:808/hls/35/index.m3u8
-
-CCTV1,http://ygbh.site/php/bfgd.php?id=488
-CCTV1,http://ygbh.site/php/bfgd.php?id=201
-CCTV1,http://ygbh.site/php/bfgd.php?id=484
-CCTV1,http://ygbh.site/php/bfgd.php?id=489
-CCTV2,http://ygbh.site/php/bfgd.php?id=061
-CCTV3,http://ygbh.site/php/bfgd.php?id=062
-CCTV4,http://ygbh.site/php/bfgd.php?id=063
-CCTV5,http://ygbh.site/php/bfgd.php?id=064
-CCTV5+,http://ygbh.site/php/bfgd.php?id=246
-CCTV6,http://ygbh.site/php/bfgd.php?id=065
-CCTV7,http://ygbh.site/php/bfgd.php?id=127
-CCTV8,http://ygbh.site/php/bfgd.php?id=066
-CCTV9,http://ygbh.site/php/bfgd.php?id=128
-CCTV10,http://ygbh.site/php/bfgd.php?id=129
-CCTV11,http://ygbh.site/php/bfgd.php?id=130
-CCTV12,http://ygbh.site/php/bfgd.php?id=131
-CCTV13,http://ygbh.site/php/bfgd.php?id=067
-CCTV14,http://ygbh.site/php/bfgd.php?id=132
-CCTV15,http://ygbh.site/php/bfgd.php?id=133
-CCTV17,http://ygbh.site/php/bfgd.php?id=204
 
 CCTV1,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226559
 CCTV2,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226540
@@ -2947,6 +2947,7 @@ pondo-764,https://fc.maa1808.com/g/rgihjwnolt/rgihjwnolt.m3u8
 一本道_396,https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8?skipl=1
 一本道_404,https://vip4.ddyunbo.com/20210202/cOf9FXgF/index.m3u8?skipl=1
 一本道_405,https://vip4.ddyunbo.com/20210202/jnSPf5L7/index.m3u8?skipl=1
+
 
 
 
