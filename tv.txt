@@ -55,25 +55,6 @@ CCTV14,http://119.123.76.15:8086/hls/15/index.m3u8
 CCTV15,http://119.123.76.15:8086/hls/16/index.m3u8  
 CCTV16,http://119.123.76.15:8086/hls/17/index.m3u8
 
-CCTV1,http://36.32.99.130:5003/cctv1.m3u8  
-CCTV2,http://36.32.99.130:5003/cctv2.m3u8  
-CCTV3,http://36.32.99.130:5003/cctv3.m3u8  
-CCTV4,http://36.32.99.130:5003/cctv4.m3u8  
-CCTV5,http://36.32.99.130:5003/cctv5.m3u8  
-CCTV5+,http://36.32.99.130:5003/cctv5p.m3u8  
-CCTV6,http://36.32.99.130:5003/cctv6.m3u8  
-CCTV7,http://36.32.99.130:5003/cctv7.m3u8  
-CCTV8,http://36.32.99.130:5003/cctv8.m3u8  
-CCTV9,http://36.32.99.130:5003/cctv9.m3u8  
-CCTV10,http://36.32.99.130:5003/cctv10.m3u8  
-CCTV11,http://36.32.99.130:5003/cctv11.m3u8  
-CCTV12,http://36.32.99.130:5003/cctv12.m3u8  
-CCTV13,http://36.32.99.130:5003/cctv13.m3u8  
-CCTV14,http://36.32.99.130:5003/cctv14.m3u8  
-CCTV15,http://36.32.99.130:5003/cctv15.m3u8  
-CCTV16,http://36.32.99.130:5003/cctv16.m3u8  
-CCTV17,http://36.32.99.130:5003/cctv17.m3u8  
-
 CCTV1,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221226908/index.m3u8
 CCTV1,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225829/index.m3u8
 CCTV1,http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221226908/index.m3u8
@@ -175,7 +156,6 @@ CCTV14,http://111.43.126.240:9003/hls/27/index.m3u8
 CCTV15,http://111.43.126.240:9003/hls/28/index.m3u8
 CCTV16,http://111.43.126.240:9003/hls/29/index.m3u8
 CCTV17,http://111.43.126.240:9003/hls/30/index.m3u8
-
 
 🔞🈲欧美频道,#genre#
 
@@ -2990,6 +2970,7 @@ pondo-764,https://fc.maa1808.com/g/rgihjwnolt/rgihjwnolt.m3u8
 一本道_396,https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8?skipl=1
 一本道_404,https://vip4.ddyunbo.com/20210202/cOf9FXgF/index.m3u8?skipl=1
 一本道_405,https://vip4.ddyunbo.com/20210202/jnSPf5L7/index.m3u8?skipl=1
+
 
 
 
