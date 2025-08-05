@@ -1,6 +1,172 @@
 
 央视,#genre#
 
+#EXTM3U
+#EXTINF:-1 group-title="央视",CCTV1
+http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221226908/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV1
+http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225829/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV1
+http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221226908/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV1
+http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227014/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV2
+http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221225800/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV2
+http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221225923/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV2
+http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225800/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV2
+http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225923/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV2
+http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225800/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV2
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225923/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV3
+http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227256/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV3
+http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227445/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV4
+http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221225802/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV4
+http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225802/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV4
+http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227225/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV4
+http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227441/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV4
+http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225802/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV4
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225802/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV5
+http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227229/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV5
+http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227283/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV5+
+http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221225821/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV5+
+http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221225939/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV5+
+http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225821/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV5+
+http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225939/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV5+
+http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225821/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV5+
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225821/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV5+
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225939/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV6
+http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227260/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV6
+http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227275/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV6
+http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227438/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV7
+http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221225805/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV7
+http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221225927/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV7
+http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225805/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV7
+http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225927/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV7
+http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225805/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV7
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225805/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV7
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225927/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV8
+http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227266/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV8
+http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227449/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV9
+http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221225820/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV9
+http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225820/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV9
+http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225929/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV9
+http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225820/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV9
+http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225929/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV9
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225820/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV10
+http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221225814/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV10
+http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221225931/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV10
+http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225814/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV10
+http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225931/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV10
+http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225814/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV10
+http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225931/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV10
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225814/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV10
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225931/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV11
+http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221225815/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV11
+http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225815/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV11
+http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227233/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV11
+http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225815/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV11
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225815/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV12
+http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221225816/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV12
+http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225816/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV12
+http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225932/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV12
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225816/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV12
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225932/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV13
+http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225817/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV13
+http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227237/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV13
+http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227279/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV13
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225817/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV14
+http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225819/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV14
+http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225933/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV14
+http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225819/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV14
+http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225933/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV15
+http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221225818/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV15
+http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225818/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV15
+http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227270/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV15
+http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225818/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV16
+http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221227162/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV16
+http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227162/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV16
+http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227125/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV16
+http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227148/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV17
+http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221226990/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV17
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221226986/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV4K
+http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227510/index.m3u8
+
 CCTV1,http://111.43.126.240:9003/hls/13/index.m3u8
 CCTV2,http://111.43.126.240:9003/hls/14/index.m3u8
 CCTV3,http://111.43.126.240:9003/hls/15/index.m3u8
@@ -19,40 +185,6 @@ CCTV14,http://111.43.126.240:9003/hls/27/index.m3u8
 CCTV15,http://111.43.126.240:9003/hls/28/index.m3u8
 CCTV16,http://111.43.126.240:9003/hls/29/index.m3u8
 CCTV17,http://111.43.126.240:9003/hls/30/index.m3u8
-
-CCTV1,http://60.29.124.66:6080/hls/12/index.m3u8$天津联通酒店
-CCTV2,http://60.29.124.66:6080/hls/13/index.m3u8$天津联通酒店
-CCTV3,http://60.29.124.66:6080/hls/14/index.m3u8$天津联通酒店
-CCTV4,http://60.29.124.66:6080/hls/15/index.m3u8$天津联通酒店
-CCTV5,http://60.29.124.66:6080/hls/16/index.m3u8$天津联通酒店
-CCTV6,http://60.29.124.66:6080/hls/17/index.m3u8$天津联通酒店
-CCTV7,http://60.29.124.66:6080/hls/18/index.m3u8$天津联通酒店
-CCTV8,http://60.29.124.66:6080/hls/19/index.m3u8$天津联通酒店
-CCTV9,http://60.29.124.66:6080/hls/20/index.m3u8$天津联通酒店
-CCTV10,http://60.29.124.66:6080/hls/21/index.m3u8$天津联通酒店
-CCTV11,http://60.29.124.66:6080/hls/22/index.m3u8$天津联通酒店
-CCTV13,http://60.29.124.66:6080/hls/23/index.m3u8$天津联通酒店
-CCTV14,http://60.29.124.66:6080/hls/25/index.m3u8$天津联通酒店
-CCTV15,http://60.29.124.66:6080/hls/26/index.m3u8$天津联通酒店
-
-CCTV1,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226559
-CCTV2,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226540
-CCTV3,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226021
-CCTV4,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226428
-CCTV5,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226019
-CCTV5+,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225603
-CCTV6,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226010
-CCTV7,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225733
-CCTV8,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226008
-CCTV9,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225734
-CCTV10,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226473
-CCTV11,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226565
-CCTV12,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226568
-CCTV13,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226571
-CCTV14,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226591
-CCTV15,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226476
-CCTV16,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226100
-CCTV17,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225765
 
 
 🔞🈲欧美频道,#genre#
@@ -2868,6 +3000,7 @@ pondo-764,https://fc.maa1808.com/g/rgihjwnolt/rgihjwnolt.m3u8
 一本道_396,https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8?skipl=1
 一本道_404,https://vip4.ddyunbo.com/20210202/cOf9FXgF/index.m3u8?skipl=1
 一本道_405,https://vip4.ddyunbo.com/20210202/jnSPf5L7/index.m3u8?skipl=1
+
 
 
 
