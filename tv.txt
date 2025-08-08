@@ -123,6 +123,9 @@ CCTV15,http://120.196.232.124:8088/000000001001PLTV/651/224/3221227593/1.m3u8?Hl
 CCTV16,http://120.196.232.124:8088/000000001001PLTV/651/224/3221227840/1.m3u8?HlsProfileId=
 CCTV17,http://120.196.232.124:8088/000000001001PLTV/651/224/3221227568/1.m3u8?HlsProfileId=
 
+CCTV5,http://106.116.242.252:9999/rtp/239.254.201.153:7206
+CCTV5+,http://106.116.242.252:9999/rtp/239.254.200.46:8004
+
 🔞🈲欧美频道,#genre#
 
 广告台,https://live.iptvxxx.net/hustlertv.m3u8
@@ -2936,6 +2939,7 @@ pondo-764,https://fc.maa1808.com/g/rgihjwnolt/rgihjwnolt.m3u8
 一本道_396,https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8?skipl=1
 一本道_404,https://vip4.ddyunbo.com/20210202/cOf9FXgF/index.m3u8?skipl=1
 一本道_405,https://vip4.ddyunbo.com/20210202/jnSPf5L7/index.m3u8?skipl=1
+
 
 
 
