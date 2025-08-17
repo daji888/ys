@@ -20,22 +20,6 @@ CCTV15,http://223.109.75.19:8000/399438/index.m3u8
 CCTV16,http://223.109.75.19:8000/246232/index.m3u8
 CCTV17,http://223.109.75.19:8000/299438/index.m3u8
 
-CCTV2,http://zba.sxdh.org/migu.php?v=index.php?&id=cctv2
-CCTV3,http://zba.sxdh.org/migu.php?v=index.php?&id=cctv3
-CCTV4,http://zba.sxdh.org/migu.php?v=index.php?&id=cctv4
-CCTV5,http://zba.sxdh.org/migu.php?v=index.php?&id=cctv5
-CCTV5+,http://zba.sxdh.org/migu.php?v=index.php?&id=cctv5p
-CCTV6,http://zba.sxdh.org/migu.php?v=index.php?&id=cctv6
-CCTV8,http://zba.sxdh.org/migu.php?v=index.php?&id=cctv8
-CCTV9,http://zba.sxdh.org/migu.php?v=index.php?&id=cctv9
-CCTV10,http://zba.sxdh.org/migu.php?v=index.php?&id=cctv10
-CCTV11,http://zba.sxdh.org/migu.php?v=index.php?&id=cctv11
-CCTV12,http://zba.sxdh.org/migu.php?v=index.php?&id=cctv12
-CCTV13,http://zba.sxdh.org/migu.php?v=index.php?&id=cctv13
-CCTV14,http://zba.sxdh.org/migu.php?v=index.php?&id=cctv14
-CCTV15,http://zba.sxdh.org/migu.php?v=index.php?&id=cctv15
-CCTV17,http://zba.sxdh.org/migu.php?v=index.php?&id=cctv17
-
 CCTV1,http://go.bkpcp.top/mg/cctv1
 CCTV2,http://go.bkpcp.top/mg/cctv2
 CCTV3,http://go.bkpcp.top/mg/cctv3
@@ -74,24 +58,6 @@ CCTV17,http://go.bkpcp.top/mg/cctv17
  CCTV14,https://mursor.ottiptv.cc/migu/624878440.m3u8?migutoken=0356a1ff0c3f495b2e71105006f3fdb0bcf2b52a562aae221e6bd338708ff816638ea1a73803477f2966672b6a5b046131d01110468cd5b7b76c5b91b5617b6a535cf8d835920171c441995f18
  CCTV15,https://mursor.ottiptv.cc/migu/673168223.m3u8?migutoken=35d71b0a267ff17ea0d5b976e59744fe80035ae654e9e0b2d1d7e7cf44731cc3da70fac533282c2268419f7a54560cffb4853c321373f79efe0a4995bd0045a70401671160d09eacc8007e4a97
  CCTV17,https://mursor.ottiptv.cc/migu/673168256.m3u8?migutoken=b0812e136caf6815e3bcd489c48c9faa674010b6b0e0fb4b6b82781e65e45ac90862a1a0e0c5fbe325e7a75767c69f493ac364506adef806eb9727bc7c844f67d101c044903dbc76c51b79154e
-
-CCTV1,http://120.196.232.124:8088/000000001001PLTV/651/224/3221227607/1.m3u8?HlsProfileId=
-CCTV2,http://120.196.232.124:8088/000000001001PLTV/651/224/3221227600/1.m3u8?HlsProfileId=
-CCTV3,http://120.196.232.124:8088/000000001001PLTV/651/224/3221227602/1.m3u8?HlsProfileId=
-CCTV4,http://120.196.232.124:8088/000000001001PLTV/651/224/3221227637/1.m3u8?HlsProfileId=
-CCTV5,http://120.196.232.124:8088/000000001001PLTV/651/224/3221227604/1.m3u8?HlsProfileId=
-CCTV6,http://120.196.232.124:8088/000000001001PLTV/651/224/3221227606/1.m3u8?HlsProfileId=
-CCTV7,http://120.196.232.124:8088/000000001001PLTV/651/224/3221227648/1.m3u8?HlsProfileId=
-CCTV8,http://120.196.232.124:8088/000000001001PLTV/651/224/3221227571/1.m3u8?HlsProfileId=
-CCTV9,http://120.196.232.124:8088/000000001001PLTV/651/224/3221227570/1.m3u8?HlsProfileId=
-CCTV10,http://120.196.232.124:8088/000000001001PLTV/651/224/3221227559/1.m3u8?HlsProfileId=
-CCTV11,http://120.196.232.124:8088/000000001001PLTV/651/224/3221227596/1.m3u8?HlsProfileId=
-CCTV12,http://120.196.232.124:8088/000000001001PLTV/651/224/3221227562/1.m3u8?HlsProfileId=
-CCTV13,http://120.196.232.124:8088/000000001001PLTV/651/224/3221227598/1.m3u8?HlsProfileId=
-CCTV14,http://120.196.232.124:8088/000000001001PLTV/651/224/3221227564/1.m3u8?HlsProfileId=
-CCTV15,http://120.196.232.124:8088/000000001001PLTV/651/224/3221227593/1.m3u8?HlsProfileId=
-CCTV16,http://120.196.232.124:8088/000000001001PLTV/651/224/3221227840/1.m3u8?HlsProfileId=
-CCTV17,http://120.196.232.124:8088/000000001001PLTV/651/224/3221227568/1.m3u8?HlsProfileId=
 
 央视频道2,#genre#
 
@@ -2975,6 +2941,7 @@ pondo-764,https://fc.maa1808.com/g/rgihjwnolt/rgihjwnolt.m3u8
 一本道_396,https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8?skipl=1
 一本道_404,https://vip4.ddyunbo.com/20210202/cOf9FXgF/index.m3u8?skipl=1
 一本道_405,https://vip4.ddyunbo.com/20210202/jnSPf5L7/index.m3u8?skipl=1
+
 
 
 
