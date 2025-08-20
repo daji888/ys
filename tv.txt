@@ -64,25 +64,6 @@ CCTV17农业农村,http://183.236.43.98:4111/udp/239.77.1.121:5146
 CCTV4K超高清,http://183.236.43.98:4111/udp/239.77.0.194:5146
 CCTV4K超高清,http://183.236.43.98:4111/udp/239.77.0.174:5146
 
-CCTV1综合,http://110.177.144.14:9003/hls/1/index.m3u8
-CCTV2财经,http://110.177.144.14:9003/hls/2/index.m3u8
-CCTV3综艺,http://110.177.144.14:9003/hls/3/index.m3u8
-CCTV4中文国际,http://110.177.144.14:9003/hls/4/index.m3u8
-CCTV5体育,http://110.177.144.14:9003/hls/5/index.m3u8
-CCTV6电影,http://110.177.144.14:9003/hls/7/index.m3u8
-CCTV7国防军事,http://110.177.144.14:9003/hls/8/index.m3u8
-CCTV8电视剧,http://110.177.144.14:9003/hls/9/index.m3u8
-CCTV9纪录,http://110.177.144.14:9003/hls/10/index.m3u8
-CCTV10科教,http://110.177.144.14:9003/hls/11/index.m3u8
-CCTV11戏曲,http://110.177.144.14:9003/hls/12/index.m3u8
-CCTV12社会与法,http://110.177.144.14:9003/hls/13/index.m3u8
-CCTV13新闻,http://110.177.144.14:9003/hls/14/index.m3u8
-CCTV14少儿,http://110.177.144.14:9003/hls/15/index.m3u8
-CCTV15音乐,http://110.177.144.14:9003/hls/16/index.m3u8
-CCTV16奥林匹克,http://110.177.144.14:9003/hls/17/index.m3u8
-CCTV17农业农村,http://110.177.144.14:9003/hls/18/index.m3u8
-CCTV5+体育赛事,http://110.177.144.14:9003/hls/6/index.m3u8
-
 🔞🈲成人频道,#genre#
 
 松视1,http://iptv.4666888.xyz/iptv.php?id=20143
@@ -2922,6 +2903,7 @@ pondo-764,https://fc.maa1808.com/g/rgihjwnolt/rgihjwnolt.m3u8
 一本道_396,https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8?skipl=1
 一本道_404,https://vip4.ddyunbo.com/20210202/cOf9FXgF/index.m3u8?skipl=1
 一本道_405,https://vip4.ddyunbo.com/20210202/jnSPf5L7/index.m3u8?skipl=1
+
 
 
 
