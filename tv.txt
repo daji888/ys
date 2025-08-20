@@ -1,25 +1,6 @@
 
 央视频道,#genre#
 
-CCTV1,http://223.109.75.19:8000/057754/index.m3u8
-CCTV2,http://223.109.75.19:8000/061465/index.m3u8
-CCTV3,http://223.109.75.19:8000/830965/index.m3u8
-CCTV4,http://223.109.75.19:8000/143097/index.m3u8
-CCTV5,http://223.109.75.19:8000/930480/index.m3u8
-CCTV5+,http://223.109.75.19:8000/470540/index.m3u8
-CCTV6,http://223.109.75.19:8000/520737/index.m3u8
-CCTV7,http://223.109.75.19:8000/649185/index.m3u8
-CCTV8,http://223.109.75.19:8000/235836/index.m3u8
-CCTV9,http://223.109.75.19:8000/827648/index.m3u8
-CCTV10,http://223.109.75.19:8000/502378/index.m3u8
-CCTV11,http://223.109.75.19:8000/554982/index.m3u8
-CCTV12,http://223.109.75.19:8000/422642/index.m3u8
-CCTV13,http://223.109.75.19:8000/593087/index.m3u8
-CCTV14,http://223.109.75.19:8000/271607/index.m3u8
-CCTV15,http://223.109.75.19:8000/399438/index.m3u8
-CCTV16,http://223.109.75.19:8000/246232/index.m3u8
-CCTV17,http://223.109.75.19:8000/299438/index.m3u8
-
 CCTV1,http://go.bkpcp.top/mg/cctv1
 CCTV2,http://go.bkpcp.top/mg/cctv2
 CCTV3,http://go.bkpcp.top/mg/cctv3
@@ -2941,6 +2922,7 @@ pondo-764,https://fc.maa1808.com/g/rgihjwnolt/rgihjwnolt.m3u8
 一本道_396,https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8?skipl=1
 一本道_404,https://vip4.ddyunbo.com/20210202/cOf9FXgF/index.m3u8?skipl=1
 一本道_405,https://vip4.ddyunbo.com/20210202/jnSPf5L7/index.m3u8?skipl=1
+
 
 
 
