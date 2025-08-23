@@ -185,6 +185,22 @@ CCTV17,http://go.bkpcp.top/mg/cctv17
 
 央视频道2,#genre#
 
+CCTV1综合,http://123.145.55.47:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2财经,http://123.145.55.47:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3综艺,http://123.145.55.47:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4国际,http://123.145.55.47:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5体育,http://123.145.55.47:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6电影,http://123.145.55.47:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7军农,http://123.145.55.47:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8电视剧,http://123.145.55.47:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9纪录,http://123.145.55.47:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10科教,http://123.145.55.47:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11戏曲,http://123.145.55.47:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12社会与法,http://123.145.55.47:9901/tsfile/live/0012_2.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13新闻,http://123.145.55.47:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14少儿,http://123.145.55.47:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15音乐,http://123.145.55.47:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+
 CCTV1综合,http://1.180.2.93:9901/tsfile/live/0001_1.m3u8?key=txiptv
 CCTV2财经,http://1.180.2.93:9901/tsfile/live/0002_1.m3u8?key=txiptv
 CCTV3综艺,http://1.180.2.93:9901/tsfile/live/0003_1.m3u8?key=txiptv
@@ -1911,6 +1927,7 @@ pondo-764,https://fc.maa1808.com/g/rgihjwnolt/rgihjwnolt.m3u8
 一本道_396,https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8?skipl=1
 一本道_404,https://vip4.ddyunbo.com/20210202/cOf9FXgF/index.m3u8?skipl=1
 一本道_405,https://vip4.ddyunbo.com/20210202/jnSPf5L7/index.m3u8?skipl=1
+
 
 
 
