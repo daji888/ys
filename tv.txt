@@ -30,6 +30,27 @@ CCTV14,https://zby.130519.xyz/PLTV/11/224/3221226150/index.m3u8
 CCTV15,https://zby.130519.xyz/PLTV/11/224/3221226147/index.m3u8
 CCTV16,https://zby.130519.xyz/PLTV/11/224/3221226120/index.m3u8
 
+CCTV1,http://www.lanyue168.cn:61201/udp/239.1.1.7:8007#http://dxf.us.kg:61201/udp/239.1.1.7:8007#http://lanyue168.cn:61201/udp/239.1.1.7:8007#http://89922050.xyz:61201/udp/239.1.1.7:8007
+CCTV2,http://www.lanyue168.cn:61201/udp/239.1.1.8:8008#http://dxf.us.kg:61201/udp/239.1.1.8:8008#http://lanyue168.cn:61201/udp/239.1.1.8:8008#http://89922050.xyz:61201/udp/239.1.1.8:8008
+CCTV3,http://www.lanyue168.cn:61201/udp/239.1.1.9:8009#http://dxf.us.kg:61201/udp/239.1.1.9:8009#http://lanyue168.cn:61201/udp/239.1.1.9:8009#http://89922050.xyz:61201/udp/239.1.1.9:8009
+CCTV4,http://www.lanyue168.cn:61201/udp/239.1.1.10:8010#http://dxf.us.kg:61201/udp/239.1.1.10:8010#http://lanyue168.cn:61201/udp/239.1.1.10:8010#http://89922050.xyz:61201/udp/239.1.1.10:8010
+CCTV5,http://www.lanyue168.cn:61201/udp/239.1.1.11:8011#http://dxf.us.kg:61201/udp/239.1.1.11:8011#http://lanyue168.cn:61201/udp/239.1.1.11:8011#http://89922050.xyz:61201/udp/239.1.1.11:8011
+CCTV5+,http://dxf.us.kg:61201/udp/239.1.1.12:8012#http://lanyue168.cn:61201/udp/239.1.1.12:8012#http://www.lanyue168.cn:61201/udp/239.1.1.12:8012#http://89922050.xyz:61201/udp/239.1.1.12:8012
+CCTV6,http://lanyue168.cn:61201/udp/239.1.1.13:8013#http://dxf.us.kg:61201/udp/239.1.1.13:8013#http://www.lanyue168.cn:61201/udp/239.1.1.13:8013#http://89922050.xyz:61201/udp/239.1.1.13:8013
+CCTV7,http://89922050.xyz:61201/udp/239.1.1.14:8014#http://www.lanyue168.cn:61201/udp/239.1.1.14:8014#http://dxf.us.kg:61201/udp/239.1.1.14:8014#http://lanyue168.cn:61201/udp/239.1.1.14:8014
+CCTV8,http://www.lanyue168.cn:61201/udp/239.1.1.15:8015#http://dxf.us.kg:61201/udp/239.1.1.15:8015#http://89922050.xyz:61201/udp/239.1.1.15:8015#http://lanyue168.cn:61201/udp/239.1.1.15:8015
+CCTV9,http://dxf.us.kg:61201/udp/239.1.1.16:8016#http://lanyue168.cn:61201/udp/239.1.1.16:8016#http://www.lanyue168.cn:61201/udp/239.1.1.16:8016#http://89922050.xyz:61201/udp/239.1.1.16:8016
+CCTV10,http://www.lanyue168.cn:61201/udp/239.1.1.17:8017#http://dxf.us.kg:61201/udp/239.1.1.17:8017#http://lanyue168.cn:61201/udp/239.1.1.17:8017#http://89922050.xyz:61201/udp/239.1.1.17:8017
+CCTV11,http://89922050.xyz:61201/udp/239.1.1.18:8018#http://dxf.us.kg:61201/udp/239.1.1.18:8018#http://lanyue168.cn:61201/udp/239.1.1.18:8018#http://www.lanyue168.cn:61201/udp/239.1.1.18:8018
+CCTV12,http://www.lanyue168.cn:61201/udp/239.1.1.19:8019#http://89922050.xyz:61201/udp/239.1.1.19:8019#http://dxf.us.kg:61201/udp/239.1.1.19:8019#http://lanyue168.cn:61201/udp/239.1.1.19:8019
+CCTV13,http://www.lanyue168.cn:61201/udp/239.1.1.20:8020#http://dxf.us.kg:61201/udp/239.1.1.20:8020#http://lanyue168.cn:61201/udp/239.1.1.20:8020#http://89922050.xyz:61201/udp/239.1.1.20:8020
+CCTV14,http://89922050.xyz:61201/udp/239.1.1.21:8021#http://www.lanyue168.cn:61201/udp/239.1.1.21:8021#http://lanyue168.cn:61201/udp/239.1.1.21:8021#http://dxf.us.kg:61201/udp/239.1.1.21:8021
+CCTV15,http://www.lanyue168.cn:61201/udp/239.1.1.22:8022#http://lanyue168.cn:61201/udp/239.1.1.22:8022#http://dxf.us.kg:61201/udp/239.1.1.22:8022#http://89922050.xyz:61201/udp/239.1.1.22:8022
+CCTV16,http://dxf.us.kg:61201/udp/239.1.1.122:8122#http://www.lanyue168.cn:61201/udp/239.1.1.122:8122#http://89922050.xyz:61201/udp/239.1.1.122:8122#http://lanyue168.cn:61201/udp/239.1.1.122:8122
+CCTV17,http://dxf.us.kg:61201/udp/239.1.1.23:8023#http://89922050.xyz:61201/udp/239.1.1.23:8023#http://lanyue168.cn:61201/udp/239.1.1.23:8023#http://www.lanyue168.cn:61201/udp/239.1.1.23:8023
+
+CCTV5,http://117.72.194.224:6688/zb.php?id=cctv5
+
  CCTV1,https://mursor.ottiptv.cc/migu/608807420.m3u8?migutoken=106324b7bddde5d8f239c47df286bfea78dc4414a28be116a9b6f8b16a7e1be989080ca6df45e2c3c7cbb8a73308c31710e9aa616a2f668c4f347d1673aa8e09eea0b54bbd518b8b98b66cbc63
  CCTV2,https://mursor.ottiptv.cc/migu/631780532.m3u8?migutoken=e3525a6ec367c860843eab442744ad4bf5a788e4332090eff633c641a43ddd1e05990c13b3aa34c0b9fed0f41e181a5854200ca948b5bdf4b2a991c2c53f9c853483a6c270d72c48e0b66e9806
  CCTV3,https://mursor.ottiptv.cc/migu/624878271.m3u8?migutoken=bba30d3de9747a366eb03e3150709581642cee9d87305e8c973a1931b896c14b80f4b8d447495a39700a435cb41cbd1835e10fa814b1ecef6ff76d0da67eed58fb3f2240f3740c85b138cdc401
@@ -106,6 +127,38 @@ CCTV15音乐,http://1.180.2.93:9901/tsfile/live/0015_1.m3u8?key=txiptv
 CCTV16奥林匹克,http://58.221.214.82:9901/tsfile/live/0002_2.m3u8?key=txiptv
 CCTV17农业农村,http://1.180.2.93:9901/tsfile/live/0019_1.m3u8?key=txiptv
 CCTV5+体育赛事,http://1.180.2.93:9901/tsfile/live/1027_1.m3u8?key=txiptv
+
+咪咕体育,#genre#
+咪咕直播1,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=toShengfen&mode=1
+咪咕直播2,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=toShengfen&mode=1
+咪咕直播3,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=toShengfen&mode=1
+咪咕直播4,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=toShengfen&mode=1
+咪咕直播5,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=toShengfen&mode=1
+咪咕直播6,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=toShengfen&mode=1
+咪咕直播7,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=toShengfen&mode=1
+咪咕直播8,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=toShengfen&mode=1
+咪咕直播9,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=toShengfen&mode=1
+咪咕直播10,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=toShengfen&mode=1
+咪咕直播11,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=toShengfen&mode=1
+咪咕直播12,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=toShengfen&mode=1
+咪咕直播13,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=toShengfen&mode=1
+咪咕直播14,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=toShengfen&mode=1
+咪咕直播15,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=toShengfen&mode=1
+咪咕直播16,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=toShengfen&mode=1
+咪咕直播17,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=toShengfen&mode=1
+咪咕直播18,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=toShengfen&mode=1
+咪咕直播19,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=toShengfen&mode=1
+咪咕直播20,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=toShengfen&mode=1
+咪咕直播21,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=toShengfen&mode=1
+咪咕直播22,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=toShengfen&mode=1
+咪咕直播23,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=toShengfen&mode=1
+咪咕直播24,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=toShengfen&mode=1
+咪咕直播25,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=toShengfen&mode=1
+咪咕直播26,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=toShengfen&mode=1
+咪咕直播27,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000017678&livemode=1&stbId=toShengfen&mode=1
+咪咕直播28,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=toShengfen&mode=1
+咪咕直播29,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=toShengfen&mode=1
+咪咕直播30,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=toShengfen&mode=1
 
 🔞🈲成人频道,#genre#
 
@@ -1782,6 +1835,7 @@ pondo-764,https://fc.maa1808.com/g/rgihjwnolt/rgihjwnolt.m3u8
 一本道_396,https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8?skipl=1
 一本道_404,https://vip4.ddyunbo.com/20210202/cOf9FXgF/index.m3u8?skipl=1
 一本道_405,https://vip4.ddyunbo.com/20210202/jnSPf5L7/index.m3u8?skipl=1
+
 
 
 
