@@ -128,23 +128,6 @@ CCTV15,http://t.061899.xyz/tl/dq.php?id=cctv15
 CCTV16,http://t.061899.xyz/tl/dq.php?id=cctv16
 CCTV17,http://t.061899.xyz/tl/dq.php?id=cctv17
 
-CCTV1,http://183.222.242.31:8088/hls/1/index.m3u8
-CCTV2,http://183.222.242.31:8088/hls/2/index.m3u8
-CCTV3,http://183.222.242.31:8088/hls/3/index.m3u8
-CCTV4,http://183.222.242.31:8088/hls/4/index.m3u8
-CCTV5,http://183.222.242.31:8088/hls/5/index.m3u8
-CCTV6,http://183.222.242.31:8088/hls/6/index.m3u8
-CCTV7,http://183.222.242.31:8088/hls/7/index.m3u8
-CCTV8,http://183.222.242.31:8088/hls/8/index.m3u8
-CCTV9,http://183.222.242.31:8088/hls/9/index.m3u8
-CCTV10,http://183.222.242.31:8088/hls/10/index.m3u8
-CCTV11,http://183.222.242.31:8088/hls/11/index.m3u8
-CCTV12,http://183.222.242.31:8088/hls/12/index.m3u8
-CCTV13,http://183.222.242.31:8088/hls/13/index.m3u8
-CCTV14,http://183.222.242.31:8088/hls/14/index.m3u8
-CCTV15,http://183.222.242.31:8088/hls/15/index.m3u8
-CCTV5+,http://183.222.242.31:8088/hls/16/index.m3u8
-
 咪咕体育,#genre#
 咪咕直播1,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=toShengfen&mode=1
 咪咕直播2,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=toShengfen&mode=1
@@ -1852,6 +1835,7 @@ pondo-764,https://fc.maa1808.com/g/rgihjwnolt/rgihjwnolt.m3u8
 一本道_396,https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8?skipl=1
 一本道_404,https://vip4.ddyunbo.com/20210202/cOf9FXgF/index.m3u8?skipl=1
 一本道_405,https://vip4.ddyunbo.com/20210202/jnSPf5L7/index.m3u8?skipl=1
+
 
 
 
