@@ -89,6 +89,25 @@ CCTV17,http://t.061899.xyz/tl/dq.php?id=cctv17
 
 CCTV5,http://117.72.194.224:6688/zb.php?id=cctv5
 
+CCTV1,http://180.165.20.37:7777/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2,http://180.165.20.37:7777/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3,http://180.165.20.37:7777/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4,http://180.165.20.37:7777/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5,http://180.165.20.37:7777/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+,http://180.165.20.37:7777/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6,http://180.165.20.37:7777/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7,http://180.165.20.37:7777/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8,http://180.165.20.37:7777/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9,http://180.165.20.37:7777/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10,http://180.165.20.37:7777/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11,http://180.165.20.37:7777/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12,http://180.165.20.37:7777/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13,http://180.165.20.37:7777/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14,http://180.165.20.37:7777/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15,http://180.165.20.37:7777/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV16,http://180.165.20.37:7777/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV17,http://180.165.20.37:7777/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
+
  CCTV1,https://mursor.ottiptv.cc/migu/608807420.m3u8?migutoken=106324b7bddde5d8f239c47df286bfea78dc4414a28be116a9b6f8b16a7e1be989080ca6df45e2c3c7cbb8a73308c31710e9aa616a2f668c4f347d1673aa8e09eea0b54bbd518b8b98b66cbc63
  CCTV2,https://mursor.ottiptv.cc/migu/631780532.m3u8?migutoken=e3525a6ec367c860843eab442744ad4bf5a788e4332090eff633c641a43ddd1e05990c13b3aa34c0b9fed0f41e181a5854200ca948b5bdf4b2a991c2c53f9c853483a6c270d72c48e0b66e9806
  CCTV3,https://mursor.ottiptv.cc/migu/624878271.m3u8?migutoken=bba30d3de9747a366eb03e3150709581642cee9d87305e8c973a1931b896c14b80f4b8d447495a39700a435cb41cbd1835e10fa814b1ecef6ff76d0da67eed58fb3f2240f3740c85b138cdc401
@@ -1817,3 +1836,4 @@ pondo-764,https://fc.maa1808.com/g/rgihjwnolt/rgihjwnolt.m3u8
 一本道_396,https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8?skipl=1
 一本道_404,https://vip4.ddyunbo.com/20210202/cOf9FXgF/index.m3u8?skipl=1
 一本道_405,https://vip4.ddyunbo.com/20210202/jnSPf5L7/index.m3u8?skipl=1
+
