@@ -96,6 +96,26 @@ CCTV14,https://zby.130519.xyz/PLTV/11/224/3221226150/index.m3u8
 CCTV15,https://zby.130519.xyz/PLTV/11/224/3221226147/index.m3u8
 CCTV16,https://zby.130519.xyz/PLTV/11/224/3221226120/index.m3u8
 
+央视频道123,#genre#
+
+CCTV1,https://smt.858.qzz.io/Smart.php?id=cctv1
+CCTV2,https://smt.858.qzz.io/Smart.php?id=cctv2
+CCTV3,https://smt.858.qzz.io/Smart.php?id=cctv3
+CCTV4,https://smt.858.qzz.io/Smart.php?id=Cctv4
+CCTV4,https://smt.858.qzz.io/Smart.php?id=cctv4
+CCTV5,https://smt.858.qzz.io/Smart.php?id=cctv5
+CCTV5+,https://smt.858.qzz.io/Smart.php?id=cctv5plus
+CCTV6,https://smt.858.qzz.io/Smart.php?id=cctv6
+CCTV7,https://smt.858.qzz.io/Smart.php?id=cctv7
+CCTV8,https://smt.858.qzz.io/Smart.php?id=cctv8hd
+CCTV9,https://smt.858.qzz.io/Smart.php?id=cctv9hd
+CCTV10,https://smt.858.qzz.io/Smart.php?id=cctv10hd
+CCTV11,https://smt.858.qzz.io/Smart.php?id=cctv11
+CCTV12,https://smt.858.qzz.io/Smart.php?id=cctv12
+CCTV13,https://smt.858.qzz.io/Smart.php?id=cctv13
+CCTV14,https://smt.858.qzz.io/Smart.php?id=cctv14
+CCTV15,https://smt.858.qzz.io/Smart.php?id=cctv15
+
 咪咕体育,#genre#
 
 咪咕直播1,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=toShengfen&mode=1
@@ -1778,6 +1798,7 @@ pondo-764,https://fc.maa1808.com/g/rgihjwnolt/rgihjwnolt.m3u8
 一本道_396,https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8?skipl=1
 一本道_404,https://vip4.ddyunbo.com/20210202/cOf9FXgF/index.m3u8?skipl=1
 一本道_405,https://vip4.ddyunbo.com/20210202/jnSPf5L7/index.m3u8?skipl=1
+
 
 
 
