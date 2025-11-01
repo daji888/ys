@@ -1,6 +1,24 @@
 
 央视频道,#genre#
 
+CCTV1,http://202.168.168.50:5000/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2,http://202.168.168.50:5000/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3,http://202.168.168.50:5000/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4,http://202.168.168.50:5000/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5,http://202.168.168.50:5000/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6,http://202.168.168.50:5000/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7,http://202.168.168.50:5000/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8,http://202.168.168.50:5000/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9,http://202.168.168.50:5000/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10,http://202.168.168.50:5000/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11,http://202.168.168.50:5000/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12,http://202.168.168.50:5000/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13,http://202.168.168.50:5000/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14,http://202.168.168.50:5000/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15,http://202.168.168.50:5000/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV16,http://202.168.168.50:5000/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV17,http://202.168.168.50:5000/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+
 CCTV1,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225723/1.m3u8
 CCTV1,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225770/1.m3u8
 CCTV1,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225673/1.m3u8
@@ -1742,6 +1760,7 @@ pondo-764,https://fc.maa1808.com/g/rgihjwnolt/rgihjwnolt.m3u8
 一本道_396,https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8?skipl=1
 一本道_404,https://vip4.ddyunbo.com/20210202/cOf9FXgF/index.m3u8?skipl=1
 一本道_405,https://vip4.ddyunbo.com/20210202/jnSPf5L7/index.m3u8?skipl=1
+
 
 
 
