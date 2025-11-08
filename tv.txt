@@ -1,23 +1,23 @@
 
 央视频道,#genre#
 
-CCTV-1,http://113.125.208.46:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-1-HD-265-8M/G_CCTV-1-HD-265-8M.m3u8
-CCTV-2,http://113.125.208.46:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-2-HD-265-8M/G_CCTV-2-HD-265-8M.m3u8
-CCTV-3,http://113.125.208.46:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-3-HD-265-8M/G_CCTV-3-HD-265-8M.m3u8
-CCTV-4,http://113.125.208.46:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-4-HD-265-8M/G_CCTV-4-HD-265-8M.m3u8
-CCTV-5,http://113.125.208.46:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV--5-HD-265-5M/G_CCTV--5-HD-265-5M.m3u8
-CCTV-5+,http://113.125.208.46:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-5PLUS-HD-265-5M/G_CCTV-5PLUS-HD-265-5M.m3u8
-CCTV-6,http://113.125.208.46:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-6-HD-265-8M/G_CCTV-6-HD-265-8M.m3u8
-CCTV-7,http://113.125.208.46:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-7-HQ/G_CCTV-7-HQ.m3u8
-CCTV-8,http://113.125.208.46:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-8-HD-265-5M/G_CCTV-8-HD-265-5M.m3u8
-CCTV-9,http://113.125.208.46:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-9-HD-265-5M/G_CCTV-9-HD-265-5M.m3u8
-CCTV-10,http://113.125.208.46:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-10-HQ/G_CCTV-10-HQ.m3u8
-CCTV-11,http://113.125.208.46:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-11-HQ/G_CCTV-11-HQ.m3u8
-CCTV-13,http://113.125.208.46:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-13-HD-265-8M/G_CCTV-13-HD-265-8M.m3u8
-CCTV-15,http://113.125.208.46:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-15/G_CCTV-15.m3u8
-CCTV-16,http://113.125.208.46:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-16-CQ/G_CCTV-16-CQ.m3u8
-CCTV-16-4K,http://113.125.208.46:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-16-4K/G_CCTV-16-4K.m3u8
-CCTV-17,http://113.125.208.46:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-17-HD/G_CCTV-17-HD.m3u8
+CCTV1,http://113.125.208.46:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-1-HD-265-8M/G_CCTV-1-HD-265-8M.m3u8
+CCTV2,http://113.125.208.46:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-2-HD-265-8M/G_CCTV-2-HD-265-8M.m3u8
+CCTV3,http://113.125.208.46:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-3-HD-265-8M/G_CCTV-3-HD-265-8M.m3u8
+CCTV4,http://113.125.208.46:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-4-HD-265-8M/G_CCTV-4-HD-265-8M.m3u8
+CCTV5,http://113.125.208.46:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-5-HD-265-5M/G_CCTV-5-HD-265-5M.m3u8
+CCTV5+,http://113.125.208.46:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-5PLUS-HD-265-5M/G_CCTV-5PLUS-HD-265-5M.m3u8
+CCTV6,http://113.125.208.46:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-6-HD-265-8M/G_CCTV-6-HD-265-8M.m3u8
+CCTV7,http://113.125.208.46:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-7-HQ/G_CCTV-7-HQ.m3u8
+CCTV8,http://113.125.208.46:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-8-HD-265-5M/G_CCTV-8-HD-265-5M.m3u8
+CCTV9,http://113.125.208.46:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-9-HD-265-5M/G_CCTV-9-HD-265-5M.m3u8
+CCTV10,http://113.125.208.46:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-10-HQ/G_CCTV-10-HQ.m3u8
+CCTV11,http://113.125.208.46:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-11-HQ/G_CCTV-11-HQ.m3u8
+CCTV13,http://113.125.208.46:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-13-HD-265-8M/G_CCTV-13-HD-265-8M.m3u8
+CCTV15,http://113.125.208.46:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-15/G_CCTV-15.m3u8
+CCTV16,http://113.125.208.46:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-16-CQ/G_CCTV-16-CQ.m3u8
+CCTV16-4K,http://113.125.208.46:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-16-4K/G_CCTV-16-4K.m3u8
+CCTV17,http://113.125.208.46:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-17-HD/G_CCTV-17-HD.m3u8
 CCTV4K,http://113.125.208.46:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV4K-HD/G_CCTV4K-HD.m3u8
 休闲体育,http://113.125.208.46:2380/js-live-screenshot.gitv.tv/gitv_live/G_JSTY/G_JSTY.m3u8
 睛彩竞技,http://113.125.208.46:2380/js-live-screenshot.gitv.tv/gitv_live/HD-8000k-1080P-miguaoyun2/HD-8000k-1080P-miguaoyun2.m3u8
@@ -1890,6 +1890,7 @@ pondo-764,https://fc.maa1808.com/g/rgihjwnolt/rgihjwnolt.m3u8
 一本道_396,https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8?skipl=1
 一本道_404,https://vip4.ddyunbo.com/20210202/cOf9FXgF/index.m3u8?skipl=1
 一本道_405,https://vip4.ddyunbo.com/20210202/jnSPf5L7/index.m3u8?skipl=1
+
 
 
 
