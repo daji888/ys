@@ -30,6 +30,8 @@ CCTV14,https://zby.130519.xyz/PLTV/11/224/3221226150/index.m3u8
 CCTV15,https://zby.130519.xyz/PLTV/11/224/3221226147/index.m3u8
 CCTV16,https://zby.130519.xyz/PLTV/11/224/3221226120/index.m3u8
 
+CCTV5,http://120.76.248.139/live/bfgd/4200000064.m3u8
+
 CCTV1,https://smt.858.qzz.io/Smart.php?id=cctv1
 CCTV2,https://smt.858.qzz.io/Smart.php?id=cctv2
 CCTV3,https://smt.858.qzz.io/Smart.php?id=cctv3
@@ -1739,6 +1741,7 @@ pondo-764,https://fc.maa1808.com/g/rgihjwnolt/rgihjwnolt.m3u8
 一本道_396,https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8?skipl=1
 一本道_404,https://vip4.ddyunbo.com/20210202/cOf9FXgF/index.m3u8?skipl=1
 一本道_405,https://vip4.ddyunbo.com/20210202/jnSPf5L7/index.m3u8?skipl=1
+
 
 
 
