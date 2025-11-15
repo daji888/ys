@@ -1,6 +1,30 @@
 
 央视频道,#genre#
 
+CCTV1,http://iptv.666230.xyz/iptv/jsyd.php/G_CCTV1-HD-265-5M
+CCTV1,http://iptv.666230.xyz/iptv/jsyd.php/G_CCTV1-HD-265-8M
+CCTV2,http://iptv.666230.xyz/iptv/jsyd.php/G_CCTV2-HD-265-8M
+CCTV3,http://iptv.666230.xyz/iptv/jsyd.php/G_CCTV3-HD-265-8M
+CCTV4,http://iptv.666230.xyz/iptv/jsyd.php/G_CCTV4-HD-265-8M
+CCTV4K,http://iptv.666230.xyz/iptv/jsyd.php/G_CCTV4K-HD
+CCTV5,http://iptv.666230.xyz/iptv/jsyd.php/G_CCTV5-HD-265-8M
+CCTV5,http://iptv.666230.xyz/iptv/jsyd.php/G_CCTV5-HQ
+CCTV5+,http://iptv.666230.xyz/iptv/jsyd.php/G_CCTV5PLUS-HD-265-5M
+CCTV6,http://iptv.666230.xyz/iptv/jsyd.php/G_CCTV6-HD-265-8M
+CCTV7,http://iptv.666230.xyz/iptv/jsyd.php/G_CCTV7-HQ
+CCTV8,http://iptv.666230.xyz/iptv/jsyd.php/G_CCTV8-HD-265-5M
+CCTV8,http://iptv.666230.xyz/iptv/jsyd.php/G_CCTV8-HD-265-8M
+CCTV9,http://iptv.666230.xyz/iptv/jsyd.php/G_CCTV9-HQ
+CCTV10,http://iptv.666230.xyz/iptv/jsyd.php/G_CCTV10-HQ
+CCTV11,http://iptv.666230.xyz/iptv/jsyd.php/G_CCTV11-HQ
+CCTV12,http://iptv.666230.xyz/iptv/jsyd.php/G_CCTV12-HQ
+CCTV13,http://iptv.666230.xyz/iptv/jsyd.php/G_CCTV13-HQ
+CCTV14,http://iptv.666230.xyz/iptv/jsyd.php/G_CCTV14-HQ
+CCTV15,http://iptv.666230.xyz/iptv/jsyd.php/G_CCTV15-HQ
+CCTV16,http://iptv.666230.xyz/iptv/jsyd.php/G_CCTV16-CQ
+CCTV16 4K,http://iptv.666230.xyz/iptv/jsyd.php/G_CCTV16-4K
+CCTV17,http://iptv.666230.xyz/iptv/jsyd.php/G_CCTV17-HD
+
 CCTV1,https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
 CCTV1,https://zby.130519.xyz/PLTV/11/224/3221225723/index.m3u8
 CCTV1,https://zby.130519.xyz/PLTV/11/224/3221225770/index.m3u8
@@ -1724,6 +1748,7 @@ pondo-764,https://fc.maa1808.com/g/rgihjwnolt/rgihjwnolt.m3u8
 一本道_396,https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8?skipl=1
 一本道_404,https://vip4.ddyunbo.com/20210202/cOf9FXgF/index.m3u8?skipl=1
 一本道_405,https://vip4.ddyunbo.com/20210202/jnSPf5L7/index.m3u8?skipl=1
+
 
 
 
