@@ -5,89 +5,6 @@ CCTV5,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 
 央视频道,#genre#
 
-CCTV1,http://iptv.666230.xyz/iptv/bjyd.php/6431
-CCTV1,http://iptv.666230.xyz/iptv/bjyd.php/6346
-CCTV1,http://iptv.666230.xyz/iptv/bjyd.php/6895
-CCTV1,http://iptv.666230.xyz/iptv/bjyd.php/6933
-CCTV1,http://iptv.666230.xyz/iptv/bjyd.php/6338
-CCTV1,http://iptv.666230.xyz/iptv/bjyd.php/6432
-CCTV2,http://iptv.666230.xyz/iptv/bjyd.php/6230
-CCTV2,http://iptv.666230.xyz/iptv/bjyd.php/6371
-CCTV2,http://iptv.666230.xyz/iptv/bjyd.php/6472
-CCTV2,http://iptv.666230.xyz/iptv/bjyd.php/6893
-CCTV2,http://iptv.666230.xyz/iptv/bjyd.php/6950
-CCTV2,http://iptv.666230.xyz/iptv/bjyd.php/6990
-CCTV2,http://iptv.666230.xyz/iptv/bjyd.php/6911
-CCTV2,http://iptv.666230.xyz/iptv/bjyd.php/6457
-CCTV3,http://iptv.666230.xyz/iptv/bjyd.php/6471
-CCTV4,http://iptv.666230.xyz/iptv/bjyd.php/6335
-CCTV4,http://iptv.666230.xyz/iptv/bjyd.php/6470
-CCTV4,http://iptv.666230.xyz/iptv/bjyd.php/7026
-CCTV4,http://iptv.666230.xyz/iptv/bjyd.php/6362
-CCTV4,http://iptv.666230.xyz/iptv/bjyd.php/6907
-CCTV4,http://iptv.666230.xyz/iptv/bjyd.php/6455
-CCTV5,http://iptv.666230.xyz/iptv/bjyd.php/6232
-CCTV5,http://iptv.666230.xyz/iptv/bjyd.php/6348
-CCTV5,http://iptv.666230.xyz/iptv/bjyd.php/6469
-CCTV5,http://iptv.666230.xyz/iptv/bjyd.php/6945
-CCTV5,http://iptv.666230.xyz/iptv/bjyd.php/6454
-CCTV5+,http://iptv.666230.xyz/iptv/bjyd.php/6894
-CCTV5+,http://iptv.666230.xyz/iptv/bjyd.php/6349
-CCTV5+,http://iptv.666230.xyz/iptv/bjyd.php/6458
-CCTV5+,http://iptv.666230.xyz/iptv/bjyd.php/6929
-CCTV6,http://iptv.666230.xyz/iptv/bjyd.php/6468
-CCTV6,http://iptv.666230.xyz/iptv/bjyd.php/6453
-CCTV7,http://iptv.666230.xyz/iptv/bjyd.php/6234
-CCTV7,http://iptv.666230.xyz/iptv/bjyd.php/6467
-CCTV7,http://iptv.666230.xyz/iptv/bjyd.php/6946
-CCTV7,http://iptv.666230.xyz/iptv/bjyd.php/7019
-CCTV7,http://iptv.666230.xyz/iptv/bjyd.php/6906
-CCTV7,http://iptv.666230.xyz/iptv/bjyd.php/6452
-CCTV8,http://iptv.666230.xyz/iptv/bjyd.php/6485
-CCTV8,http://iptv.666230.xyz/iptv/bjyd.php/6451
-CCTV9,http://iptv.666230.xyz/iptv/bjyd.php/6236
-CCTV9,http://iptv.666230.xyz/iptv/bjyd.php/6465
-CCTV9,http://iptv.666230.xyz/iptv/bjyd.php/6944
-CCTV9,http://iptv.666230.xyz/iptv/bjyd.php/7037
-CCTV9,http://iptv.666230.xyz/iptv/bjyd.php/6450
-CCTV10,http://iptv.666230.xyz/iptv/bjyd.php/6464
-CCTV10,http://iptv.666230.xyz/iptv/bjyd.php/6937
-CCTV10,http://iptv.666230.xyz/iptv/bjyd.php/6918
-CCTV10,http://iptv.666230.xyz/iptv/bjyd.php/6449
-CCTV11,http://iptv.666230.xyz/iptv/bjyd.php/6334
-CCTV11,http://iptv.666230.xyz/iptv/bjyd.php/6463
-CCTV11,http://iptv.666230.xyz/iptv/bjyd.php/6914
-CCTV11,http://iptv.666230.xyz/iptv/bjyd.php/6448
-CCTV12,http://iptv.666230.xyz/iptv/bjyd.php/6228
-CCTV12,http://iptv.666230.xyz/iptv/bjyd.php/6462
-CCTV12,http://iptv.666230.xyz/iptv/bjyd.php/6942
-CCTV12,http://iptv.666230.xyz/iptv/bjyd.php/6905
-CCTV12,http://iptv.666230.xyz/iptv/bjyd.php/6447
-CCTV13,http://iptv.666230.xyz/iptv/bjyd.php/6316
-CCTV13,http://iptv.666230.xyz/iptv/bjyd.php/6568
-CCTV13,http://iptv.666230.xyz/iptv/bjyd.php/7041
-CCTV13,http://iptv.666230.xyz/iptv/bjyd.php/6339
-CCTV13,http://iptv.666230.xyz/iptv/bjyd.php/6446
-CCTV14,http://iptv.666230.xyz/iptv/bjyd.php/6229
-CCTV14,http://iptv.666230.xyz/iptv/bjyd.php/6461
-CCTV14,http://iptv.666230.xyz/iptv/bjyd.php/6947
-CCTV14,http://iptv.666230.xyz/iptv/bjyd.php/7036
-CCTV14,http://iptv.666230.xyz/iptv/bjyd.php/6904
-CCTV14,http://iptv.666230.xyz/iptv/bjyd.php/6445
-CCTV15,http://iptv.666230.xyz/iptv/bjyd.php/6333
-CCTV15,http://iptv.666230.xyz/iptv/bjyd.php/6460
-CCTV15,http://iptv.666230.xyz/iptv/bjyd.php/6910
-CCTV15,http://iptv.666230.xyz/iptv/bjyd.php/6444
-CCTV16,http://iptv.666230.xyz/iptv/bjyd.php/6887
-CCTV16,http://iptv.666230.xyz/iptv/bjyd.php/6888
-CCTV16,http://iptv.666230.xyz/iptv/bjyd.php/6892
-CCTV16,http://iptv.666230.xyz/iptv/bjyd.php/7002
-CCTV17,http://iptv.666230.xyz/iptv/bjyd.php/6318
-CCTV17,http://iptv.666230.xyz/iptv/bjyd.php/6459
-CCTV17,http://iptv.666230.xyz/iptv/bjyd.php/6442
-
-CCTV5,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
-
 CCTV1,https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
 CCTV1,https://zby.130519.xyz/PLTV/11/224/3221225723/index.m3u8
 CCTV1,https://zby.130519.xyz/PLTV/11/224/3221225770/index.m3u8
@@ -116,6 +33,8 @@ CCTV14,https://zby.130519.xyz/PLTV/11/224/3221225738/index.m3u8
 CCTV14,https://zby.130519.xyz/PLTV/11/224/3221226150/index.m3u8
 CCTV15,https://zby.130519.xyz/PLTV/11/224/3221226147/index.m3u8
 CCTV16,https://zby.130519.xyz/PLTV/11/224/3221226120/index.m3u8
+
+CCTV5,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 
 咪咕体育,#genre#
 
@@ -1808,6 +1727,7 @@ pondo-764,https://fc.maa1808.com/g/rgihjwnolt/rgihjwnolt.m3u8
 一本道_396,https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8?skipl=1
 一本道_404,https://vip4.ddyunbo.com/20210202/cOf9FXgF/index.m3u8?skipl=1
 一本道_405,https://vip4.ddyunbo.com/20210202/jnSPf5L7/index.m3u8?skipl=1
+
 
 
 
