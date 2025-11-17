@@ -13,6 +13,7 @@ CCTV5+,http://101.69.198.19:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-5PL
 CCTV5+,http://101.69.198.19:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-5PLUS-HD-265-8M/G_CCTV-5PLUS-HD-265-8M.m3u8
 CCTV5+,http://101.69.198.19:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-5PLUS-HQ/G_CCTV-5PLUS-HQ.m3u8
 CCTV5+,http://101.69.198.19:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-5PLUS-MD/G_CCTV-5PLUS-MD.m3u8
+CCTV风云足球,http://101.69.198.19:2380/js-live-screenshot.gitv.tv/gitv_live/G_FENGSHANGZQ-CQ/G_FENGSHANGZQ-CQ.m3u8
 
 CCTV5,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 
@@ -93,6 +94,7 @@ CCTV17,http://101.69.198.19:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-17-
 CCTV17,http://101.69.198.19:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-17-HD/G_CCTV-17-HD.m3u8
 CCTV17,http://101.69.198.19:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-17-HQ/G_CCTV-17-HQ.m3u8
 CCTV17,http://101.69.198.19:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-17/G_CCTV-17.m3u8
+CCTV风云足球,http://101.69.198.19:2380/js-live-screenshot.gitv.tv/gitv_live/G_FENGSHANGZQ-CQ/G_FENGSHANGZQ-CQ.m3u8
 
 CCTV1,https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
 CCTV1,https://zby.130519.xyz/PLTV/11/224/3221225723/index.m3u8
@@ -1816,6 +1818,7 @@ pondo-764,https://fc.maa1808.com/g/rgihjwnolt/rgihjwnolt.m3u8
 一本道_396,https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8?skipl=1
 一本道_404,https://vip4.ddyunbo.com/20210202/cOf9FXgF/index.m3u8?skipl=1
 一本道_405,https://vip4.ddyunbo.com/20210202/jnSPf5L7/index.m3u8?skipl=1
+
 
 
 
