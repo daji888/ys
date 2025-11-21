@@ -1,12 +1,34 @@
 
 收藏频道,#genre#
 
+CCTV5,http://180.165.21.206:7777/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+,http://180.165.21.206:7777/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+
 CCTV5,http://bxtv.3a.ink/migu.php?id=641886683
 CCTV5,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 CCTV5,https://zby.130519.xyz/PLTV/11/224/3221225734/index.m3u8
 CCTV5,https://zby.130519.xyz/PLTV/11/224/3221226146/index.m3u8
 
 央视频道,#genre#
+
+CCTV1,http://180.165.21.206:7777/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2,http://180.165.21.206:7777/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3,http://180.165.21.206:7777/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4,http://180.165.21.206:7777/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5,http://180.165.21.206:7777/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+,http://180.165.21.206:7777/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6,http://180.165.21.206:7777/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7,http://180.165.21.206:7777/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8,http://180.165.21.206:7777/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9,http://180.165.21.206:7777/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10,http://180.165.21.206:7777/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11,http://180.165.21.206:7777/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12,http://180.165.21.206:7777/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13,http://180.165.21.206:7777/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14,http://180.165.21.206:7777/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15,http://180.165.21.206:7777/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV16,http://180.165.21.206:7777/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV17,http://180.165.21.206:7777/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
 
 CCTV1,https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
 CCTV1,https://zby.130519.xyz/PLTV/11/224/3221225723/index.m3u8
@@ -1722,4 +1744,5 @@ pondo-764,https://fc.maa1808.com/g/rgihjwnolt/rgihjwnolt.m3u8
 一本道_396,https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8?skipl=1
 一本道_404,https://vip4.ddyunbo.com/20210202/cOf9FXgF/index.m3u8?skipl=1
 一本道_405,https://vip4.ddyunbo.com/20210202/jnSPf5L7/index.m3u8?skipl=1
+
 
