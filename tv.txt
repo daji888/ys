@@ -350,13 +350,6 @@ CCTV16,https://zby.130519.xyz/PLTV/11/224/3221226120/index.m3u8
 
 广告台,https://live.iptvxxx.net/hustlertv.m3u8
 
-PsychoPorn,#genre#
-
-成年人,https://t0.97img.com/a1000261/a.m3u8
-成年人,https://t0.97img.com/a1000228/a.m3u8
-成年人,https://t0.97img.com/a1000216/a.m3u8
-成年人,https://t0.97img.com/a1000187/a.m3u8
-
 mini传媒,#genre#
 
 成年人,https://t0.97img.com/a1000301/a.m3u8
@@ -518,6 +511,13 @@ mini传媒,#genre#
 成年人,https://t0.97img.com/a1000257/a.m3u8
 成年人,https://t0.97img.com/a1000256/a.m3u8
 成年人,https://t0.97img.com/a1000246/a.m3u8
+
+PsychoPorn,#genre#
+
+成年人,https://t0.97img.com/a1000261/a.m3u8
+成年人,https://t0.97img.com/a1000228/a.m3u8
+成年人,https://t0.97img.com/a1000216/a.m3u8
+成年人,https://t0.97img.com/a1000187/a.m3u8
 
 🔞🈲晓晓东艳,#genre#
 
@@ -1989,3 +1989,4 @@ pondo-764,https://fc.maa1808.com/g/rgihjwnolt/rgihjwnolt.m3u8
 一本道_396,https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8?skipl=1
 一本道_404,https://vip4.ddyunbo.com/20210202/cOf9FXgF/index.m3u8?skipl=1
 一本道_405,https://vip4.ddyunbo.com/20210202/jnSPf5L7/index.m3u8?skipl=1
+
