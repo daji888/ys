@@ -1,11 +1,30 @@
 
 收藏频道,#genre#
 
+CCTV5,https://migu.188766.xyz/?migutoken=d30dca679c58b42c26f0d09e412d46e4&id=CCTV5&type=yy
 CCTV5,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 CCTV5,https://zby.130519.xyz/PLTV/11/224/3221225734/index.m3u8
 CCTV5,https://zby.130519.xyz/PLTV/11/224/3221226146/index.m3u8
 
 央视频道,#genre#
+
+CCTV1,https://migu.188766.xyz/?migutoken=7b3c876593549cec112cc139b8bda2ce&id=CCTV1&type=yy
+CCTV2,https://migu.188766.xyz/?migutoken=c955d3529c7000a5a8a34b59fa91a2cb&id=CCTV2&type=yy
+CCTV3,https://migu.188766.xyz/?migutoken=506a9e4f72ae3c3945e0b1dc4e7b4b90&id=CCTV3&type=yy
+CCTV4,https://migu.188766.xyz/?migutoken=d70ab962527e2a698e2e6caf815195f2&id=CCTV4&type=yy
+CCTV5,https://migu.188766.xyz/?migutoken=d30dca679c58b42c26f0d09e412d46e4&id=CCTV5&type=yy
+CCTV5+,https://migu.188766.xyz/?migutoken=13067a89c1d1a33a8efc3bb9c580b100&id=CCTV5p&type=yy
+CCTV6,https://migu.188766.xyz/?migutoken=482530f13b87414299dc798adb079a19&id=CCTV6&type=yy
+CCTV7,https://migu.188766.xyz/?migutoken=a95132fa71ffb6ca8e262c179329cda1&id=CCTV7&type=yy
+CCTV8,https://migu.188766.xyz/?migutoken=894ff70b60037180cb132a9a9cfa880e&id=CCTV8&type=yy
+CCTV9,https://migu.188766.xyz/?migutoken=0895ba6c07a99ed4ca893a607b240b0b&id=CCTV9&type=yy
+CCTV10,https://migu.188766.xyz/?migutoken=0842390260ff6f9529418d8f4b09e8a1&id=CCTV10&type=yy
+CCTV11,https://migu.188766.xyz/?migutoken=e0b92264c9d971d97e82a92b1b8e4564&id=CCTV11&type=yy
+CCTV12,https://migu.188766.xyz/?migutoken=31b890af29117452189d598326b7c0f1&id=CCTV12&type=yy
+CCTV13,https://migu.188766.xyz/?migutoken=9857c52b639d1dc9085323e1f6f66c9b&id=CCTV13&type=yy
+CCTV14,https://migu.188766.xyz/?migutoken=ccd12e62cffdf275c90584abc4556796&id=CCTV14&type=yy
+CCTV15,https://migu.188766.xyz/?migutoken=71e1668142af5103d10fca032c9f5f2d&id=CCTV15&type=yy
+CCTV17,https://migu.188766.xyz/?migutoken=93f3c36f347430d9273c7d0cc965f1c2&id=CCTV17&type=yy
 
 CCTV1,https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
 CCTV1,https://zby.130519.xyz/PLTV/11/224/3221225723/index.m3u8
@@ -1712,6 +1731,7 @@ pondo-764,https://fc.maa1808.com/g/rgihjwnolt/rgihjwnolt.m3u8
 一本道_396,https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8?skipl=1
 一本道_404,https://vip4.ddyunbo.com/20210202/cOf9FXgF/index.m3u8?skipl=1
 一本道_405,https://vip4.ddyunbo.com/20210202/jnSPf5L7/index.m3u8?skipl=1
+
 
 
 
