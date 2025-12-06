@@ -3,8 +3,6 @@
 
 CCTV5,http://183.3.202.19:2380/tptvho.mobaibox.com/hwcdnbacksourceflag_223.105.252.13/PLTV/4/224/3221228082/index.m3u8
 CCTV5,http://183.3.202.19:2380/tptvho.mobaibox.com/hwcdnbacksourceflag_223.105.252.17/PLTV/4/224/3221228114/index.m3u8
-CCTV5,http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV5H265_4000.m3u8
-CCTV5+,http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV5plusH265_4000.m3u8
 
 CCTV5,https://stream1.freetv.fun/cctv5-71.m3u8
 CCTV5,https://stream1.freetv.fun/cctv5-gq-1.ctv
@@ -17,6 +15,43 @@ CCTV5,https://zby.130519.xyz/PLTV/11/224/3221225734/index.m3u8
 CCTV5,https://zby.130519.xyz/PLTV/11/224/3221226146/index.m3u8
 
 央视频道,#genre#
+
+CCTV1,http://183.3.202.19:2380/tptvho.mobaibox.com/hwcdnbacksourceflag_223.105.252.5/PLTV/4/224/3221227725/index.m3u8
+CCTV1,http://1.193.59.6:8800/rtp/239.16.10.1:2000
+CCTV1,http://219.144.190.2:9901/tsfile/live/0001_1.m3u8?key=txiptv
+CCTV2,http://183.3.202.19:2380/tptvho.mobaibox.com/hwcdnbacksourceflag_223.105.252.21/PLTV/4/224/3221228118/index.m3u8
+CCTV2,http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV2H265_4000.m3u8#http://1.193.59.6:8800/rtp/239.16.10.127:2000#http://219.144.190.2:9901/tsfile/live/0002_1.m3u8?key=txiptv
+CCTV3,http://183.3.202.19:2380/tptvho.mobaibox.com/hwcdnbacksourceflag_223.105.252.33/PLTV/4/224/3221228188/index.m3u8#http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV3H265_4000.m3u8#http://1.193.59.6:8800/rtp/239.16.10.2:2000#http://219.144.190.2:9901/tsfile/live/0003_1.m3u8?key=txiptv
+CCTV4,http://183.3.202.19:2380/tptvho.mobaibox.com/hwcdnbacksourceflag_223.105.252.27/PLTV/4/224/3221228156/index.m3u8#http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV4H265_4000.m3u8#http://1.193.59.6:8800/rtp/239.16.10.128:2000#http://219.144.190.2:9901/tsfile/live/0004_1.m3u8?key=txiptv
+CCTV5,http://183.3.202.19:2380/tptvho.mobaibox.com/hwcdnbacksourceflag_223.105.252.13/PLTV/4/224/3221228082/index.m3u8#http://183.3.202.19:2380/tptvho.mobaibox.com/hwcdnbacksourceflag_223.105.252.17/PLTV/4/224/3221228114/index.m3u8
+CCTV6,http://183.3.202.19:2380/tptvho.mobaibox.com/hwcdnbacksourceflag_223.110.243.206/PLTV/4/224/3221228516/index.m3u8#http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV6H265_4000.m3u8#http://1.193.59.6:8800/rtp/239.16.10.101:2000#http://219.144.190.2:9901/tsfile/live/0006_1.m3u8?key=txiptv#http://124.77.225.71:8188/rtp/239.45.1.70:5140#http://61.156.228.12:8154/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7,http://1.193.59.6:8800/rtp/239.16.10.130:2000#http://219.144.190.2:9901/tsfile/live/0007_1.m3u8?key=txiptv
+CCTV8,http://183.3.202.19:2380/tptvho.mobaibox.com/hwcdnbacksourceflag_223.110.243.241/PLTV/4/224/3221228578/index.m3u8
+CCTV8,http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV8H265_4000.m3u8
+CCTV8,http://1.193.59.6:8800/rtp/239.16.10.102:2000
+CCTV8,http://219.144.190.2:9901/tsfile/live/0008_1.m3u8?key=txiptv
+CCTV9,http://183.3.202.19:2380/tptvho.mobaibox.com/hwcdnbacksourceflag_223.110.243.200/PLTV/4/224/3221227704/index.m3u8
+CCTV9,http://219.144.190.2:9901/tsfile/live/0009_1.m3u8?key=txiptv
+CCTV10,http://183.3.202.19:2380/tptvho.mobaibox.com/hwcdnbacksourceflag_223.110.235.38/PLTV/4/224/3221228654/index.m3u8
+CCTV10,http://219.144.190.2:9901/tsfile/live/0010_1.m3u8?key=txiptv
+CCTV12,http://219.144.190.2:9901/tsfile/live/0012_1.m3u8?key=txiptv
+CCTV13,http://183.3.202.19:2380/tptvho.mobaibox.com/hwcdnbacksourceflag_223.110.243.241/PLTV/4/224/3221228121/index.m3u8
+CCTV13,http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTVxw_4000.m3u8
+CCTV13,http://1.193.59.6:8800/rtp/239.16.10.111:2000
+CCTV13,http://219.144.190.2:9901/tsfile/live/0013_1.m3u8?key=txiptv
+CCTV13,http://124.77.225.71:8188/rtp/239.45.1.198:5140
+CCTV13,http://125.42.151.128:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13,http://144.255.32.94:8288/rtp/239.21.2.3:5002
+CCTV13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
+CCTV13,https://www.freetv.top/migu/608807423.m3u8?migutoken=ac19a58805588401a8e818b6dd00df9b327912af3611ba95f89235e7020821668a2b6dc65ccc3904967da59d0a9742565c56ea582baf8915d068035054818ef0f369dab64705a6a7f7120529ec
+CCTV13,https://60.191.56.186:8888/hls/13/index.m3u8
+CCTV13,http://218.56.123.244:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13,http://27.223.187.94:85/tsfile/live/0002_14.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13,http://yaching.xmtcenter.com:9999/rtp/239.254.200.9:8264
+CCTV13,https://hls-gateway.vpstv.net/streams/476899.m3u8
+CCTV13,http://111.43.126.240:9003/hls/26/index.m3u8#http://58.57.40.22:9901/tsfile/live/1013_1.m3u8
+CCTV14,http://1.193.59.6:8800/rtp/239.16.10.112:2000#http://124.77.225.71:8188/rtp/239.45.3.23:5140
+CCTV15,http://183.3.202.19:2380/tptvho.mobaibox.com/hwcdnbacksourceflag_223.105.252.52/PLTV/3/224/3221227723/index.m3u8#http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV15-yyH265_4000.m3u8#http://219.144.190.2:9901/tsfile/live/0015_1.m3u8?key=txiptv
 
 CCTV1,https://stream1.freetv.fun/cctv1-25.m3u8
 CCTV1,https://stream1.freetv.fun/tang-he-yi-tao-1.m3u8
@@ -1980,6 +2015,7 @@ pondo-764,https://fc.maa1808.com/g/rgihjwnolt/rgihjwnolt.m3u8
 一本道_396,https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8?skipl=1
 一本道_404,https://vip4.ddyunbo.com/20210202/cOf9FXgF/index.m3u8?skipl=1
 一本道_405,https://vip4.ddyunbo.com/20210202/jnSPf5L7/index.m3u8?skipl=1
+
 
 
 
