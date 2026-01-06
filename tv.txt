@@ -77,6 +77,21 @@ CCTV16,https://zby.130519.xyz/PLTV/11/224/3221226120/index.m3u8
 
 广告台,https://live.iptvxxx.net/hustlertv.m3u8
 
+台湾频道,#genre#
+
+🐍松视传媒02[1280*720],https://d862cp.cdnedge.live/file/avple-images/hls/62c5a72636c38433078a6952/playlist.m3u8
+🐍松视传媒03[1280*720],https://u89ey.cdnedge.live/file/avple-images/hls/62c5a76036c38433078a6953/playlist.m3u8
+🐍松视传媒05[1280*720],https://zo392.cdnedge.live/file/avple-images/hls/62c5a63536c38433078a6950/playlist.m3u8
+🐍松视传媒06[1280*720],https://q2cyl7.cdnedge.live/file/avple-images/hls/62c5a54536c38433078a694f/playlist.m3u8
+🐍彩虹传媒10[1280*720],https://u89ey.cdnedge.live/file/avple-images/hls/62c596ee36c38433078a694c/playlist.m3u8
+🐂潘多拉02[1280*720],https://u89ey.cdnedge.live/file/avple-images/hls/62c448bd366b240e3b67be3b/playlist.m3u8
+🐂潘多拉03[1280*720],https://10j99.cdnedge.live/file/avple-images/hls/62c44575366b240e3b67be3a/playlist.m3u8
+驚艷[1920*1080],http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
+潘朵拉完美[1920*1080],http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
+香蕉 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
+松視1台[1920*1080],http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
+松視2台[1920*1080],http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
+
 麻豆视频,#genre#
 
 成年人,https://t0.97img.com/a1000315/a.m3u8
@@ -1716,6 +1731,7 @@ pondo-764,https://fc.maa1808.com/g/rgihjwnolt/rgihjwnolt.m3u8
 一本道_396,https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8?skipl=1
 一本道_404,https://vip4.ddyunbo.com/20210202/cOf9FXgF/index.m3u8?skipl=1
 一本道_405,https://vip4.ddyunbo.com/20210202/jnSPf5L7/index.m3u8?skipl=1
+
 
 
 
