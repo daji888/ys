@@ -1,6 +1,25 @@
 
 收藏频道,#genre#
 
+http://www.bigyan.cn:8225/udp/239.77.0.170:5146
+http://www.bigyan.cn:8225/udp/239.77.1.8:5146
+http://www.pve.onetopcloud.com:16666/udp/239.125.2.54:4120
+http://124.67.68.139:4022/udp/239.125.2.54:4120
+http://123.235.210.222:4000/udp/239.253.254.192:8000
+http://58.17.134.3:8005/udp/225.0.4.143:7980
+http://39.152.103.17:8089/tsfile/live/1004_1.m3u8
+http://218.17.33.178:53290/tsfile/live/1017_1.m3u8
+http://dentist.dsmv.top:7777/udp/239.49.8.75:8000
+http://314644.me:19999/udp/239.49.8.75:8000
+http://ydl.yueyaoxian.top:8686/rtp/239.3.1.173:8001
+http://aik.ddnsfile.top:65235/rtp/239.21.2.46:5002
+http://z.d4p.cn:8000/rtp/239.49.8.75:8000
+https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100
+https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td&region=shanghai
+https://www.freetv.top/migu/641886683.m3u8?migutoken=3e5c01f93922de8d1c940fe15bb47349b27e8f7a2e624dde1a83dff3b2a80f58b7624151a3a4d00488edee34f202818557340903382fae02bb754084eb942bd50e59061df36fab62fb5b908903
+https://www.freetv.top/migu/641886683.m3u8?migutoken=e81b62c9a59cfc35924052cd6081bd5635e726604b5e1a12a9ebf352c74951d3d9d3e6c6c1bfed528a9287e0b6c873ef6bc6c1d7651f14bc1687a58a136bb5a647b6bebed7cd999f07302554e2
+
+
 CCTV5,https://migu.188766.xyz/?migutoken=32b88473afb290068b01bc9975125fae&id=CCTV5&type=yy
 CCTV5,http://123.157.31.182:7912/udp/233.50.201.197:5140
 CCTV5,http://183.220.20.17:4321/udp/239.11.0.100:5140
@@ -14,6 +33,9 @@ CCTV5,http://m.061899.xyz/mg/cctv5
 CCTV5,http://61.184.46.85:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5,http://139.227.221.119:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV5,http://tvtj.jxwltx.com:8003/cctv5.m3u8
+
+风云足球,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
+风云足球,https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8
 
 央视频道,#genre#
 
@@ -1740,6 +1762,7 @@ pondo-764,https://fc.maa1808.com/g/rgihjwnolt/rgihjwnolt.m3u8
 一本道_396,https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8?skipl=1
 一本道_404,https://vip4.ddyunbo.com/20210202/cOf9FXgF/index.m3u8?skipl=1
 一本道_405,https://vip4.ddyunbo.com/20210202/jnSPf5L7/index.m3u8?skipl=1
+
 
 
 
