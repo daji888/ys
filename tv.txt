@@ -2,19 +2,17 @@
 收藏频道,#genre#
 
 CCTV5,https://migu.188766.xyz/?migutoken=32b88473afb290068b01bc9975125fae&id=CCTV5&type=yy
+CCTV5,http://123.157.31.182:7912/udp/233.50.201.197:5140
+CCTV5,http://183.220.20.17:4321/udp/239.11.0.100:5140
+CCTV5,http://dodge.lwfz.fun:8800/rtp/239.16.20.53:10530
+CCTV5,http://dodge.lwfz.fun:8800/rtp/239.16.10.132:2000
+CCTV5,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.123:10376
+CCTV5,http://www.chutouge.top:34022/rtp/239.3.1.173:8001
 CCTV5,http://go.bkpcp.top/mg/cctv5
 CCTV5,http://t.061899.xyz/tl/tl.php?id=cctv5
 CCTV5,http://m.061899.xyz/mg/cctv5
 CCTV5,http://61.184.46.85:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5,http://139.227.221.119:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV5,http://dodge.lwfz.fun:8800/rtp/239.16.20.53:10530
-CCTV5,http://dodge.lwfz.fun:8800/rtp/239.16.10.132:2000
-CCTV5,http://123.157.31.182:7912/udp/233.50.201.197:5140
-CCTV5,http://xu3791vg3503.vicp.fun:8808/rtp/239.69.1.123:10376
-CCTV5,http://183.220.20.17:4321/udp/239.11.0.100:5140
-CCTV5,http://183.220.20.17:4321/udp/239.10.0.15:5140
-CCTV5,http://183.220.20.17:4321/udp/239.10.0.152:5140
-CCTV5,http://www.chutouge.top:34022/rtp/239.3.1.173:8001
 CCTV5,http://tvtj.jxwltx.com:8003/cctv5.m3u8
 
 央视频道,#genre#
@@ -1742,6 +1740,7 @@ pondo-764,https://fc.maa1808.com/g/rgihjwnolt/rgihjwnolt.m3u8
 一本道_396,https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8?skipl=1
 一本道_404,https://vip4.ddyunbo.com/20210202/cOf9FXgF/index.m3u8?skipl=1
 一本道_405,https://vip4.ddyunbo.com/20210202/jnSPf5L7/index.m3u8?skipl=1
+
 
 
 
