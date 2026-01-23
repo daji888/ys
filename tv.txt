@@ -28,9 +28,6 @@ CCTV5,http://61.184.46.85:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authi
 CCTV5,http://139.227.221.119:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV5,http://tvtj.jxwltx.com:8003/cctv5.m3u8
 
-风云足球,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
-风云足球,https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8
-
 央视频道,#genre#
 
 CCTV1,https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
@@ -1756,6 +1753,7 @@ pondo-764,https://fc.maa1808.com/g/rgihjwnolt/rgihjwnolt.m3u8
 一本道_396,https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8?skipl=1
 一本道_404,https://vip4.ddyunbo.com/20210202/cOf9FXgF/index.m3u8?skipl=1
 一本道_405,https://vip4.ddyunbo.com/20210202/jnSPf5L7/index.m3u8?skipl=1
+
 
 
 
