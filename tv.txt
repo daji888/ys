@@ -28,34 +28,24 @@ CCTV5,http://tvtj.jxwltx.com:8003/cctv5.m3u8
 
 央视频道,#genre#
 
-CCTV1,https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
-CCTV1,https://zby.130519.xyz/PLTV/11/224/3221225723/index.m3u8
-CCTV1,https://zby.130519.xyz/PLTV/11/224/3221225770/index.m3u8
-CCTV1,https://zby.130519.xyz/PLTV/11/224/3221226163/index.m3u8
-CCTV2,https://zby.130519.xyz/PLTV/11/224/3221226122/index.m3u8
-CCTV3,https://zby.130519.xyz/PLTV/11/224/3221225766/index.m3u8
-CCTV3,https://zby.130519.xyz/PLTV/11/224/3221226165/index.m3u8
-CCTV4,https://zby.130519.xyz/PLTV/11/224/3221226124/index.m3u8
-CCTV5,https://zby.130519.xyz/PLTV/11/224/3221225734/index.m3u8
-CCTV5,https://zby.130519.xyz/PLTV/11/224/3221226146/index.m3u8
-CCTV6,https://zby.130519.xyz/PLTV/11/224/3221225741/index.m3u8
-CCTV6,https://zby.130519.xyz/PLTV/11/224/3221226148/index.m3u8
-CCTV7,https://zby.130519.xyz/PLTV/11/224/3221225701/index.m3u8
-CCTV7,https://zby.130519.xyz/PLTV/11/224/3221226143/index.m3u8
-CCTV7,https://zby.130519.xyz/PLTV/11/224/3221226137/index.m3u8
-CCTV8,https://zby.130519.xyz/PLTV/11/224/3221225736/index.m3u8
-CCTV8,https://zby.130519.xyz/PLTV/11/224/3221226167/index.m3u8
-CCTV10,https://zby.130519.xyz/PLTV/11/224/3221225743/index.m3u8
-CCTV10,https://zby.130519.xyz/PLTV/11/224/3221226169/index.m3u8
-CCTV11,https://zby.130519.xyz/PLTV/11/224/3221226101/index.m3u8
-CCTV11,https://zby.130519.xyz/PLTV/11/224/3221226145/index.m3u8
-CCTV12,https://zby.130519.xyz/PLTV/11/224/3221226103/index.m3u8
-CCTV12,https://zby.130519.xyz/PLTV/11/224/3221226126/index.m3u8
-CCTV13,https://zby.130519.xyz/PLTV/11/224/3221226128/index.m3u8
-CCTV14,https://zby.130519.xyz/PLTV/11/224/3221225738/index.m3u8
-CCTV14,https://zby.130519.xyz/PLTV/11/224/3221226150/index.m3u8
-CCTV15,https://zby.130519.xyz/PLTV/11/224/3221226147/index.m3u8
-CCTV16,https://zby.130519.xyz/PLTV/11/224/3221226120/index.m3u8
+CCTV1,http://go.bkpcp.top/mg/cctv1
+CCTV2,http://go.bkpcp.top/mg/cctv2
+CCTV3,http://go.bkpcp.top/mg/cctv3
+CCTV4,http://go.bkpcp.top/mg/cctv4
+CCTV5,http://go.bkpcp.top/mg/cctv5
+CCTV5+,http://go.bkpcp.top/mg/cctv5p
+CCTV6,http://go.bkpcp.top/mg/cctv6
+CCTV7,http://go.bkpcp.top/mg/cctv7
+CCTV8,http://go.bkpcp.top/mg/cctv8
+CCTV9,http://go.bkpcp.top/mg/cctv9
+CCTV10,http://go.bkpcp.top/mg/cctv10
+CCTV11,http://go.bkpcp.top/mg/cctv11
+CCTV12,http://go.bkpcp.top/mg/cctv12
+CCTV13,http://go.bkpcp.top/mg/cctv13
+CCTV14,http://go.bkpcp.top/mg/cctv14
+CCTV15,http://go.bkpcp.top/mg/cctv15
+CCTV16,http://go.bkpcp.top/mg/cctv16
+CCTV17,http://go.bkpcp.top/mg/cctv17
 
 咪咕体育,#genre#
 
@@ -96,11 +86,13 @@ CCTV16,https://zby.130519.xyz/PLTV/11/224/3221226120/index.m3u8
 
 台湾频道,#genre#
 
-驚艷台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
+惊艳台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
 潘朵拉台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
-香蕉台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
-松視1台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
-松視2台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
+彩虹台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
+松视1台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
+松视2台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
+松视3台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
+松视1台,http://applivewatermark.imfc.cn:80/live/b5225f6e133e8628a3e8aaacf415070b.flv
 
 台湾传媒,#genre#
 
@@ -1751,3 +1743,4 @@ pondo-764,https://fc.maa1808.com/g/rgihjwnolt/rgihjwnolt.m3u8
 一本道_396,https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8?skipl=1
 一本道_404,https://vip4.ddyunbo.com/20210202/cOf9FXgF/index.m3u8?skipl=1
 一本道_405,https://vip4.ddyunbo.com/20210202/jnSPf5L7/index.m3u8?skipl=1
+
