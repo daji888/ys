@@ -1,6 +1,8 @@
 收藏频道,#genre#
 
 CCTV5,http://47.112.170.56/migu720p.php?id=641886683
+CCTV5,http://hczn.x3322.net:9902/tsfile/live/0005_1.m3u8
+CCTV5,http://59.172.112.202:8000/hls/5/index.m3u8
 CCTV5,http://39.152.103.17:8089/tsfile/live/1004_1.m3u8
 CCTV5,http://218.17.33.178:53290/tsfile/live/1017_1.m3u8
 CCTV5,http://124.67.68.139:4022/udp/239.125.2.54:4120
@@ -47,6 +49,25 @@ CCTV14,http://go.bkpcp.top/mg/cctv14
 CCTV15,http://go.bkpcp.top/mg/cctv15
 CCTV16,http://go.bkpcp.top/mg/cctv16
 CCTV17,http://go.bkpcp.top/mg/cctv17
+
+咪咕央视,#genre#
+CCTV1综合,http://47.112.170.56/migu720p.php?id=608807420
+CCTV2财经,http://47.112.170.56/migu720p.php?id=631780532
+CCTV3综艺,http://47.112.170.56/migu720p.php?id=624878271
+CCTV4中文国际,http://47.112.170.56/migu720p.php?id=631780421
+CCTV5体育,http://47.112.170.56/migu720p.php?id=641886683
+CCTV5+体育赛事,http://47.112.170.56/migu720p.php?id=641886773
+CCTV6电影,http://47.112.170.56/migu720p.php?id=624878396
+CCTV7国防军事,http://47.112.170.56/migu720p.php?id=673168121
+CCTV8电视剧,http://47.112.170.56/migu720p.php?id=624878356
+CCTV9纪录,http://47.112.170.56/migu720p.php?id=673168140
+CCTV10科教,http://47.112.170.56/migu720p.php?id=624878405
+CCTV11戏曲,http://47.112.170.56/migu720p.php?id=667987558
+CCTV12社会与法,http://47.112.170.56/migu720p.php?id=673168185
+CCTV13新闻,http://47.112.170.56/migu720p.php?id=608807423
+CCTV14少儿,http://47.112.170.56/migu720p.php?id=624878440
+CCTV15音乐,http://47.112.170.56/migu720p.php?id=673168223
+CCTV17农业农村,http://47.112.170.56/migu720p.php?id=673168256
 
 咪咕体育,#genre#
 
@@ -1744,6 +1765,7 @@ pondo-764,https://fc.maa1808.com/g/rgihjwnolt/rgihjwnolt.m3u8
 一本道_396,https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8?skipl=1
 一本道_404,https://vip4.ddyunbo.com/20210202/cOf9FXgF/index.m3u8?skipl=1
 一本道_405,https://vip4.ddyunbo.com/20210202/jnSPf5L7/index.m3u8?skipl=1
+
 
 
 
