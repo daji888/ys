@@ -28,33 +28,9 @@ CCTV5,http://61.184.46.85:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authi
 CCTV5,http://139.227.221.119:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV5,http://tvtj.jxwltx.com:8003/cctv5.m3u8
 CCTV5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100
-CCTV5,http://139.227.221.119:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV5,http://175.0.72.255:9999/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5,http://120.238.94.10:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5,http://171.43.64.126:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 
 央视频道,#genre#
-
-CCTV1综合,http://223.105.252.5/PLTV/4/224/3221227725/index.m3u8
-CCTV2财经,http://223.105.252.5/PLTV/4/224/3221228118/index.m3u8
-CCTV3综艺,http://223.105.252.5/PLTV/4/224/3221228188/index.m3u8
-CCTV4中文国际,http://223.105.252.5/PLTV/4/224/3221228156/index.m3u8
-CCTV5体育,http://223.105.252.5/PLTV/4/224/3221228082/index.m3u8
-CCTV5+体育赛事,http://223.105.252.5/PLTV/4/224/3221228114/index.m3u8
-CCTV6电影,http://223.105.252.5/PLTV/4/224/3221228516/index.m3u8
-CCTV7国防军事,http://223.105.252.5/PLTV/4/224/3221228643/index.m3u8
-CCTV8电视剧,http://223.105.252.5/PLTV/4/224/3221228578/index.m3u8
-CCTV9纪录,http://223.105.252.5/PLTV/4/224/3221227704/index.m3u8
-CCTV10科教,http://223.105.252.5/PLTV/4/224/3221228654/index.m3u8
-CCTV11戏曲,http://223.105.252.5/PLTV/3/224/3221227720/index.m3u8
-CCTV12社会与法,http://223.105.252.5/PLTV/4/224/3221228657/index.m3u8
-CCTV13新闻,http://223.105.252.5/PLTV/4/224/3221228121/index.m3u8
-CCTV14少儿,http://223.105.252.5/PLTV/3/224/3221227693/index.m3u8
-CCTV15音乐,http://223.105.252.5/PLTV/3/224/3221227723/index.m3u8
-CCTV16奥林匹克,http://223.105.252.5/PLTV/4/224/3221228144/index.m3u8
-CCTV17农业农村,http://223.105.252.5/PLTV/4/224/3221227578/index.m3u8
-
-央视频道2,#genre#
 
 CCTV1,http://go.bkpcp.top/mg/cctv1
 CCTV2,http://go.bkpcp.top/mg/cctv2
@@ -1791,3 +1767,4 @@ pondo-764,https://fc.maa1808.com/g/rgihjwnolt/rgihjwnolt.m3u8
 一本道_396,https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8?skipl=1
 一本道_404,https://vip4.ddyunbo.com/20210202/cOf9FXgF/index.m3u8?skipl=1
 一本道_405,https://vip4.ddyunbo.com/20210202/jnSPf5L7/index.m3u8?skipl=1
+
