@@ -87,26 +87,6 @@ CCTV15,http://go.bkpcp.top/mg/cctv15
 CCTV16,http://go.bkpcp.top/mg/cctv16
 CCTV17,http://go.bkpcp.top/mg/cctv17
 
-咪咕央视,#genre#
-
-CCTV1综合,http://47.112.170.56/migu720p.php?id=608807420
-CCTV2财经,http://47.112.170.56/migu720p.php?id=631780532
-CCTV3综艺,http://47.112.170.56/migu720p.php?id=624878271
-CCTV4中文国际,http://47.112.170.56/migu720p.php?id=631780421
-CCTV5体育,http://47.112.170.56/migu720p.php?id=641886683
-CCTV5+体育赛事,http://47.112.170.56/migu720p.php?id=641886773
-CCTV6电影,http://47.112.170.56/migu720p.php?id=624878396
-CCTV7国防军事,http://47.112.170.56/migu720p.php?id=673168121
-CCTV8电视剧,http://47.112.170.56/migu720p.php?id=624878356
-CCTV9纪录,http://47.112.170.56/migu720p.php?id=673168140
-CCTV10科教,http://47.112.170.56/migu720p.php?id=624878405
-CCTV11戏曲,http://47.112.170.56/migu720p.php?id=667987558
-CCTV12社会与法,http://47.112.170.56/migu720p.php?id=673168185
-CCTV13新闻,http://47.112.170.56/migu720p.php?id=608807423
-CCTV14少儿,http://47.112.170.56/migu720p.php?id=624878440
-CCTV15音乐,http://47.112.170.56/migu720p.php?id=673168223
-CCTV17农业农村,http://47.112.170.56/migu720p.php?id=673168256
-
 咪咕体育,#genre#
 
 咪咕直播1,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=toShengfen&mode=1
@@ -152,11 +132,6 @@ CCTV17农业农村,http://47.112.170.56/migu720p.php?id=673168256
 松视1台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
 松视2台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
 松视3台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
-
-日本频道,#genre#
-
-东京热,http://1tv41.icu:8080/LaLa34@yahoo.com/LaLa7678/159976
-日本道,http://1tv41.icu:8080/LaLa34@yahoo.com/LaLa7678/159958
 
 麻豆视频,#genre#
 
@@ -805,8 +780,3 @@ mini传媒,#genre#
 10震惊三观，三口之家真实乱伦，儿子和爸爸一起操亲妈,https://h9k2w.cc/api/app/vid/h5/m3u8/k12/3123/96a3/a2ef/912d425dbdbf50295b2d867b47b84813.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0aW1lc3RhbXAiOjE3NjQ1Njg4MDAwNzg5MjgxMDAsInR5cGUiOjAsInVpZCI6NjA0NzE0NzJ9.LT2OoGhjKUJlUQn0ZQ1gCFMLOyEOYUPhDBbe6oTvjt4&c=
 11我的女儿必须我先操，16岁的女儿和妈妈一起被爸爸操,https://h9k2w.cc/api/app/vid/h5/m3u8/k12/0781/c20a/8e29/e9ad442ed79e9347ccfd70faf0756b69.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0aW1lc3RhbXAiOjE3NjQ1Njg4MDAwNzg5MjgxMDAsInR5cGUiOjAsInVpZCI6NjA0NzE0NzJ9.LT2OoGhjKUJlUQn0ZQ1gCFMLOyEOYUPhDBbe6oTvjt4&c=
 12姑姑带着18岁侄女与姑父乱伦操逼,https://h9k2w.cc/api/app/vid/h5/m3u8/bktappupdata/sp/km/l5/ne/ze/1f5698cdd9324410bac85fc555c5bc19.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0aW1lc3RhbXAiOjE3NjQ1Njg4MDAwNzg5MjgxMDAsInR5cGUiOjAsInVpZCI6NjA0NzE0NzJ9.LT2OoGhjKUJlUQn0ZQ1gCFMLOyEOYUPhDBbe6oTvjt4&c=
-
-
-
-
-
