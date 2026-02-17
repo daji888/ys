@@ -3,7 +3,6 @@
 
 {
 "spider":"http://oss4liview.moji.com/thd_file/2026/01/26/0e8629c873fea38d04bc58cbeb28c3c5.jpg;md5;127ea82cb8bf8a82f0cf64da66e39b60",
-"wallpaper":"http://127.0.0.1:9978/proxy?do=wall","logo":"https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/ACB34B_773_photo_2022-09-14_00-00-57_20251204145106336newMediaImage.jpg",
 "sites":[
 {"key":"豆瓣","name":"🤓豆瓣","type":3,"api":"csp_AweSomeGuard","searchable":0,"changeable":1,"ext":{"sp":"Douban"}},
 {"key":"文才","name":"🌺文才","type":3,"api":"csp_AweSomeGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":{"sp":"Jpys","danmu":true},
@@ -51,7 +50,6 @@
 {"name":"MIGU","type":0,"url":"http://127.0.0.1:9978/proxy?do=live&url=https://ds65.tv1288.xyz","playerType":1,"timeout":10},
 {"name":"AI直播","type":0,"url":"http://127.0.0.1:9978/proxy?do=live&url=https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt","playerType":1,"timeout":10}
 ],
-"proxy":["raw.githubusercontent.com","googlevideo.com","cdn.v82u1l.com","cdn.iz8qkg.com","cdn.kin6c1.com","c.biggggg.com","c.olddddd.com","haiwaikan.com","www.histar.tv","youtube.com","uhibo.com",".*boku.*",".*nivod.*",".*ulivetv.*","188766.xyz","4gtv.tv","iill.top"],
 "rules":[
 {"name":"cl","hosts":["magnet"],"regex":["最新","直播","更新"]},
 {"name":"火山嗅探","hosts":["huoshan.com"],"regex":["item_id="]},
