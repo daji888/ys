@@ -9,8 +9,6 @@
 "timeout":10},
 {"key":"糯米","name":"🍓糯米","type":3,"api":"csp_AweSomeGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":{"sp":"Nmys","danmu":true},
 "timeout":10},
-{"key":"小苹果","name":"🍎苹果","type":3,"api":"csp_AweSomeGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":{"sp":"Xpg","danmu":true},
-"timeout":10},
 {"key":"apple","name":"🥇苹果","type":3,"api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/apple.js"},
 {"key":"盘他","name":"🎸盘他┃4K","type":3,"api":"csp_AweSomeGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":{"sp":"Panta"},
 "timeout":25},
