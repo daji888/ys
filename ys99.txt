@@ -1,34 +1,24 @@
 
-//  当前接口：http://ok213.top/tv
+//     当前接口：http://tv.nxog.top/m/
 
 {
-"spider":"http://oss4liview.moji.com/thd_file/2026/01/26/0e8629c873fea38d04bc58cbeb28c3c5.jpg;md5;127ea82cb8bf8a82f0cf64da66e39b60",
+"spider":"https://tv.nxog.top/m/jar?id=index;md5;c7881979aa5547f52acb28b898d72b9e",
+
 "sites":[
-{"key":"豆瓣","name":"🤓豆瓣","type":3,"api":"csp_AweSomeGuard","searchable":0,"changeable":1,"ext":{"sp":"Douban"}},
-{"key":"文才","name":"🌺文才","type":3,"api":"csp_AweSomeGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":{"sp":"Jpys","danmu":true},
-"timeout":10},
-{"key":"糯米","name":"🍓糯米","type":3,"api":"csp_AweSomeGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":{"sp":"Nmys","danmu":true},
-"timeout":10},
-{"key":"apple","name":"🥇苹果","type":3,"api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/apple.js"},
-{"key":"盘他","name":"🎸盘他┃4K","type":3,"api":"csp_AweSomeGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":{"sp":"Panta"},
-"timeout":25},
-{"key":"荐片","name":"⚔️荐片┃手机","type":3,"api":"csp_AweSomeGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":{"sp":"Jianpian","danmu":true},
-"timeout":10},
-{"key":"云云","name":"☁️云云","type":3,"api":"csp_AweSomeGuard","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"ext":{"sp":"YunYun","danmu":true},
-"timeout":10},
-{"key":"瓜子","name":"🍉瓜子","type":3,"api":"csp_AweSomeGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":{"sp":"Guazi","danmu":true},
-"timeout":10},
-{"key":"瓜子看球","name":"⚽瓜子┃看球","type":3,"api":"csp_AweSomeGuard","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"list"},
-"ext":{"sp":"GzSport"},
-"timeout":10},
-{"key":"88看球","name":"⚽88┃看球","type":3,"api":"csp_AweSomeGuard","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"list"},
-"ext":{"sp":"Kanqiu"},
-"timeout":10},
-{"key":"本地播放","name":"🐼本地┃播放","type":3,"api":"csp_AweSomeGuard","searchable":0,"changeable":0,"indexs":0,"style":{"type":"list"},
-"timeout":5,"ext":{"sp":"Local"}},
-{"key":"push_agent","name":"🛴手机┃推送","type":3,"api":"csp_AweSomeGuard","searchable":0,"filterable":0,"changeable":0,"ext":{"sp":"Push","danmu":true},
-"timeout":25}
+{"key":"豆瓣","name":"🤓豆瓣","type":3,"api":"csp_Douban","searchable":0,"changeable":1},
+{"key":"骚火影视","name":"💡骚火｜影视","type":3,"api":"csp_SaoHuo","playerType":2,"ext":"https://shdy5.us"},
+{"key":"金牌影视","name":"金牌｜影视","type":3,"api":"csp_Jpys","ext":"https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"},
+{"key":"农民影视","name":"💡农民｜影视","type":3,"api":"csp_Wwys","ext":"https://vip.wwgz.cn:5200"},
+{"key":"瓜子影视","name":"💡瓜子｜影视","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"苹果影视","name":"🥇苹果｜影视","type":3,"api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/apple.js"},
+{"key":"移动影视","name":"💡移动｜影视","type":3,"api":"csp_YDjisu","searchable":1,"quickSearch":1},
+{"key":"push_agent","name":"📢手机｜推送","type":3,"api":"csp_Push","searchable":0,"filterable":0,"changeable":0}
 ],
+
+"lives":[
+{"name":"MIGU","type":0,"url":"https://ds65.tv1288.xyz","playerType":1,"catchup":"append","timeout":10}
+],
+
 "parses":[
 {"name":"聚合1","type":3,"url":"Demo"},
 {"name":"聚合0","type":3,"url":"Web"},
@@ -44,10 +34,7 @@
 {"name":"臻享","type":1,"url":"https://150.138.78.37:4399/api?key=94b07e0b2c0e8244&url="},
 {"name":"优选","type":1,"url":"http://1.94.221.189:88/algorithm.php?url="}
 ],
-"lives":[
-{"name":"冰茶","type":0,"url":"https://bc.188766.xyz/?ip=&mishitong=true&mima=bingcha1130&json=true","playerType":1,"timeout":10,"ua":"bingcha/1.1(mianfeifenxiang)"},
-{"name":"MIGU","type":0,"url":"https://ds65.tv1288.xyz","playerType":1,"catchup":"append","timeout":10}
-],
+
 "rules":[
 {"name":"cl","hosts":["magnet"],"regex":["最新","直播","更新"]},
 {"name":"火山嗅探","hosts":["huoshan.com"],"regex":["item_id="]},
