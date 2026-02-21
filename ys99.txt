@@ -16,6 +16,8 @@
 ],
 
 "lives":[
+{"name":"zb1","type":0,"url":"https://ghfast.top/raw.githubusercontent.com/daji888/ys/master/tv.txt"},
+{"name":"zb2","type":0,"url":"https://ghproxy.net/raw.githubusercontent.com/daji888/ys/master/tv.txt"},
 {"name":"MIGU","type":0,"url":"https://ds65.tv1288.xyz"}
 ],
 
