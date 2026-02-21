@@ -5,14 +5,14 @@
 "spider":"https://tv.nxog.top/m/jar?id=index;md5;c7881979aa5547f52acb28b898d72b9e",
 
 "sites":[
-{"key":"豆瓣","name":"🤓豆瓣","type":3,"api":"csp_Douban","searchable":0,"changeable":1},
-{"key":"骚火影视","name":"🌹骚火｜影视","type":3,"api":"csp_SaoHuo","playerType":2,"ext":"https://shdy5.us"},
+{"key":"豆瓣","name":"🤓豆瓣","type":3,"api":"csp_Douban","searchable":0},
+{"key":"骚火影视","name":"🌹骚火｜影视","type":3,"api":"csp_SaoHuo","ext":"https://shdy5.us"},
 {"key":"金牌影视","name":"🥇金牌｜影视","type":3,"api":"csp_Jpys","ext":"https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.jiabaide.cn"},
 {"key":"农民影视","name":"🍓农民｜影视","type":3,"api":"csp_Wwys","ext":"https://vip.wwgz.cn:5200"},
-{"key":"瓜子影视","name":"🍉瓜子｜影视","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"瓜子影视","name":"🍉瓜子｜影视","type":3,"api":"csp_Gz360"},
 {"key":"苹果影视","name":"🍎苹果｜影视","type":3,"api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/apple.js"},
-{"key":"移动影视","name":"🌈移动｜网盘","type":3,"api":"csp_YDjisu","searchable":1,"quickSearch":1},
-{"key":"push_agent","name":"📢手机｜推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0}
+{"key":"移动影视","name":"🌈移动｜网盘","type":3,"api":"csp_YDjisu"},
+{"key":"push_agent","name":"📢手机｜推送","type":3,"api":"csp_Push","searchable":0}
 ],
 
 "lives":[
