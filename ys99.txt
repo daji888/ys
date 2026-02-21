@@ -16,7 +16,7 @@
 ],
 
 "lives":[
-{"name":"MIGU","type":0,"url":"https://ds65.tv1288.xyz","playerType":1}
+{"name":"MIGU","type":0,"url":"https://ds65.tv1288.xyz"}
 ],
 
 "rules":[
