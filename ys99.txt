@@ -16,7 +16,7 @@
 ],
 
 "lives":[
-{"name":"IPTV","type":0,"url":"https://ghfast.top/https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/IPTV.m3u"}
+{"name":"IPTV","type":0,"url":"https://ghfast.top/https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/IPTV.m3u"},
 {"name":"MIGU","type":0,"url":"https://ds65.tv1288.xyz"}
 ],
 
