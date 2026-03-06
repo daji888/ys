@@ -16,6 +16,8 @@
 ],
 
 "lives":[
+https://live.zbds.top/tv/iptv4.txt
+{"name":"iptv4","type":0,"url":"https://live.zbds.top/tv/iptv4.txt"},
 {"name":"MIGU","type":0,"url":"https://ds65.tv1288.xyz"}
 ],
 
