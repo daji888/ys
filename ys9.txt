@@ -12,12 +12,115 @@
 {"key":"瓜子影视","name":"🍉瓜子｜影视","type":3,"api":"csp_Gz360"},
 {"key":"苹果影视","name":"🍎苹果｜影视","type":3,"api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/apple.js"},
 {"key":"移动影视","name":"🌈移动｜网盘","type":3,"api":"csp_YDjisu"},
+{
+    "key": "php_麻豆",
+    "name": "🍎 麻豆(PHP)+",
+    "type": 4,
+    "api": "https://php.doube.eu.org/spider/php/麻豆.php"
+},
+{
+    "key": "apidanaizi.com",
+    "name": "🔞-大奶子-",
+    "type": 1,
+    "api": "https://apidanaizi.com/api.php/provide/vod/?ac=list",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "original_api": "https://apidanaizi.com/api.php/provide/vod",
+    "header": {
+        "User-Agent": "Mozilla/5.0 (Linux; Android 11; SM-G973F) AppleWebKit/537.36",
+        "Accept": "application/json, */*",
+        "Connection": "close"
+    },
+    "ext": "https://apidanaizi.com",
+    "playerType": 1,
+    "playUrl": ""
+},
+{
+    "key": "heiliaozy.cc",
+    "name": "🔞黑料资源",
+    "type": 1,
+    "api": "https://www.heiliaozyapi.com/api.php/provide/vod/?ac=list",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "original_api": "https://www.heiliaozyapi.com/api.php/provide/vod",
+    "header": {
+        "User-Agent": "Mozilla/5.0 (Linux; Android 11; SM-G973F) AppleWebKit/537.36",
+        "Accept": "application/json, */*",
+        "Connection": "close"
+    },
+    "ext": "https://heiliaozy.cc",
+    "playerType": 1,
+    "playUrl": ""
+},
+{
+    "key": "xiangjiaozyw.com",
+    "name": "🔞香蕉资源",
+    "type": 1,
+    "api": "https://www.xiangjiaozyw.com/api.php/provide/vod/?ac=list",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "original_api": "https://www.xiangjiaozyw.com/api.php/provide/vod",
+    "header": {
+        "User-Agent": "Mozilla/5.0 (Linux; Android 11; SM-G973F) AppleWebKit/537.36",
+        "Accept": "application/json, */*",
+        "Connection": "close"
+    },
+    "ext": "https://www.xiangjiaozyw.com",
+    "playerType": 1,
+    "playUrl": ""
+},
+{
+    "key": "Naixxzy.com",
+    "name": "🔞奶香资源",
+    "type": 1,
+    "api": "https://Naixxzy.com/api.php/provide/vod/?ac=list",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "original_api": "https://Naixxzy.com/api.php/provide/vod",
+    "header": {
+        "User-Agent": "Mozilla/5.0 (Linux; Android 11; SM-G973F) AppleWebKit/537.36",
+        "Accept": "application/json, */*",
+        "Connection": "close"
+    },
+    "ext": "https://Naixxzy.com",
+    "playerType": 1,
+    "playUrl": ""
+},
 {"key":"推送","name":"📢手机｜推送","type":3,"api":"csp_Push","searchable":0}
 ],
 
 "lives":[
 {"name":"zb1","type":0,"url":"https://ghfast.top/https://raw.githubusercontent.com/daji888/ys/master/tv.txt"},
 {"name":"zb2","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/daji888/ys/master/tv.txt"},
+{"name":"iptv4","type":0,"url":"https://live.zbds.top/tv/iptv4.txt"},
+{
+    "name": "🔞黄仓国产",
+    "type": 0,
+    "url": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/黄色仓库_国产系列.m3u",
+    "timeout": 10
+},
+{
+    "name": "🔞黄仓日韩",
+    "type": 0,
+    "url": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/黄色仓库_日韩系列.m3u",
+    "timeout": 10
+},
+{
+    "name": "🔞madou",
+    "type": 0,
+    "url": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/madou.m3u",
+    "timeout": 10
+},
+{
+    "name": "🔞MissAV",
+    "type": 0,
+    "url": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/vod_missav.m3u",
+    "timeout": 10
+},
 {"name":"MIGU","type":0,"url":"https://ds65.tv1288.xyz"}
 ],
 
