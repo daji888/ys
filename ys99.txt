@@ -11,7 +11,7 @@
 {"key":"瓜子影视","name":"🍉瓜子｜影视","type":3,"api": "csp_AweSomeGuard","ext": {"sp": "Guazi"}},
 {"key":"苹果影视","name":"🍎苹果｜影视","type":3,"api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/apple.js"},
 {"key":"移动影视","name":"🌈移动｜网盘","type":3,"api": "csp_AweSomeGuard","ext": {"sp": "Panta"}},
-{"key":"推送","name":"📢手机｜推送","type":3,"api":"csp_Push","searchable":0}
+{"key":"推送","name":"📢手机｜推送","type":3,"api": "csp_AweSomeGuard","searchable":0,"ext": {"sp": "Push"}}
 ],
 
 "lives":[
