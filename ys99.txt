@@ -2,7 +2,7 @@
 //     当前接口：http://tv.nxog.top/m/
 
 {
-"spider":"https://ncstatic-file.clewm.net/rsrc/2026/0406/21/5b2f258907bc956ee3538c9f5cdf4b83.jpg",
+"spider":"https://ncstatic-file.clewm.net/rsrc/2026/0518/23/9e2f951b6887c1b57ad600b25c53fb27.jpg",
 
 "sites":[
 {"key":"豆瓣热播","name":"🤓豆瓣｜热播","type":3,"api": "csp_Douban","searchable": 0},
