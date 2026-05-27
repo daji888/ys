@@ -17,8 +17,7 @@
 
 "lives":[
 {"name":"iptv4","type":0,"url":"https://live.zbds.top/tv/iptv4.txt"},
-{"name":"develop202","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt","catchup": "append","source": "?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"},
-{"name":"MIGU","type":0,"url":"https://ds65.tv1288.xyz","catchup": "append","source": "?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"}
+{"name":"MIGU","type":0,"url":"https://ds65.tv1288.xyz"}
 ],
 
 "rules":[
