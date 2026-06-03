@@ -17,6 +17,7 @@
 
 "lives":[
 {"name":"iptv4","type":0,"url":"https://live.zbds.top/tv/iptv4.txt"},
+{"name":"develop202TXT","type":0,"url":"https://gh-proxy.org/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interfaceTXT.txt"},
 {"name":"Kimhyunkyung","type":0,"url":"https://mpimg.cn/down.php/e44381e24cd432a2054ff68e6d25a0dc.txt"},
 {"name":"Jsnzkpg1","type":0,"url":"https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1"},
 {"name":"MIGU","type":0,"url":"https://ds65.tv1288.xyz"}
