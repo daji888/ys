@@ -24,6 +24,26 @@ CCTV15,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv15
 CCTV16,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv16
 CCTV17,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv17
 
+咪咕央视,#genre#
+
+CCTV1综合,http://47.119.24.76:59093/608807420
+CCTV2财经,http://47.119.24.76:59093/631780532
+CCTV3综艺,http://47.119.24.76:59093/624878271
+CCTV4中文国际,http://47.119.24.76:59093/631780421
+CCTV5体育,http://47.119.24.76:59093/641886683
+CCTV5+体育赛事,http://47.119.24.76:59093/641886773
+CCTV6电影,http://47.119.24.76:59093/624878396
+CCTV7国防军事,http://47.119.24.76:59093/673168121
+CCTV8电视剧,http://47.119.24.76:59093/624878356
+CCTV9纪录,http://47.119.24.76:59093/673168140
+CCTV10科教,http://47.119.24.76:59093/624878405
+CCTV11戏曲,http://47.119.24.76:59093/667987558
+CCTV12社会与法,http://47.119.24.76:59093/673168185
+CCTV13新闻,http://47.119.24.76:59093/608807423
+CCTV14少儿,http://47.119.24.76:59093/624878440
+CCTV15音乐,http://47.119.24.76:59093/673168223
+CCTV17农业农村,http://47.119.24.76:59093/673168256
+
 咪咕体育,#genre#
 
 咪咕直播1,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=toShengfen&mode=1
