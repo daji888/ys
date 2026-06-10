@@ -1,7 +1,5 @@
 #EXTM3U x-tvg-url="https://epg.aptv.app/pp.xml.gz,https://epg.aptv.app/xml" catchup="append" catchup-source="&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}"
-#EXT-X-APP APTV
-#EXT-X-APTV-TYPE remote
-#EXT-X-SUB-URL https://gh.aptv.app/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
+#EXT-X-SUB-URL https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" http-user-agent="AptvPlayer-UA" group-title="央视IPV4",CCTV1
 http://101.35.240.114:88/live.php?id=CCTV1
@@ -39,25 +37,83 @@ http://101.35.240.114:88/live.php?id=CCTV15
 http://101.35.240.114:88/live.php?id=CCTV16
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" http-user-agent="AptvPlayer-UA" group-title="央视IPV4",CCTV17
 http://101.35.240.114:88/live.php?id=CCTV17
-#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" group-title="央视IPV4",CGTN英语
-https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
-#EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" group-title="央视IPV4",CGTN纪录
-https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
-#EXTINF:-1 tvg-id="CGTN西语" tvg-name="CGTN西语" group-title="央视IPV4",CGTN西语
-https://0472.org/hls/cgtnx.m3u8
-#EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" group-title="央视IPV4",CGTN法语
-https://0472.org/hls/cgtnf.m3u8
-#EXTINF:-1 tvg-id="CGTN阿语" tvg-name="CGTN阿语" group-title="央视IPV4",CGTN阿语
-https://0472.org/hls/cgtna.m3u8
-#EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" group-title="央视IPV4",CGTN俄语
-https://0472.org/hls/cgtne.m3u8
-#EXTINF:-1 tvg-name="CHC家庭影院" http-user-agent="AptvPlayer-UA" group-title="央视IPV4",CHC家庭影院
-http://101.35.240.114:88/live.php?id=CHC家庭影院
-#EXTINF:-1 tvg-name="CHC动作电影" http-user-agent="AptvPlayer-UA" group-title="央视IPV4",CHC动作电影
-http://101.35.240.114:88/live.php?id=CHC动作电影
-#EXTINF:-1 tvg-name="CHC影迷电影" http-user-agent="AptvPlayer-UA" group-title="央视IPV4",CHC影迷电影
-http://101.35.240.114:88/live.php?id=CHC影迷电影
 
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV1综合",CCTV1综合
+http://47.119.24.76:59093/608807420
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV2财经",CCTV2财经
+http://47.119.24.76:59093/631780532
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV3综艺",CCTV3综艺
+http://47.119.24.76:59093/624878271
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV4中文国际",CCTV4中文国际
+http://47.119.24.76:59093/631780421
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV5体育",CCTV5体育
+http://47.119.24.76:59093/641886683
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV5+体育赛事",CCTV5+体育赛事
+http://47.119.24.76:59093/641886773
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV6电影",CCTV6电影
+http://47.119.24.76:59093/624878396
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV7国防军事",CCTV7国防军事
+http://47.119.24.76:59093/673168121
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV8电视剧",CCTV8电视剧
+http://47.119.24.76:59093/624878356
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV9纪录",CCTV9纪录
+http://47.119.24.76:59093/673168140
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV10科教",CCTV10科教
+http://47.119.24.76:59093/624878405
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV11戏曲",CCTV11戏曲
+http://47.119.24.76:59093/667987558
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV12社会与法",CCTV12社会与法
+http://47.119.24.76:59093/673168185
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV13新闻",CCTV13新闻
+http://47.119.24.76:59093/608807423
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV14少儿",CCTV14少儿
+http://47.119.24.76:59093/624878440
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV15音乐",CCTV15音乐
+http://47.119.24.76:59093/673168223
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV17农业农村",CCTV17农业农村
+http://47.119.24.76:59093/673168256
+
+#EXTINF:-1 group-title="央视频道2" tvg-name="CCTV1",CCTV1
+http://124.223.82.228:89/608807420
+#EXTINF:-1 group-title="央视频道2" tvg-name="CCTV2",CCTV2
+http://124.223.82.228:89/631780532
+#EXTINF:-1 group-title="央视频道2" tvg-name="CCTV3",CCTV3
+http://124.223.82.228:89/624878271
+#EXTINF:-1 group-title="央视频道2" tvg-name="CCTV4",CCTV4
+http://124.223.82.228:89/631780421
+#EXTINF:-1 group-title="央视频道2" tvg-name="CCTV5",CCTV5
+http://124.223.82.228:89/641886683
+#EXTINF:-1 group-title="央视频道2" tvg-name="CCTV5+",CCTV5+
+http://124.223.82.228:89/641886773
+#EXTINF:-1 group-title="央视频道2" tvg-name="CCTV6",CCTV6
+http://124.223.82.228:89/624878396
+#EXTINF:-1 group-title="央视频道2" tvg-name="CCTV7",CCTV7
+http://124.223.82.228:89/673168121
+#EXTINF:-1 group-title="央视频道2" tvg-name="CCTV8",CCTV8
+http://124.223.82.228:89/624878356
+#EXTINF:-1 group-title="央视频道2" tvg-name="CCTV9",CCTV9
+http://124.223.82.228:89/673168140
+#EXTINF:-1 group-title="央视频道2" tvg-name="CCTV10",CCTV10
+http://124.223.82.228:89/624878405
+#EXTINF:-1 group-title="央视频道2" tvg-name="CCTV11",CCTV11
+http://124.223.82.228:89/667987558
+#EXTINF:-1 group-title="央视频道2" tvg-name="CCTV12",CCTV12
+http://124.223.82.228:89/673168185
+#EXTINF:-1 group-title="央视频道2" tvg-name="CCTV13",CCTV13
+http://124.223.82.228:89/608807423
+#EXTINF:-1 group-title="央视频道2" tvg-name="CCTV14",CCTV14
+http://124.223.82.228:89/624878440
+#EXTINF:-1 group-title="央视频道2" tvg-name="CCTV15",CCTV15
+http://124.223.82.228:89/673168223
+#EXTINF:-1 group-title="央视频道2" tvg-name="CCTV17",CCTV17
+http://124.223.82.228:89/673168256
+
+#EXTINF:-1 tvg-name="CHC家庭影院" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",CHC家庭影院
+http://101.35.240.114:88/live.php?id=CHC家庭影院
+#EXTINF:-1 tvg-name="CHC动作电影" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",CHC动作电影
+http://101.35.240.114:88/live.php?id=CHC动作电影
+#EXTINF:-1 tvg-name="CHC影迷电影" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",CHC影迷电影
+http://101.35.240.114:88/live.php?id=CHC影迷电影
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",重温经典
 http://101.35.240.114:88/live.php?id=重温经典
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",翡翠台
