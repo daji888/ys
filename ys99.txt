@@ -16,6 +16,8 @@
 ],
 
 "lives":[
+{"name":"zb21","type":0,"url":"https://ghfast.top/https://raw.githubusercontent.com/daji888/ys/master/tv2.txt"},
+{"name":"zb22","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/daji888/ys/master/tv2.txt"},
 {"name":"Kimhyunkyung","type":0,"url":"https://mpimg.cn/down.php/e44381e24cd432a2054ff68e6d25a0dc.txt"},
 {"name":"Jsnzkpg1","type":0,"url":"https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1"},
 {"name":"iptv4","type":0,"url":"https://live.zbds.top/tv/iptv4.txt"}
