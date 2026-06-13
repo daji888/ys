@@ -94,7 +94,7 @@
 ],
 
 "lives":[
-{"name":"zb1","type":0,"url":"https://ghfast.top/https://raw.githubusercontent.com/daji888/ys/master/tv.txt"},
+{"name":"zb1","type":0,"url":"https://gh-proxy.org/https://raw.githubusercontent.com/daji888/ys/master/tv.txt"},
 {"name":"zb2","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/daji888/ys/master/tv.txt"},
 {"name":"iptv4","type":0,"url":"https://live.zbds.top/tv/iptv4.txt"},
 {
@@ -121,7 +121,7 @@
     "url": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/vod_missav.m3u",
     "timeout": 10
 },
-{"name":"MIGU","type":0,"url":"https://ds65.tv1288.xyz"}
+{"name":"iptv4","type":0,"url":"https://live.zbds.top/tv/iptv4.txt"}
 ],
 
 "rules":[
