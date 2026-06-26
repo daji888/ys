@@ -16,12 +16,14 @@
 ],
 
 "lives":[
-{"name":"zb91","type":0,"url":"https://gh-proxy.org/https://raw.githubusercontent.com/daji888/ys/master/tv9.txt"},
+
 //{"name":"zb92","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/daji888/ys/master/tv9.txt"},
 //{"name":"Kimhyunkyung","type":0,"url":"https://mpimg.cn/down.php/e44381e24cd432a2054ff68e6d25a0dc.txt"},
 //{"name":"Jsnzkpg1","type":0,"url":"https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1"},
 //{"name":"cs","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interfaceTXT.txt","catchup":{"type":"append","source":"&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}"}},
-{"name":"zb9","type":0,"url":"https://mpimg.cn/down.php/3b09d522b756af4fe2032181ce84c3a0.txt"},
+//{"name":"zb9","type":0,"url":"https://mpimg.cn/down.php/3b09d522b756af4fe2032181ce84c3a0.txt"},
+{"name":"zb91","type":0,"url":"https://gh-proxy.org/https://raw.githubusercontent.com/daji888/ys/master/tv9.txt"},
+{"name":"zb99","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/daji888/ys/master/tv99.txt","catchup":{"type":"append","source":"&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}"}},
 {"name":"iptv4","type":0,"url":"https://live.zbds.top/tv/iptv4.txt"}
 ],
 
