@@ -13,30 +13,6 @@
 {"key":"苹果影视","name":"🍎苹果｜影视","type":3,"api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/apple.js"},
 {"key":"移动影视","name":"🌈移动｜网盘","type":3,"api": "csp_YDjisu"},
 {
-    "key": "php_麻豆",
-    "name": "🍎 麻豆(PHP)+",
-    "type": 4,
-    "api": "https://php.doube.eu.org/spider/php/麻豆.php"
-},
-{
-    "key": "apidanaizi.com",
-    "name": "🔞-大奶子-",
-    "type": 1,
-    "api": "https://apidanaizi.com/api.php/provide/vod/?ac=list",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "original_api": "https://apidanaizi.com/api.php/provide/vod",
-    "header": {
-        "User-Agent": "Mozilla/5.0 (Linux; Android 11; SM-G973F) AppleWebKit/537.36",
-        "Accept": "application/json, */*",
-        "Connection": "close"
-    },
-    "ext": "https://apidanaizi.com",
-    "playerType": 1,
-    "playUrl": ""
-},
-{
     "key": "heiliaozy.cc",
     "name": "🔞黑料资源",
     "type": 1,
@@ -71,6 +47,30 @@
     "ext": "https://www.xiangjiaozyw.com",
     "playerType": 1,
     "playUrl": ""
+},
+{
+    "key": "apidanaizi.com",
+    "name": "🔞-大奶子-",
+    "type": 1,
+    "api": "https://apidanaizi.com/api.php/provide/vod/?ac=list",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "original_api": "https://apidanaizi.com/api.php/provide/vod",
+    "header": {
+        "User-Agent": "Mozilla/5.0 (Linux; Android 11; SM-G973F) AppleWebKit/537.36",
+        "Accept": "application/json, */*",
+        "Connection": "close"
+    },
+    "ext": "https://apidanaizi.com",
+    "playerType": 1,
+    "playUrl": ""
+},
+{
+    "key": "php_麻豆",
+    "name": "🍎 麻豆(PHP)+",
+    "type": 4,
+    "api": "https://php.doube.eu.org/spider/php/麻豆.php"
 },
 {
     "key": "Naixxzy.com",
