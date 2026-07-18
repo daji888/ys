@@ -9,7 +9,7 @@
 {"name":"欧歌","url":"http://tv.nxog.top/m/"},
 {"name":"王二小","url":"http://tvbox.xn--4kq62z5rby2qupq9ub.top/"},
 {"name":"南风","url":"https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json"},
-{"name":"ys99","url":"https://ghproxy.net/raw.githubusercontent.com/daji888/ys/master/ys99.txt"}
+{"name":"ys99","url":"https://ghproxy.net/https://raw.githubusercontent.com/daji888/ys/master/ys99.txt"}
 ],
 
 "sites":[
