@@ -4,6 +4,14 @@
 {
 "spider":"https://ncstatic-file.clewm.net/rsrc/2026/0518/23/9e2f951b6887c1b57ad600b25c53fb27.jpg",
 
+"urls":[
+{"name":"饭太硬","url":"https://www.饭太硬.net/tv/"},
+{"name":"欧歌","url":"http://tv.nxog.top/m/"},
+{"name":"王二小","url":"http://tvbox.xn--4kq62z5rby2qupq9ub.top/"},
+{"name":"南风","url":"https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json"},
+{"name":"ys99","url":"https://ghproxy.net/raw.githubusercontent.com/daji888/ys/master/ys99.txt"}
+],
+
 "sites":[
 {"key":"豆瓣热播","name":"🤓豆瓣｜热播","type":3,"api": "csp_Douban","searchable": 0},
 {"key":"骚火影视","name":"🔥骚火｜影视","type":3,"api": "csp_SaoHuo","ext":"https://shdy5.us"},
