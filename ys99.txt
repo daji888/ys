@@ -5,7 +5,7 @@
 "spider":"https://ncstatic-file.clewm.net/rsrc/2026/0518/23/9e2f951b6887c1b57ad600b25c53fb27.jpg",
 
 "urls":[
-{"name":"饭太硬","url":"https://www.饭太硬.net/tv/"},
+{"name":"饭太硬","url":"http://www.饭太硬.cc/tv"},
 {"name":"欧歌","url":"http://tv.nxog.top/m/"},
 {"name":"王二小","url":"http://tvbox.xn--4kq62z5rby2qupq9ub.top/"},
 {"name":"南风","url":"https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json"},
