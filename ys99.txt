@@ -2,7 +2,8 @@
 //     当前接口：https://tv.nxog.top/m
 
 {
-"spider":"https://ncstatic-file.clewm.net/rsrc/2026/0518/23/9e2f951b6887c1b57ad600b25c53fb27.jpg",
+
+"spider":"https://ncstatic-file.clewm.net/rsrc/2026/0728/10/1162e1f6239981409e13d0e68adc575d.jpg",
 
 "urls":[
 {"name":"饭太硬","url":"https://www.饭太硬.cc/tv"},
