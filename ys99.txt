@@ -21,6 +21,7 @@
 {"key":"瓜子影视","name":"🍉瓜子｜影视","type":3,"api": "csp_Gz360"},
 {"key":"苹果影视","name":"🍎苹果｜影视","type":3,"api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/apple.js"},
 {"key":"移动影视","name":"🌈移动｜网盘","type":3,"api": "csp_YDjisu"},
+{"key":"移动","name":"💡移动｜影视","type":3,"api":"csp_Yidong4K","timeout":60},
 {"key":"手机推送","name":"📢手机｜推送","type":3,"api": "csp_Push","searchable":0}
 ],
 
