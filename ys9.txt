@@ -2,7 +2,7 @@
 //     当前接口：http://tv.nxog.top/m/
 
 {
-"spider":"https://ncstatic-file.clewm.net/rsrc/2026/0728/10/1162e1f6239981409e13d0e68adc575d.jpg",
+"spider":"https://ncstatic-file.clewm.net/rsrc/2026/0731/14/896ff0bd21906fe9812402eaff8d44b6.jpg;md5;6a12b77fcaf9b8d15e7da1a065cc788e",
 
 "urls":[
 {"name":"饭太硬","url":"https://www.饭太硬.cc/tv"},
@@ -14,7 +14,7 @@
 
 "sites":[
 {"key":"豆瓣热播","name":"🤓豆瓣｜热播","type":3,"api": "csp_Douban","searchable": 0},
-{"key":"骚火影视","name":"🔥骚火｜影视","type":3,"api": "csp_SaoHuo","ext":"https://shdy5.us"},
+{"key":"骚火影视","name":"🔥骚火｜影视","type":3,"api": "csp_SaoHuo","ext":"https://shdy2.com,https://shdy3.com,https://shdy5.us"},
 {"key":"金牌影视","name":"🥇金牌｜影视","type":3,"api": "csp_Jpys","ext": "https://m.sizhengxt.com,https://m.hkybqufgh.com,https://m.9zhoukj.com,https://m.jiabaide.cn"},
 {"key":"农民影视","name":"🍓农民｜影视","type":3,"api": "csp_Wwys","ext": "https://vip.wwgz.cn:5200"},
 //{"key":"瓜子影视","name":"🍉瓜子｜影视","type":3,"api": "csp_Gz360"},
