@@ -14,10 +14,21 @@
 
 "sites":[
 {"key":"豆瓣热播","name":"🤓豆瓣｜热播","type":3,"api": "csp_Douban","searchable": 0},
+{"key":"三六零","name":"💡三六｜视频","type":3,"api":"csp_SP360"},
+{"key":"三秋影视","name":"👑三秋丨APP","type":3,"api":"csp_App3Q","ext":{"host":"https://asd123sx23xdacsx.top","finger":"SF-C3B2B41F6EFFFF9869176CF68F6790E8F07506FC88632C94B4F5F0430D5498CA","updateId":"38b0ddfd-9aa3-8e42-5c92-a7fddd3d36e7","deviceBrand":"vivo","deviceModel":"V2309A","pkg":"com.sunshine.tv","sk":"SK-thanks","ver":"6"}},
+{"key":"马猴影视","name":"👑马猴丨APP","type":3,"api":"csp_App3Q","ext":{"host":"https://45.150.167.18:8000","finger":"SF-A962FEC75DA28D7514F2A16580334272A78AC0A8429F10C94F47C1BAFC876E3F","updateId":"43c1ef69-3748-aaeb-317f-c621c77653ee","deviceBrand":"vivo","deviceModel":"V2309A","pkg":"com.damahou.tv","sk":"SK-woniu-thanks","ver":"1"}},
+{"key":"云朵影视","name":"👑云朵丨APP","type":3,"api":"csp_App3Q","ext":{"host":"https://ds3xy2yunsa.xyz","finger":"SF-F5F11CB15897115AE6BCFE063C288F730CA865588F572C780A3E8477D0DD3776","updateId":"175070c3-075c-468b-950a-bf575769f4f1","deviceBrand":"vivo","deviceModel":"V2309A","pkg":"com.tvcloud.io","sk":"SK-sk_13oXDZ7u9j2Tk1c0cawWVFfO","ver":"1"}},
+{"key":"王子","name":"👑王子丨APP","type":3,"api":"csp_AppGet","searchable":1,"changeable":1,"ext":{"url":"https://app.95112475.xyz","dataKey":"5a9w6x58dsq6z3a6","dataIv":"5a9w6x58dsq6z3a6"}},
+{"key":"剧圈99","name":"👑剧圈丨APP","type":3,"api":"csp_App99","ext":{"host":"http://124.221.3.182:19987/app/bn","appkey":"d1f0c269eab74d93821fffc9befdbbba","versionName":"1.2.0","name":"剧圈圈","package":"com.qingtangxiaozhuan.xyz","buildNumber":"2002","buildSignature":"054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"}},
+{"key":"不戳","name":"👑不戳｜APP","type":3,"api":"csp_AppGet","searchable":1,"changeable":1,"ext":{"url":"https://appcmszbc.zbc4k.app","dataKey":"pYrEkiWRYhBLTUTC","dataIv":"pYrEkiWRYhBLTUTC"}},
 {"key":"骚火影视","name":"🔥骚火｜影视","type":3,"api": "csp_SaoHuo","ext":"https://shdy3.com,https://shdy2.com,https://shdy5.us"},
+{"key":"热播影视","name":"💡热播｜影视","type":3,"api":"csp_AppRJ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"url":"http://v.rbotv.cn"}},
 {"key":"金牌影视","name":"🥇金牌｜影视","type":3,"api": "csp_Jpys","ext": "https://m.sizhengxt.com,https://m.hkybqufgh.com,https://m.9zhoukj.com,https://m.jiabaide.cn"},
 {"key":"农民影视","name":"🍓农民｜影视","type":3,"api": "csp_Wwys","ext": "https://vip.wwgz.cn:5200"},
-//{"key":"瓜子影视","name":"🍉瓜子｜影视","type":3,"api": "csp_Gz360"},
+{"key":"爱看机器人","name":"💡爱看｜影视","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"瓜子影视","name":"🍉瓜子｜影视","type":3,"api":"csp_Gz360"},
+{"key":"山楂影视","name":"💡山楂┃影视","type":3,"api":"csp_PianKu8"},
+{"key":"飞娱影视","name":"💡飞娱┃影视","type":3,"api":"csp_Feiyu"},
 {"key":"苹果影视","name":"🍎苹果｜影视","type":3,"api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/apple.js"},
 {"key":"移动影视","name":"🌈移动｜网盘","type":3,"api":"csp_Yidong4K","timeout":60},
 {"key":"手机推送","name":"📢手机｜推送","type":3,"api": "csp_Push","searchable":0}
