@@ -1,0 +1,50 @@
+
+//     当前接口：https://www.饭太硬.cc/tv
+
+{
+"spider": "https://zl.wpscdn.cn/2026/08/03/space_img/31c67f10-796e-4c4b-abe7-75fd4a527cc8.jpg;md5;9d90c83bc7504392dd02c2236f08713a",
+"urls":[
+{"name":"饭太硬","url":"https://www.饭太硬.cc/tv"},
+{"name":"欧歌","url":"https://tv.nxog.top/m"},
+{"name":"王二小","url":"http://tvbox.xn--4kq62z5rby2qupq9ub.top/"},
+{"name":"南风","url":"https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json"},
+{"name":"ys99","url":"https://ghproxy.net/https://raw.githubusercontent.com/daji888/ys/master/ys99.txt"}
+],
+
+"sites":[
+{"key":"豆瓣热播","name":"🤓豆瓣｜热播","type":3,"api": "csp_DouDouGuard","searchable": 0},
+{"key":"金牌影视","name":"🥇金牌｜影视","type":3,"api": "csp_JpysGuard"},
+{"key":"农民影视","name":"🍓农民｜影视","type":3,"api": "csp_NmyswvGuard"},
+{"key":"瓜子影视","name":"🍉瓜子｜影视","type":3,"api":"csp_AppgzGuard"},
+{"key":"厂长影视","name": "📔厂长｜影视","type":3,"api":"csp_NewCzGuard"},
+{"key":"热播影视","name":"💡热播｜影视","type":3,"api":"csp_AppTTGuard","ext": "uqGL1bNENExT7/hGxpSE5qU="},
+{"key":"苹果影视","name":"🍎苹果｜影视","type":3,"api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/apple.js"},
+{"key":"移动影视","name":"🌈移动｜网盘","type":3,"api":"csp_Yidong4K","timeout":60},
+{"key":"手机推送","name":"📢手机｜推送","type":3,"api": "csp_PushGuard","searchable":0}
+],
+
+"lives":[
+//{"name":"zb92","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/daji888/ys/master/tv9.txt"},
+//{"name":"Kimhyunkyung","type":0,"url":"https://mpimg.cn/down.php/e44381e24cd432a2054ff68e6d25a0dc.txt"},
+//{"name":"Jsnzkpg1","type":0,"url":"https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1"},
+//{"name":"cs","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interfaceTXT.txt","catchup":{"type":"append","source":"&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}"}},
+//{"name":"zb9","type":0,"url":"https://mpimg.cn/down.php/3b09d522b756af4fe2032181ce84c3a0.txt"},
+{"name":"tv9","type":0,"url":"https://gh-proxy.org/https://raw.githubusercontent.com/daji888/ys/master/tv9.txt"},
+{"name":"tv99","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/daji888/ys/master/tv99.txt","catchup":{"type":"append","source":"&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}"}},
+{"name":"interface","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt"},
+{"name":"iptv4","type":0,"url":"https://live.zbds.top/tv/iptv4.txt"}
+],
+
+"rules":[
+{"name":"cl","hosts":["magnet"],"regex":["最新","直播","更新"]},
+{"name":"火山嗅探","hosts":["huoshan.com"],"regex":["item_id="]},
+{"name":"抖音嗅探","hosts":["douyin.com"],"regex":["is_play_url="]},
+{"name":"农民嗅探","hosts":["toutiaovod.com"],"regex":["video/tos/cn"]},
+{"name":"七新嗅探","hosts":["api.52wyb.com"],"regex":["m3u8?pt=m3u8"]},
+{"name":"夜市","hosts":["yeslivetv.com"],"script":["document.getElementsByClassName('vjs-big-play-button')[0].click()"]},
+{"name":"毛驴","hosts":["www.maolvys.com"],"script":["document.getElementsByClassName('swal-buttonswal-button--confirm')[0].click()"]},
+{"name":"czzy","hosts":["10086.cn"],"regex":["/storageWeb/servlet/downloadServlet"]},
+{"name":"bdys","hosts":["bytetos.com","byteimg.com","bytednsdoc.com","pstatp.com"],"regex":["/tos-cn"],"exclude":[".m3u8"]},
+{"name":"bdys10","hosts":["bdys10.com"],"regex":["/obj/"],"exclude":[".m3u8"]}
+]
+}
