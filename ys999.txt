@@ -13,6 +13,7 @@
 ],
 
 "sites":[
+{"key":"豆瓣热播","name":"🤓豆瓣｜热播","type":3,"api": "csp_Douban","searchable": 0},
 {"key":"三六零","name":"💡三六｜视频","type":3,"api":"csp_SP360"},
 {"key":"三秋影视","name":"👑三秋丨APP","type":3,"api":"csp_App3Q","ext":{"host":"https://asd123sx23xdacsx.top","finger":"SF-C3B2B41F6EFFFF9869176CF68F6790E8F07506FC88632C94B4F5F0430D5498CA","updateId":"38b0ddfd-9aa3-8e42-5c92-a7fddd3d36e7","deviceBrand":"vivo","deviceModel":"V2309A","pkg":"com.sunshine.tv","sk":"SK-thanks","ver":"6"}},
 {"key":"马猴影视","name":"👑马猴丨APP","type":3,"api":"csp_App3Q","ext":{"host":"https://45.150.167.18:8000","finger":"SF-A962FEC75DA28D7514F2A16580334272A78AC0A8429F10C94F47C1BAFC876E3F","updateId":"43c1ef69-3748-aaeb-317f-c621c77653ee","deviceBrand":"vivo","deviceModel":"V2309A","pkg":"com.damahou.tv","sk":"SK-woniu-thanks","ver":"1"}},
