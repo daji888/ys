@@ -1,5 +1,5 @@
 
-//     当前接口：http://tv.nxog.top/m/
+//     当前接口：https://www.饭太硬.cc/tv
 
 {
 "spider":"https://ncstatic-file.clewm.net/rsrc/2026/0801/00/6965c1fecb1811caad096e3cef84682e.jpg;md5;8fd1a7eb6c700c7036319c664bf4f62c",
