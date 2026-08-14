@@ -116,16 +116,25 @@
 {"name":"iptv4","type":0,"url":"https://live.zbds.top/tv/iptv4.txt"}
 ],
 
-"rules":[
-{"name":"cl","hosts":["magnet"],"regex":["最新","直播","更新"]},
-{"name":"火山嗅探","hosts":["huoshan.com"],"regex":["item_id="]},
-{"name":"抖音嗅探","hosts":["douyin.com"],"regex":["is_play_url="]},
-{"name":"农民嗅探","hosts":["toutiaovod.com"],"regex":["video/tos/cn"]},
-{"name":"七新嗅探","hosts":["api.52wyb.com"],"regex":["m3u8?pt=m3u8"]},
-{"name":"夜市","hosts":["yeslivetv.com"],"script":["document.getElementsByClassName('vjs-big-play-button')[0].click()"]},
-{"name":"毛驴","hosts":["www.maolvys.com"],"script":["document.getElementsByClassName('swal-buttonswal-button--confirm')[0].click()"]},
-{"name":"czzy","hosts":["10086.cn"],"regex":["/storageWeb/servlet/downloadServlet"]},
-{"name":"bdys","hosts":["bytetos.com","byteimg.com","bytednsdoc.com","pstatp.com"],"regex":["/tos-cn"],"exclude":[".m3u8"]},
-{"name":"bdys10","hosts":["bdys10.com"],"regex":["/obj/"],"exclude":[".m3u8"]}
+"rules": [
+    {
+        "name": "cdn.ryplay",
+        "hosts": [
+            "cdn.ryplay"
+        ],
+        "regex": [
+            "5.480000",
+            "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:5.480000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+            "#EXT-X-DISCONTINUITY\\s*\\r?\\n#EXTINF:5.320000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n(?:#EXTINF:[\\d.]+,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n)*?#EXTINF:3.360000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n#EXT-X-DISCONTINUITY",
+            "#EXT-X-DISCONTINUITY\\s*\\r?\\n#EXTINF:4.000000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n(?:#EXTINF:[\\d.]+,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n)*?#EXTINF:0.560000,\\s*\\r?\\n.+\\.ts\\s*\\r?\\n#EXT-X-DISCONTINUITY",
+            "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+        ]
+    }
+],
+
+"hosts": [
+    "img1.wsyzy.org=fan.cloudflare.182682.xyz",
+    "fiizvfck.top=fan.cloudflare.182682.xyz",
+    "images.67c6c7a.com=fan.cloudflare.182682.xyz"
 ]
 }
