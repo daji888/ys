@@ -2,7 +2,7 @@
 //     当前接口：https://www.饭太硬.cc/tv
 
 {
-"spider": "https://zl.wpscdn.cn/2026/08/03/space_img/31c67f10-796e-4c4b-abe7-75fd4a527cc8.jpg;md5;9d90c83bc7504392dd02c2236f08713a",
+"spider": "https://zl.wpscdn.cn/2026/08/14/space_img/26ad8d5e-ae43-485c-ad53-b21b86ef9422.jpg;md5;46e3b3a379431c6e3060691081cd8748",
 "urls":[
 {"name":"饭太硬","url":"https://www.饭太硬.cc/tv"},
 {"name":"欧歌","url":"https://tv.nxog.top/m"},
@@ -12,14 +12,15 @@
 ],
 
 "sites":[
-{"key":"豆瓣热播","name":"🤓豆瓣｜热播","type":3,"api": "csp_DouDouGuard","searchable": 0},
-{"key":"金牌影视","name":"🥇金牌｜影视","type":3,"api": "csp_JpysGuard"},
-{"key":"农民影视","name":"🍓农民｜影视","type":3,"api": "csp_NmyswvGuard"},
-{"key":"瓜子影视","name":"🍉瓜子｜影视","type":3,"api": "csp_AppgzGuard"},
-{"key":"厂长影视","name":"📔厂长｜影视","type":3,"api": "csp_NewCzGuard"},
-{"key":"热播影视","name":"💡热播｜影视","type":3,"api": "csp_AppTTGuard","ext": "uqGL1bNENExT7/hGxpSE5qU="},
-{"key":"苹果影视","name":"🍎苹果｜影视","type":3,"api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/apple.js"},
-{"key":"手机推送","name":"📢手机｜推送","type":3,"api": "csp_PushGuard","searchable":0}
+{"key":"豆瓣热播","name":"🤓豆瓣 ┃ 热播","type":3,"api": "csp_DouDouGuard","searchable": 0},
+{"key":"原创影视","name":"👒原创 ┃ 影视","type":3,"api": "csp_YCyzGuard"},
+{"key":"金牌影视","name":"🥇金牌 ┃ 影视","type":3,"api": "csp_JpysGuard"},
+{"key":"农民影视","name":"🍓农民 ┃ 影视","type":3,"api": "csp_NmyswvGuard"},
+{"key":"瓜子影视","name":"🍉瓜子 ┃ 影视","type":3,"api": "csp_AppgzGuard"},
+{"key":"厂长影视","name":"📔厂长 ┃ 影视","type":3,"api": "csp_NewCzGuard"},
+{"key":"热播影视","name":"💡热播 ┃ 影视","type":3,"api": "csp_AppTTGuard","ext": "uqGL1bNENExT7/hGxpSE5qU="},
+{"key":"苹果影视","name":"🍎苹果 ┃ 影视","type":3,"api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/apple.js"},
+{"key":"手机推送","name":"📢手机 ┃ 推送","type":3,"api": "csp_PushGuard","searchable":0}
 ],
 
 "lives":[
