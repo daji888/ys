@@ -2,7 +2,7 @@
 //     当前接口：https://www.饭太硬.cc/tv
 
 {
-"spider":"https://ncstatic-file.clewm.net/rsrc/2026/0801/00/6965c1fecb1811caad096e3cef84682e.jpg;md5;8fd1a7eb6c700c7036319c664bf4f62c",
+"spider": "https://zl.wpscdn.cn/2026/08/14/space_img/26ad8d5e-ae43-485c-ad53-b21b86ef9422.jpg;md5;46e3b3a379431c6e3060691081cd8748",
 
 "urls":[
 {"name":"饭太硬","url":"https://www.饭太硬.cc/tv"},
