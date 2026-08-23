@@ -87,9 +87,8 @@
 ],
 
 "lives":[
-{"name":"zb1","type":0,"url":"https://gh-proxy.org/https://raw.githubusercontent.com/daji888/ys/master/tv.txt"},
+{"name":"zb1","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/daji888/ys/master/tv.txt"},
 {"name":"zb2","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/daji888/ys/master/tv.txt"},
-{"name":"iptv4","type":0,"url":"https://live.zbds.top/tv/iptv4.txt"},
 {
     "name": "🔞黄仓国产",
     "type": 0,
