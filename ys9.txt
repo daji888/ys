@@ -6,7 +6,8 @@
 
 "urls":[
 {"name":"饭太硬","url":"https://www.饭太硬.cc/tv"},
-{"name":"欧歌","url":"https://a.nxog.top/m"},
+{"name":"欧歌","url":"https://m.nxog.top/m"},
+// {"name":"双龙","url":"https://xn--neen-mb1gy821b.v.nxog.top/apia?id=3"},
 {"name":"王二小","url":"https://9280.kstore.vip/aiwex.json"},
 {"name":"南风","url":"https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json"},
 {"name":"ys99","url":"https://ghproxy.net/https://raw.githubusercontent.com/daji888/ys/master/ys99.txt"}
