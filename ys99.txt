@@ -5,8 +5,8 @@
 "spider": "https://zl.wpscdn.cn/2026/08/14/space_img/26ad8d5e-ae43-485c-ad53-b21b86ef9422.jpg;md5;46e3b3a379431c6e3060691081cd8748",
 "urls":[
 {"name":"饭太硬","url":"https://www.饭太硬.cc/tv"},
-{"name":"欧歌","url":"https://tv.nxog.top/m"},
-{"name":"王二小","url":"http://tvbox.xn--4kq62z5rby2qupq9ub.top/"},
+{"name":"欧歌","url":"https://a.nxog.top/m"},
+{"name":"王二小","url":"https://9280.kstore.vip/aiwex.json"},
 {"name":"南风","url":"https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json"},
 {"name":"ys99","url":"https://ghproxy.net/https://raw.githubusercontent.com/daji888/ys/master/ys99.txt"}
 ],
