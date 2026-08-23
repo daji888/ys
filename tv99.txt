@@ -1,6 +1,11 @@
 #EXTM3U x-tvg-url="https://epg.aptv.app/pp.xml.gz,https://epg.aptv.app/xml" catchup="append" catchup-source="&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}"
 #EXT-X-SUB-URL https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
 
+#EXTINF:-1 group-title="收藏频道" tvg-name="CCTV5体育",CCTV5体育
+http://47.119.24.76:59093/641886683
+#EXTINF:-1 group-title="收藏频道" tvg-name="CCTV5+体育赛事",CCTV5+体育赛事
+http://47.119.24.76:59093/641886773
+
 #EXTINF:-1 group-title="央视频道" tvg-name="CCTV1综合",CCTV1综合
 http://47.119.24.76:59093/608807420
 #EXTINF:-1 group-title="央视频道" tvg-name="CCTV2财经",CCTV2财经
