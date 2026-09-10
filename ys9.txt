@@ -115,6 +115,12 @@
 {"name":"iptv4","type":0,"url":"https://live.zbds.top/tv/iptv4.txt"}
 ],
 
+"epgs":[
+{"name":"erw","epg":"https://api.erw.cc/?ch={name}&date={date}"},
+{"name":"51zmt","epg":"https://epg.51zmt.top:8001/api/diyp/?ch={name}&date={date}"},
+{"name":"51zmt.top:8000","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}
+],
+
 "rules": [
     {
         "name": "cdn.ryplay",
