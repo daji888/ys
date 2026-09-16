@@ -29,7 +29,7 @@
 {"key":"光影影视","name":"🌞光影 ┃ 影视","type":3,"api": "csp_T4Guard", "ext": "rfOIzPkSUkANv6AT2prC8en3+Trbx4j10CIoZMv3Ag4bdEYQqTMqu/Z3YPtC2NJv6n6YeZdgyWlo4WJjBL5gUt6B7LvCEDT4CLrWka31GRq7jwVkfQRB/Jy9HkG7E8xUBIJi5DdVFk3qAuGnwUWqQNRblRxzHW+tdSm6zoFcG/QkZ97bzWOXn0fzbgwjBDkBHgcPIYjlULlctCNKgJ9DzGNSl+zMZDZgmxczsZeeahRS38Cst3qvaHn1T2lmLBGVGXPaRovi77LPRRDOJSNRrdpvCHdRikYwgar0MU56hXMGeGBiKp/OmGTIYR8dFRGvZ/m8xGOqs8U13h6wvADOGlYoP9VaQBqTcDnz9Q0Urhw3oFXWyvIlUrDhX9la5L2NYzagbyk3afqhxeSXXp07nAFsNy2CojHRTbmz4eohLoIJTSi2DzPpheVx1DAapfgRdTc7Ax5ddYpN338GiDAa0GnEgLe04a1pZ5jF+/Q7HJswqlSO+DXCQ3FjRbb/ZPQcozcCWwzhUHE1QUAt799V9DPMuiHGyudIcZarGQmezB+Lb45RdHIRy0PXD+NRVPJlfDFD5FMGSqsiVklibvuwlVHT8J5vHgh/1nEZoI1RlYYLrkjTts2EeQmrpB/sgLyo1vnjFw=="},
 {"key":"原创影视","name":"👒原创 ┃ 影视","type":3,"api": "csp_YCyzGuard"},
 {"key":"奥特影视","name":"🏝奥特 ┃ 影视","type":3,"api": "csp_AueteGuard"},
-{"key":"苹果影视","name":"🍎苹果 ┃ 影视","type":3,"api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/apple.js","searchable": 0},
+{"key":"苹果影视","name":"🍎苹果 ┃ 影视","type":3,"api": "https://cdn.jsdmirror.com/gh/daji888/ys@master/js/apple.js","searchable": 0},
 {"key":"手机推送","name":"📢手机 ┃ 推送","type":3,"api": "csp_PushGuard","searchable":0}
 ],
 
