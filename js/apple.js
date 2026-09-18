@@ -92,6 +92,7 @@ async function detail(id) {
     // 过滤掉包含“及时雨”的选集
     let filteredUrls = data.urls.filter(i => !i.key.includes("及时雨"));
     let playlist = filteredUrls.map(i => i.key + '$' + i.url).join('#');
+    let playfrom = ['小苹果', '小苹', '小果'];
 
     let vod = {
         'vod_id': id,
@@ -103,7 +104,7 @@ async function detail(id) {
         'vod_actor': data.actor,
         'vod_director': data.director,
         'vod_content': data.content,
-        'vod_play_from': '小苹果''小苹''小果',
+        'vod_play_from': playfrom,
         'vod_play_url': playlist
     };
 
