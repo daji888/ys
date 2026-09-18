@@ -8,7 +8,7 @@
 {"name":"欧歌","url":"https://m.nxog.top/m"},
 // {"name":"双龙","url":"https://xn--neen-mb1gy821b.v.nxog.top/apia?id=3"},
 {"name":"王二小","url":"https://9280.kstore.vip/aiwex.json"},
-{"name":"南风","url":"https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json"},
+{"name":"南风","url":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json"},
 {"name":"ys99","url":"https://ghproxy.net/https://raw.githubusercontent.com/daji888/ys/master/ys99.txt"}
 ],
 
@@ -29,17 +29,17 @@
 {"key":"光影影视","name":"🌞光影 ┃ 影视","type":3,"api": "csp_T4Guard", "ext": "rfOIzPkSUkANv6AT2prC8en3+Trbx4j10CIoZMv3Ag4bdEYQqTMqu/Z3YPtC2NJv6n6YeZdgyWlo4WJjBL5gUt6B7LvCEDT4CLrWka31GRq7jwVkfQRB/Jy9HkG7E8xUBIJi5DdVFk3qAuGnwUWqQNRblRxzHW+tdSm6zoFcG/QkZ97bzWOXn0fzbgwjBDkBHgcPIYjlULlctCNKgJ9DzGNSl+zMZDZgmxczsZeeahRS38Cst3qvaHn1T2lmLBGVGXPaRovi77LPRRDOJSNRrdpvCHdRikYwgar0MU56hXMGeGBiKp/OmGTIYR8dFRGvZ/m8xGOqs8U13h6wvADOGlYoP9VaQBqTcDnz9Q0Urhw3oFXWyvIlUrDhX9la5L2NYzagbyk3afqhxeSXXp07nAFsNy2CojHRTbmz4eohLoIJTSi2DzPpheVx1DAapfgRdTc7Ax5ddYpN338GiDAa0GnEgLe04a1pZ5jF+/Q7HJswqlSO+DXCQ3FjRbb/ZPQcozcCWwzhUHE1QUAt799V9DPMuiHGyudIcZarGQmezB+Lb45RdHIRy0PXD+NRVPJlfDFD5FMGSqsiVklibvuwlVHT8J5vHgh/1nEZoI1RlYYLrkjTts2EeQmrpB/sgLyo1vnjFw=="},
 {"key":"原创影视","name":"👒原创 ┃ 影视","type":3,"api": "csp_YCyzGuard"},
 {"key":"奥特影视","name":"🏝奥特 ┃ 影视","type":3,"api": "csp_AueteGuard"},
-{"key":"苹果影视","name":"🍎苹果 ┃ 影视","type":3,"api": "https://cdn.jsdmirror.com/gh/daji888/ys@master/js/apple.js","searchable": 0},
+{"key":"苹果影视","name":"🍎苹果 ┃ 影视","type":3,"api": "https://ghproxy.net/https://raw.githubusercontent.com/daji888/ys/refs/heads/master/js/apple.js","searchable": 0},
 {"key":"手机推送","name":"📢手机 ┃ 推送","type":3,"api": "csp_PushGuard","searchable":0}
 ],
 
 "lives":[
 // {"name":"zb92","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/daji888/ys/master/tv9.txt"},
 // {"name":"Kimhyunkyung","type":0,"url":"https://mpimg.cn/down.php/e44381e24cd432a2054ff68e6d25a0dc.txt"},
-// {"name":"Jsnzkpg1","type":0,"url":"https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1"},
+// {"name":"Jsnzkpg1","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1"},
 // {"name":"cs","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interfaceTXT.txt","catchup":{"type":"append","source":"&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}"}},
 // {"name":"zb9","type":0,"url":"https://mpimg.cn/down.php/3b09d522b756af4fe2032181ce84c3a0.txt"},
-{"name":"tv99","type":0,"url":"https://gh-proxy.org/https://raw.githubusercontent.com/daji888/ys/master/tv99.txt"},
+{"name":"tv99","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/daji888/ys/master/tv99.txt"},
 {"name":"tv9","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/daji888/ys/master/tv9.txt","catchup":{"type":"append","source":"&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}"}},
 {"name":"interface","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt"},
 {"name":"iptv4","type":0,"url":"https://live.zbds.top/tv/iptv4.txt"}
