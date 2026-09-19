@@ -103,7 +103,7 @@ async function detail(id) {
         'vod_actor': data.actor,
         'vod_director': data.director,
         'vod_content': data.content,
-        'vod_play_from': ['小苹果', '小苹', '小果'],
+        'vod_play_from': ['小苹果'],
         'vod_play_url': playlist
     };
 
