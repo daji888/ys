@@ -85,41 +85,6 @@ http://101.35.240.114:88/live.php?id=CCTV16
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" http-user-agent="AptvPlayer-UA" group-title="央视IPV4",CCTV17
 http://101.35.240.114:88/live.php?id=CCTV17
 
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV1综合",CCTV1综合
-http://47.119.24.76:59093/608807420
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV2财经",CCTV2财经
-http://47.119.24.76:59093/631780532
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV3综艺",CCTV3综艺
-http://47.119.24.76:59093/624878271
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV4中文国际",CCTV4中文国际
-http://47.119.24.76:59093/631780421
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV5体育",CCTV5体育
-http://47.119.24.76:59093/641886683
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV5+体育赛事",CCTV5+体育赛事
-http://47.119.24.76:59093/641886773
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV6电影",CCTV6电影
-http://47.119.24.76:59093/624878396
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV7国防军事",CCTV7国防军事
-http://47.119.24.76:59093/673168121
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV8电视剧",CCTV8电视剧
-http://47.119.24.76:59093/624878356
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV9纪录",CCTV9纪录
-http://47.119.24.76:59093/673168140
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV10科教",CCTV10科教
-http://47.119.24.76:59093/624878405
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV11戏曲",CCTV11戏曲
-http://47.119.24.76:59093/667987558
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV12社会与法",CCTV12社会与法
-http://47.119.24.76:59093/673168185
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV13新闻",CCTV13新闻
-http://47.119.24.76:59093/608807423
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV14少儿",CCTV14少儿
-http://47.119.24.76:59093/624878440
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV15音乐",CCTV15音乐
-http://47.119.24.76:59093/673168223
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV17农业农村",CCTV17农业农村
-http://47.119.24.76:59093/673168256
-
 #EXTINF:-1 tvg-name="CHC家庭影院" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",CHC家庭影院
 http://101.35.240.114:88/live.php?id=CHC家庭影院
 #EXTINF:-1 tvg-name="CHC动作电影" http-user-agent="AptvPlayer-UA" group-title="卫视IPV4",CHC动作电影
