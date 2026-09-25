@@ -1,15 +1,52 @@
 #EXTM3U x-tvg-url="https://epg.aptv.app/pp.xml.gz,https://epg.aptv.app/xml" catchup="append" catchup-source="&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}"
 #EXT-X-SUB-URL https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
 
+#EXTINF:-1 tvg-id="migu_641886683" tvg-name="migu_641886683" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/516/171/202204010048_1626679603804_H32_1080.webp" group-title="收藏频道",CCTV5体育
+http://47.119.24.76:59093/stream/proxy/migu_641886683.m3u8
+#EXTINF:-1 tvg-id="migu_641886773" tvg-name="migu_641886773" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/516/288/202204010048_1626679712843_H32_1080.webp" group-title="收藏频道",CCTV5+体育赛事
+http://47.119.24.76:59093/stream/proxy/migu_641886773.m3u8
+
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" http-user-agent="AptvPlayer-UA" group-title="收藏频道",CCTV5
 http://101.35.240.114:88/live.php?id=CCTV5
 #EXTINF:-1 tvg-id="CCTV5PLUS" tvg-name="CCTV5+" http-user-agent="AptvPlayer-UA" group-title="收藏频道",CCTV5+
 http://101.35.240.114:88/live.php?id=CCTV5p
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" http-user-agent="AptvPlayer-UA" http-referer="https:/aptv.app/" group-title="收藏频道",CCTV16
+http://101.35.240.114:88/live.php?id=CCTV16
 
-#EXTINF:-1 group-title="收藏频道" tvg-name="CCTV5体育",CCTV5体育
-http://47.119.24.76:59093/641886683
-#EXTINF:-1 group-title="收藏频道" tvg-name="CCTV5+体育赛事",CCTV5+体育赛事
-http://47.119.24.76:59093/641886773
+#EXTINF:-1 tvg-id="migu_608807420" tvg-name="migu_608807420" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2201/057/821/202204010054_1626677671392_H32_1080.webp" group-title="央视",CCTV1综合
+http://47.119.24.76:59093/stream/proxy/migu_608807420.m3u8
+#EXTINF:-1 tvg-id="migu_631780532" tvg-name="migu_631780532" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/346/945/202205311432_1626678578843_H32_1080.webp" group-title="央视",CCTV2财经
+http://47.119.24.76:59093/stream/proxy/migu_631780532.m3u8
+#EXTINF:-1 tvg-id="migu_624878271" tvg-name="migu_624878271" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/212/864/202204010055_1626679244629_H32_1080.webp" group-title="央视",CCTV3综艺
+http://47.119.24.76:59093/stream/proxy/migu_624878271.m3u8
+#EXTINF:-1 tvg-id="migu_631780421" tvg-name="migu_631780421" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/346/947/202204010054_1626679413842_H32_1080.webp" group-title="央视",CCTV4中文国际
+http://47.119.24.76:59093/stream/proxy/migu_631780421.m3u8
+#EXTINF:-1 tvg-id="migu_641886683" tvg-name="migu_641886683" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/516/171/202204010048_1626679603804_H32_1080.webp" group-title="央视",CCTV5体育
+http://47.119.24.76:59093/stream/proxy/migu_641886683.m3u8
+#EXTINF:-1 tvg-id="migu_641886773" tvg-name="migu_641886773" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/516/288/202204010048_1626679712843_H32_1080.webp" group-title="央视",CCTV5+体育赛事
+http://47.119.24.76:59093/stream/proxy/migu_641886773.m3u8
+#EXTINF:-1 tvg-id="migu_624878396" tvg-name="migu_624878396" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/212/872/202204010054_1626679914432_H32_1080.webp" group-title="央视",CCTV6电影
+http://47.119.24.76:59093/stream/proxy/migu_624878396.m3u8
+#EXTINF:-1 tvg-id="migu_673168121" tvg-name="migu_673168121" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/622/202204010054_1626680119210_H32_1080.webp" group-title="央视",CCTV7国防军事
+http://47.119.24.76:59093/stream/proxy/migu_673168121.m3u8
+#EXTINF:-1 tvg-id="migu_624878356" tvg-name="migu_624878356" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/212/868/202204010049_1626677150014_H32_1080.webp" group-title="央视",CCTV8电视剧
+http://47.119.24.76:59093/stream/proxy/migu_624878356.m3u8
+#EXTINF:-1 tvg-id="migu_673168140" tvg-name="migu_673168140" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/624/202603081600_1772956792519_H32_1080.webp" group-title="央视",CCTV9纪录
+http://47.119.24.76:59093/stream/proxy/migu_673168140.m3u8
+#EXTINF:-1 tvg-id="migu_624878405" tvg-name="migu_624878405" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/212/874/202204010054_1626677767922_H32_1080.webp" group-title="央视",CCTV10科教
+http://47.119.24.76:59093/stream/proxy/migu_624878405.m3u8
+#EXTINF:-1 tvg-id="migu_667987558" tvg-name="migu_667987558" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/988/610/202204010054_1626677922732_H32_1080.webp" group-title="央视",CCTV11戏曲
+http://47.119.24.76:59093/stream/proxy/migu_667987558.m3u8
+#EXTINF:-1 tvg-id="migu_673168185" tvg-name="migu_673168185" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/627/202204010053_1626678108629_H32_1080.webp" group-title="央视",CCTV12社会与法
+http://47.119.24.76:59093/stream/proxy/migu_673168185.m3u8
+#EXTINF:-1 tvg-id="migu_608807423" tvg-name="migu_608807423" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2202/208/864/202204010051_2202208864_H32_1080.webp" group-title="央视",CCTV13新闻
+http://47.119.24.76:59093/stream/proxy/migu_608807423.m3u8
+#EXTINF:-1 tvg-id="migu_624878440" tvg-name="migu_624878440" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/212/875/202204010054_1626678147073_H32_1080.webp" group-title="央视",CCTV14少儿
+http://47.119.24.76:59093/stream/proxy/migu_624878440.m3u8
+#EXTINF:-1 tvg-id="migu_673168223" tvg-name="migu_673168223" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/628/202204010054_1626678245130_H32_1080.webp" group-title="央视",CCTV15音乐
+http://47.119.24.76:59093/stream/proxy/migu_673168223.m3u8
+#EXTINF:-1 tvg-id="migu_673168256" tvg-name="migu_673168256" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/631/202204010052_1626678428060_H32_1080.webp" group-title="央视",CCTV17农业农村
+http://47.119.24.76:59093/stream/proxy/migu_673168256.m3u8
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" http-user-agent="AptvPlayer-UA" group-title="央视IPV4",CCTV1
 http://101.35.240.114:88/live.php?id=CCTV1
