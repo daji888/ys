@@ -17,12 +17,7 @@ CCTV10,http://59.172.112.202:8000/hls/10/index.m3u8
 CCTV11,http://59.172.112.202:8000/hls/11/index.m3u8
 CCTV12,http://59.172.112.202:8000/hls/12/index.m3u8
 CCTV13,http://59.172.112.202:8000/hls/13/index.m3u8
-CCTV14,http://59.172.112.202:8000/hls/14/index.m3u8
 CCTV15,http://59.172.112.202:8000/hls/15/index.m3u8
-CCTV16,http://59.172.112.202:8000/hls/16/index.m3u8
-CCTV17,http://59.172.112.202:8000/hls/17/index.m3u8
-CCTV18,http://59.172.112.202:8000/hls/18/index.m3u8
-CCTV19,http://59.172.112.202:8000/hls/19/index.m3u8
 
 咪咕体育,#genre#
 
