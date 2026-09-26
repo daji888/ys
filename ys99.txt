@@ -2,10 +2,10 @@
 //     当前接口：https://www.饭太硬.cc/tv
 
 {
-"spider": "https://file.icve.com.cn/file_doc/570/671/8E8A7C81F650553AA83AE2674C3F24B4.jpg;md5;8e8a7c81f650553aa83ae2674c3f24b4",
+"spider": "https://file.icve.com.cn/file_doc/933/630/E959D9455533A04AF01A15C4EB1B78EA.jpg;md5;e959d9455533a04af01a15c4eb1b78ea",
 "urls":[
 {"name":"饭太硬","url":"https://www.饭太硬.cc/tv"},
-{"name":"欧歌","url":"https://m.nxog.top/m"},
+// {"name":"欧歌","url":"https://m.nxog.top/m"},
 // {"name":"双龙","url":"https://xn--neen-mb1gy821b.v.nxog.top/apia?id=3"},
 {"name":"王二小","url":"https://9280.kstore.vip/aiwex.json"},
 {"name":"南风","url":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json"},
@@ -34,14 +34,10 @@
 ],
 
 "lives":[
-// {"name":"zb92","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/daji888/ys/master/tv9.txt"},
-// {"name":"Kimhyunkyung","type":0,"url":"https://mpimg.cn/down.php/e44381e24cd432a2054ff68e6d25a0dc.txt"},
 // {"name":"Jsnzkpg1","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1"},
-// {"name":"cs","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interfaceTXT.txt","catchup":{"type":"append","source":"&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}"}},
-// {"name":"zb9","type":0,"url":"https://mpimg.cn/down.php/3b09d522b756af4fe2032181ce84c3a0.txt"},
 {"name":"tv99","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/daji888/ys/master/tv99.txt"},
 {"name":"tv9","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/daji888/ys/master/tv9.txt","catchup":{"type":"append","source":"&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}"}},
-{"name":"interface","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt"},
+{"name":"59093","type":0,"url":"http://47.119.24.76:59093","catchup":{"type":"append","source":"&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}"}},
 {"name":"iptv4","type":0,"url":"https://live.zbds.top/tv/iptv4.txt"}
 ],
 
