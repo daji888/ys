@@ -9,6 +9,7 @@
 // {"name":"双龙","url":"https://xn--neen-mb1gy821b.v.nxog.top/apia?id=3"},
 {"name":"王二小","url":"https://9280.kstore.vip/aiwex.json"},
 {"name":"南风","url":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json"},
+// {"name":"Jsnzkpg1","url":"https://ghproxy.net/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg"},
 {"name":"ys99","url":"https://ghproxy.net/https://raw.githubusercontent.com/daji888/ys/master/ys99.txt"}
 ],
 
@@ -30,7 +31,6 @@
 ],
 
 "lives":[
-// {"name":"Jsnzkpg1","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1"},
 {"name":"tv99","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/daji888/ys/master/tv99.txt"},
 {"name":"tv9","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/daji888/ys/master/tv9.txt","catchup":{"type":"append","source":"&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}"}},
 {"name":"tv99","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u"},
