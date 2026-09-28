@@ -35,6 +35,7 @@
 {"name":"tv9","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/daji888/ys/master/tv9.txt","catchup":{"type":"append","source":"&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}"}},
 {"name":"tv99","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u"},
 {"name":"59093","type":0,"url":"http://47.119.24.76:59093"},
+{"name":"59093","type":0,"url":"https://iptv.445569.xyz/live.m3u"},
 {"name":"iptv4","type":0,"url":"https://live.zbds.top/tv/iptv4.txt"}
 ],
 
