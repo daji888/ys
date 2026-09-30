@@ -42,6 +42,9 @@
 "epgs":[
 {"name":"51zmt","epg":"https://epg.51zmt.top:8001/api/diyp/?ch={name}&date={date}"},
 // {"name":"112114","epg":"https://epg.112114.xyz/?ch={name}&date={date}"},
+{"name":"1121141","epg":"https://epg1.112114.xyz/?ch={name}&date={date}"},
+{"name":"1121142","epg":"https://epg2.112114.xyz/?ch={name}&date={date}"},
+{"name":"1121143","epg":"https://epg3.112114.xyz/?ch={name}&date={date}"},
 // {"name":"erw","epg":"https://api.erw.cc/?ch={name}&date={date}"},
 {"name":"51zmt.top:8000","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}
 ],
