@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.aptv.app/pp.xml.gz,https://epg.aptv.app/xml" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}"
+#EXTM3U x-tvg-url="https://epg.aptv.app/pp.xml.gz,https://epg.aptv.app/xml" catchup="append" catchup-source="&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}"
 #EXT-X-SUB-URL https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
 
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CCTV5%E4%BD%93%E8%82%B2.png" group-title="收藏频道",CCTV5
