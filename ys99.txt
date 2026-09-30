@@ -2,7 +2,7 @@
 //     当前接口：https://www.饭太硬.cc/tv
 
 {
-"spider": "https://file.icve.com.cn/file_doc/933/630/E959D9455533A04AF01A15C4EB1B78EA.jpg;md5;e959d9455533a04af01a15c4eb1b78ea",
+"spider": "https://xiuxiu-pro-new.meitudata.com/posters/2b32255aa9e7a9fd1913c1d0019e2be4.jpg;md5;2cc088afa757ba8bafffcfbab4b73ccc",
 "urls":[
 {"name":"饭太硬","url":"https://www.饭太硬.cc/tv"},
 // {"name":"欧歌","url":"https://m.nxog.top/m"},
