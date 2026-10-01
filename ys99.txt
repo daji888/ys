@@ -34,7 +34,7 @@
 {"name":"tv99","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/daji888/ys/master/tv99.txt"},
 {"name":"tv999","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/daji888/ys/master/tv999.txt"},
 {"name":"tv9","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/daji888/ys/master/tv9.txt","catchup":{"type":"append","source":"&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}"}},
-{"name":"CCSH/IPTV","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/live_lite.m3u"},
+{"name":"CCSH/IPTV","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/live_lite.txt"},
 {"name":"Kimentanm","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u"},
 {"name":"58.210","type":0,"url":"http://58.210.97.102:1234"},
 {"name":"47.119","type":0,"url":"http://47.119.24.76:59093"},
