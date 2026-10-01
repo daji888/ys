@@ -51,7 +51,7 @@
 ],
 
 "rules": [
-{/
+{
     "name": "cdn.ryplay",
     "hosts": [
         "cdn.ryplay"
