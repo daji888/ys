@@ -9,11 +9,6 @@ http://101.35.240.114:88/live.php?id=CCTV5p
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" http-user-agent="iPhone" http-referer="https:/aptv.app/" group-title="收藏频道",CCTV16
 http://101.35.240.114:88/live.php?id=CCTV16
 
-#EXTINF:-1 tvg-id="migu_641886683" tvg-name="migu_641886683" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/516/171/202204010048_1626679603804_H32_1080.webp" group-title="收藏频道",CCTV5体育
-http://47.119.24.76:59093/stream/proxy/migu_641886683.m3u8
-#EXTINF:-1 tvg-id="migu_641886773" tvg-name="migu_641886773" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/516/288/202204010048_1626679712843_H32_1080.webp" group-title="收藏频道",CCTV5+体育赛事
-http://47.119.24.76:59093/stream/proxy/migu_641886773.m3u8
-
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" http-user-agent="AptvPlayer-UA" group-title="央视IPV4",CCTV1
 http://101.35.240.114:88/live.php?id=CCTV1
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" http-user-agent="AptvPlayer-UA" group-title="央视IPV4",CCTV2
