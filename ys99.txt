@@ -43,7 +43,7 @@
 ],
 
 "epgs":[
-{"name":"x2009again","epg":"https://ghproxy.net/https://raw.githubusercontent.com/x2009again/diyp_epg/main/{name}/{date}.json"},
+{"name":"x2009again","epg":"https://ghproxy.net/https://raw.githubusercontent.com/x2009again/diyp_epg/main/name/date.json"},
 {"name":"51zmt","epg":"https://epg.51zmt.top:8001/api/diyp/?ch={name}&date={date}"},
 // {"name":"112114","epg":"https://epg.112114.xyz/?ch={name}&date={date}"},
 // {"name":"erw","epg":"https://api.erw.cc/?ch={name}&date={date}"},
