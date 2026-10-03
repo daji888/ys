@@ -69,7 +69,7 @@
 ],
 
 "lives":[
-{"name":"zb1","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/daji888/ys/master/tv.txt"},
+{"name":"zb1","type":0,"url":"https://wget.la/https://raw.githubusercontent.com/daji888/ys/master/tv.txt"},
 {
     "name": "🔞黄仓国产",
     "type": 0,
