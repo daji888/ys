@@ -50,6 +50,8 @@
 {"name":"51zmt.top:8000","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}
 ],
 
+// "logo": https://wget.la/https://raw.githubusercontent.com/fanmingming/live/main/tv/{name}.png
+
 "rules": [
 {
     "name": "cdn.ryplay",
