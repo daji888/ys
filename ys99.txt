@@ -31,7 +31,7 @@
 ],
 
 "lives":[
-{"name":"tv99","type":0,"url":"https://wget.la/https://raw.githubusercontent.com/daji888/ys/master/tv99.txt","logo": "https://s.102031.xyz/tb1/CCTV/CCTV1.png"},
+{"name":"tv99","type":0,"url":"https://wget.la/https://raw.githubusercontent.com/daji888/ys/master/tv99.txt"},
 {"name":"tv999","type":0,"url":"https://wget.la/https://raw.githubusercontent.com/daji888/ys/master/tv999.txt"},
 {"name":"tv9","type":0,"url":"https://wget.la/https://raw.githubusercontent.com/daji888/ys/master/tv9.txt","catchup":{"type":"append","source":"&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}"}},
 {"name":"CCSH/IPTV","type":0,"url":"https://wget.la/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/live_lite.txt"},
