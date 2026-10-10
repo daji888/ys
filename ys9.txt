@@ -13,7 +13,7 @@
 {"key":"比特影视","name":"🍄比特 ┃ 影视","type":3,"api": "csp_BttwooGuard"},
 {"key":"荐片影视","name":"🥝荐片 ┃ 影视","type":3,"api": "csp_JPJGuard"},
 {"key":"海绵影视","name":"🐬海绵 ┃ 影视","type":3,"api": "csp_HmysGuard"},
-{"key":"苹果影视","name":"🍎苹果 ┃ 影视","type":3,"api": "https://cdn.jsdmirror.com/gh/daji888/ys@master/js/apple.js","searchable": 0},
+{"key":"苹果影视","name":"🍎苹果 ┃ 影视","type":3,"api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox2@main/js/apple.js","searchable": 0},
 {
     "key": "heiliaozy.cc",
     "name": "🔞黑料资源",
