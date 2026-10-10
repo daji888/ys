@@ -31,69 +31,11 @@
     "ext": "https://heiliaozy.cc",
     "playUrl": ""
 },
-{
-    "key": "xiangjiaozyw.com",
-    "name": "🔞香蕉资源",
-    "type": 1,
-    "api": "https://www.xiangjiaozyw.com/api.php/provide/vod/?ac=list",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "original_api": "https://www.xiangjiaozyw.com/api.php/provide/vod",
-    "header": {
-        "User-Agent": "Mozilla/5.0 (Linux; Android 11; SM-G973F) AppleWebKit/537.36",
-        "Accept": "application/json, */*",
-        "Connection": "close"
-    },
-    "ext": "https://www.xiangjiaozyw.com",
-    "playUrl": ""
-},
-{
-    "key": "apidanaizi.com",
-    "name": "🔞-大奶子-",
-    "type": 1,
-    "api": "https://apidanaizi.com/api.php/provide/vod/?ac=list",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "original_api": "https://apidanaizi.com/api.php/provide/vod",
-    "header": {
-        "User-Agent": "Mozilla/5.0 (Linux; Android 11; SM-G973F) AppleWebKit/537.36",
-        "Accept": "application/json, */*",
-        "Connection": "close"
-    },
-    "ext": "https://apidanaizi.com",
-    "playUrl": ""
-},
 {"key":"手机推送","name":"📢手机｜推送","type":3,"api": "csp_PushGuard","searchable":0}
 ],
 
 "lives":[
-{"name":"zb1","type":0,"url":"https://wget.la/https://raw.githubusercontent.com/daji888/ys/master/tv.txt"},
-{
-    "name": "🔞黄仓国产",
-    "type": 0,
-    "url": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/黄色仓库_国产系列.m3u",
-    "timeout": 10
-},
-{
-    "name": "🔞黄仓日韩",
-    "type": 0,
-    "url": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/黄色仓库_日韩系列.m3u",
-    "timeout": 10
-},
-{
-    "name": "🔞madou",
-    "type": 0,
-    "url": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/madou.m3u",
-    "timeout": 10
-},
-{
-    "name": "🔞MissAV",
-    "type": 0,
-    "url": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/vod_missav.m3u",
-    "timeout": 10
-}
+{"name":"zb1","type":0,"url":"https://wget.la/https://raw.githubusercontent.com/daji888/ys/master/tv.txt"}
 ],
 
 "rules": [
