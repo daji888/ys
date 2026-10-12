@@ -3,6 +3,7 @@
 
 {
 "spider": "https://xiuxiu-pro-new.meitudata.com/posters/224984cc747efdb5fb1a529803032e0f.jpg;md5;c9024ccf34209d26eb556c728c3f07fa",
+
 "urls":[
 {"name":"饭太硬","url":"https://www.饭太硬.cc/tv"},
 // {"name":"欧歌","url":"https://m.nxog.top/m"},
@@ -50,8 +51,10 @@
 {"name":"51zmt.top:8000","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}
 ],
 
-// "logo": https://wget.la/https://raw.githubusercontent.com/fanmingming/live/main/tv/{name}.png
-// "logo": https://wget.la/https://raw.githubusercontent.com/vircloud/TVLogo/main/{name}.png
+"livelogos":[
+{"name":"fanmingming","logo": "https://wget.la/https://raw.githubusercontent.com/fanmingming/live/main/tv/{name}.png"},
+{"name":"vircloud","logo": "https://wget.la/https://raw.githubusercontent.com/vircloud/TVLogo/main/{name}.png"}
+],
 
 "rules": [
 {
