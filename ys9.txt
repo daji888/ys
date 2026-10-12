@@ -2,7 +2,7 @@
 //     当前接口：https://www.饭太硬.cc/tv
 
 {
-"spider": "https://xiuxiu-pro-new.meitudata.com/posters/bf8f9691ed0323ead5dc85d44fb9a9fd.jpg;md5;26bd32d068f360c1ec9cca0c636fd4db",
+"spider": "https://xiuxiu-pro-new.meitudata.com/posters/224984cc747efdb5fb1a529803032e0f.jpg;md5;c9024ccf34209d26eb556c728c3f07fa",
 
 "sites":[
 {"key":"豆瓣热播","name":"🤓豆瓣 ┃ 热播","type":3,"api": "csp_DouDouGuard","searchable": 0},
