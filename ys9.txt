@@ -2,14 +2,13 @@
 //     当前接口：https://www.饭太硬.cc/tv
 
 {
-"spider": "https://xiuxiu-pro-new.meitudata.com/posters/224984cc747efdb5fb1a529803032e0f.jpg;md5;c9024ccf34209d26eb556c728c3f07fa",
+"spider": "https://xiuxiu-pro-new.meitudata.com/posters/3c60a3e44d582b5a74fdcab19a150ad5.jpg;md5;aa8d37525617af470b3b8dfc91db8669",
 
 "sites":[
 {"key":"豆瓣热播","name":"🤓豆瓣 ┃ 热播","type":3,"api": "csp_DouDouGuard","searchable": 0},
 {"key":"金牌影视","name":"🥇金牌 ┃ 影视","type":3,"api": "csp_JpysGuard"},
 {"key":"农民影视","name":"🍓农民 ┃ 影视","type":3,"api": "csp_NmyswvGuard"},
 {"key":"瓜子影视","name":"🍉瓜子 ┃ 影视","type":3,"api": "csp_AppgzGuard"},
-{"key":"厂长影视","name":"📔厂长 ┃ 影视","type":3,"api": "csp_NewCzGuard"},
 {"key":"比特影视","name":"🍄比特 ┃ 影视","type":3,"api": "csp_BttwooGuard"},
 {"key":"荐片影视","name":"🥝荐片 ┃ 影视","type":3,"api": "csp_JPJGuard"},
 {"key":"海绵影视","name":"🐬海绵 ┃ 影视","type":3,"api": "csp_HmysGuard"},
