@@ -11,7 +11,7 @@
 {"name":"王二小","url":"https://9280.kstore.vip/aiwex.json"},
 {"name":"南风","url":"https://wget.la/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json"},
 {"name":"Jsnzkpg","url":"https://wget.la/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg"},
-{"name":"ys99","url":"https://wget.la/https://raw.githubusercontent.com/daji888/ys/master/ys9.txt"}
+{"name":"ys9","url":"https://wget.la/https://raw.githubusercontent.com/daji888/ys/master/ys9.txt"}
 ],
 
 "sites":[
@@ -32,7 +32,7 @@
 "lives":[
 {"name":"live9","type":0,"url":"https://wget.la/https://raw.githubusercontent.com/daji888/ys/master/live9.txt"},
 {"name":"live99","type":0,"url":"https://wget.la/https://raw.githubusercontent.com/daji888/ys/master/live99.txt"},
-{"name":"live9","type":0,"url":"https://wget.la/https://raw.githubusercontent.com/daji888/ys/master/live999.txt","catchup":{"type":"append","source":"&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}"}},
+{"name":"live999","type":0,"url":"https://wget.la/https://raw.githubusercontent.com/daji888/ys/master/live999.txt","catchup":{"type":"append","source":"&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}"}},
 {"name":"CCSH/IPTV","type":0,"url":"https://wget.la/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/live_lite.txt"},
 {"name":"Kimentanm","type":0,"url":"https://wget.la/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u"},
 {"name":"58.210","type":0,"url":"http://58.210.97.102:1234"},
